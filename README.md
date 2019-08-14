@@ -39,8 +39,4 @@ This work is licensed under a Attribution-NonCommercial 4.0 International (CC BY
   * You may use the data for research and publish any amount of results;
   * When you publish this data or results you obtained from them, you have to comply with the following:
       * give proper attribution to the data when you use it in new applications, by citing this persistent identifier: DOI
-<<<<<<< HEAD
       * do not use the data for commercial applications without consent.
-=======
-      * do not use the data for commercial applications without consent.
->>>>>>> 17f2cf1d2b23dc6a4acc82317fc4f9ff165ac8d3
