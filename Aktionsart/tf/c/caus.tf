@@ -1,10 +1,13 @@
 @node
+@author=Christian Canu Højgaard
 @coreData=BHSA
 @coreVersion=c
-@description=Causation annotations for verbs
+@description=Causation annotations for Biblical Hebrew verbs
+@status=Complete for Leviticus 17-26. A number of verbs outside those chapters have been annotated based on derivation
+@url=https://github.com/ch-jensen/semantic-roles
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-07-25T13:14:15Z
+@dateWritten=2019-08-12T14:19:51Z
 
 49	caus
 90	caus

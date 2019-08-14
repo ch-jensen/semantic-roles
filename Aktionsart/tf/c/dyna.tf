@@ -1,10 +1,13 @@
 @node
+@author=Christian Canu Højgaard
 @coreData=BHSA
 @coreVersion=c
 @description=Dynamicity annotations for verbs
+@status=Complete for Leviticus 17-26. A number of verbs outside those chapters have been annotated based on derivation
+@url=https://github.com/ch-jensen/semantic-roles
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-07-25T13:13:15Z
+@dateWritten=2019-08-12T14:20:16Z
 
 15	sta
 33	act
