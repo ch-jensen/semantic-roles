@@ -38,5 +38,5 @@ This work is licensed under a Attribution-NonCommercial 4.0 International (CC BY
   * You may use the data to create new software applications;
   * You may use the data for research and publish any amount of results;
   * When you publish this data or results you obtained from them, you have to comply with the following:
-      * give proper attribution to the data when you use it in new applications, by citing this persistent identifier: DOI
+      * give proper attribution to the data when you use it in new applications, by citing this persistent identifier: [![DOI](https://zenodo.org/badge/201926825.svg)](https://zenodo.org/badge/latestdoi/201926825)
       * do not use the data for commercial applications without consent.
