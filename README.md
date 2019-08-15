@@ -5,7 +5,7 @@ This repository contains the Jupyter notebooks and datasets for my ongoing resea
 The research draws on various linguistic theories, including Role and Reference Grammar and Construction Grammar. The analysis of Biblical verbs and their arguments is carried out on the richly annotated database, the ETCBC-database (formerly known as the WIVU database), that is freely available for download. The Python package [Text-Fabric](https://github.com/annotation/text-fabric) is used for querying and extrating the linguistic data. 
 
 ## New TF-features
-The research has so far resulted in two new Text-fabric features that can easily be downloaded in used in other projects (see instructions [here](https://annotation.github.io/text-fabric/Api/App/#incantation):
+The research has so far resulted in two new Text-fabric features that can easily be downloaded for use in other projects (see instructions [here](https://annotation.github.io/text-fabric/Api/App/#incantation):
 
   * *dyna*: An annotation of the dynamicity of the verb (active or stative)
   * *caus*: An annotation of the causativity of the verb (causative or not)
@@ -20,6 +20,7 @@ The order of the notebooks below largely follow the progress of the research and
  2. Semantic roles
     * a. [Volition and Affectedness in Lev 17-26.ipynb](https://nbviewer.jupyter.org/github/ch-jensen/semantic-roles/blob/master/2a_Volition%20and%20Affectedness%20in%20Lev%2017-26.ipynb)
     * b. [Correct Relative phrases.ipynb](https://nbviewer.jupyter.org/github/ch-jensen/semantic-roles/blob/master/2b_Correct%20Relative%20phrases.ipynb)
+    * c. [Instigation in Lev 17-26.ipynb](https://nbviewer.jupyter.org/github/ch-jensen/semantic-roles/blob/master/2c_Instigation%20in%20Lev%2017-26.ipynb)
     
 3. Causatives
     * a. [Morphological causatives in Lev 17-26.ipynb](https://nbviewer.jupyter.org/github/ch-jensen/semantic-roles/blob/master/3a_Morphological%20causatives%20in%20Lev%2017-26.ipynb)
