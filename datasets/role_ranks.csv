@@ -1,0 +1,1828 @@
+,Vol,Inst,Aff,neg,role,new_role,new_rank,rank
+688348,y,y,n,,Agent,Agent,5,5
+688349,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688350,y,y,n,,Agent,Agent,5,5
+688351,y,y,n,,Agent,Agent,5,5
+688352,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688354,y,y,n,,Agent,Agent,5,5
+688355,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688360,y,y,n,,Agent,Agent,5,5
+688358,n,n,n,,Neutral,Neutral,0,0
+688361,y,y,n,,Agent,Agent,5,5
+688364,y,y,n,,Agent,Agent,5,5
+688365,n,n,y,,Patient,Patient,-2,-2
+688369,y,y,n,,Agent,Agent,5,5
+688374,y,y,n,neg,Agent,Frustrative,1,5
+63066,n,n,y,neg,Patient,Neutral,0,-2
+688372,n,n,n,neg,Neutral,Neutral,0,0
+688375,y,y,n,,Agent,Agent,5,5
+688376,n,n,y,,Patient,Patient,-2,-2
+688377,n,n,n,,Neutral,Neutral,0,0
+688378,n,n,n,,Neutral,Neutral,0,0
+688380,n,n,y,,Patient,Patient,-2,-2
+688382,y,y,n,,Agent,Agent,5,5
+688381,n,n,y,,Patient,Patient,-2,-2
+688385,n,n,y,,Patient,Patient,-2,-2
+688386,n,n,n,,Neutral,Neutral,0,0
+688389,y,y,n,,Agent,Agent,5,5
+688390,n,n,y,,Patient,Patient,-2,-2
+688392,y,y,n,,Agent,Agent,5,5
+688391,n,n,y,,Patient,Patient,-2,-2
+688396,y,y,n,,Agent,Agent,5,5
+63109,n,n,y,,Patient,Patient,-2,-2
+688397,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688401,y,y,n,,Agent,Agent,5,5
+688403,n,n,y,,Patient,Patient,-2,-2
+688402,n,n,n,,Neutral,Neutral,0,0
+688406,y,y,n,,Agent,Agent,5,5
+688407,n,n,y,,Patient,Patient,-2,-2
+688408,n,n,n,,Neutral,Neutral,0,0
+688410,y,y,n,,Agent,Agent,5,5
+688411,n,n,y,,Patient,Patient,-2,-2
+688412,n,n,n,,Neutral,Neutral,0,0
+688415,y,y,n,neg,Agent,Frustrative,1,5
+688417,n,n,y,neg,Patient,Neutral,0,-2
+688418,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+688420,y,y,n,,Agent,Agent,5,5
+688422,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688425,n,n,n,,Neutral,Neutral,0,0
+688430,y,y,n,,Agent,Agent,5,5
+688429,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688433,n,n,n,,Neutral,Neutral,0,0
+688434,n,n,n,,Neutral,Neutral,0,0
+688436,y,y,n,,Agent,Agent,5,5
+688437,n,n,y,,Patient,Patient,-2,-2
+688441,y,y,n,neg,Agent,Frustrative,1,5
+63195,n,n,y,neg,Patient,Neutral,0,-2
+688439,n,n,n,neg,Neutral,Neutral,0,0
+688442,y,y,n,,Agent,Agent,5,5
+688443,n,n,y,,Patient,Patient,-2,-2
+688444,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688447,n,n,y,,Patient,Patient,-2,-2
+688452,n,n,y,,Patient,Patient,-2,-2
+688453,n,n,n,,Neutral,Neutral,0,0
+688455,y,y,y,,Affected Agent,Affected Agent,3,3
+688456,n,n,y,,Patient,Patient,-2,-2
+688458,y,y,n,,Agent,Agent,5,5
+688459,n,n,y,,Patient,Patient,-2,-2
+688460,n,n,y,,Patient,Patient,-2,-2
+688462,y,y,y,,Affected Agent,Affected Agent,3,3
+688463,n,n,y,,Patient,Patient,-2,-2
+688465,y,y,n,,Agent,Agent,5,5
+688466,n,n,y,,Patient,Patient,-2,-2
+688467,n,n,n,,Neutral,Neutral,0,0
+688473,y,y,n,,Agent,Agent,5,5
+63254,n,n,y,,Patient,Patient,-2,-2
+688476,n,n,n,,Neutral,Neutral,0,0
+688477,n,y,y,,Instrument,Instrument,2,2
+688478,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688481,n,y,y,,Instrument,Instrument,2,2
+688482,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688485,y,y,n,,Agent,Agent,5,5
+688486,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688487,y,y,y,neg,Affected Agent,Frustrative,1,3
+688490,n,n,y,neg,Patient,Neutral,0,-2
+688492,y,y,y,neg,Affected Agent,Frustrative,1,3
+688498,n,n,y,neg,Patient,Neutral,0,-2
+688494,n,n,y,,Patient,Patient,-2,-2
+688495,n,n,n,,Neutral,Neutral,0,0
+688502,n,n,y,,Patient,Patient,-2,-2
+688503,n,n,n,,Neutral,Neutral,0,0
+688505,y,y,n,,Agent,Agent,5,5
+688506,n,n,y,,Patient,Patient,-2,-2
+688508,n,n,y,,Patient,Patient,-2,-2
+688510,y,y,n,,Agent,Agent,5,5
+688511,n,n,y,,Patient,Patient,-2,-2
+688513,y,y,n,,Agent,Agent,5,5
+63320,n,n,y,,Patient,Patient,-2,-2
+688514,n,n,y,,Patient,Patient,-2,-2
+688521,y,y,n,,Agent,Agent,5,5
+688522,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688525,y,y,y,neg,Affected Agent,Frustrative,1,3
+688523,n,n,y,neg,Patient,Neutral,0,-2
+688530,n,n,y,,Patient,Patient,-2,-2
+688531,y,y,y,,Affected Agent,Affected Agent,3,3
+63349,n,n,y,,Patient,Patient,-2,-2
+688536,y,y,y,,Affected Agent,Affected Agent,3,3
+688537,n,n,y,,Patient,Patient,-2,-2
+688539,y,y,n,,Agent,Agent,5,5
+688540,n,n,y,,Patient,Patient,-2,-2
+688542,y,y,y,,Affected Agent,Affected Agent,3,3
+688543,n,n,n,,Neutral,Neutral,0,0
+688545,n,n,y,,Patient,Patient,-2,-2
+688548,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688552,y,y,n,neg,Agent,Frustrative,1,5
+688556,y,y,n,neg,Agent,Frustrative,1,5
+688554,n,n,y,neg,Patient,Neutral,0,-2
+688558,n,n,y,,Patient,Patient,-2,-2
+688559,n,n,n,,Neutral,Neutral,0,0
+688562,y,y,n,,Agent,Agent,5,5
+688563,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688564,y,y,n,,Agent,Agent,5,5
+688565,y,y,n,,Agent,Agent,5,5
+688566,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688568,y,y,n,,Agent,Agent,5,5
+688569,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688577,y,y,n,neg,Agent,Frustrative,1,5
+688574,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688575,n,n,n,,Neutral,Neutral,0,0
+688586,y,y,n,neg,Agent,Frustrative,1,5
+688581,y,y,n,,Agent,Agent,5,5
+688583,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688584,n,n,n,,Neutral,Neutral,0,0
+688590,y,y,n,neg,Agent,Frustrative,1,5
+688588,n,n,n,neg,Neutral,Neutral,0,0
+688592,y,y,n,,Agent,Agent,5,5
+688591,n,n,n,,Neutral,Neutral,0,0
+688595,y,y,n,,Agent,Agent,5,5
+688594,n,n,n,,Neutral,Neutral,0,0
+688596,y,y,n,,Agent,Agent,5,5
+688597,n,n,n,,Neutral,Neutral,0,0
+688601,y,y,n,,Agent,Agent,5,5
+688602,n,n,n,,Neutral,Neutral,0,0
+688606,y,y,n,,Agent,Agent,5,5
+688605,n,n,n,,Neutral,Neutral,0,0
+688608,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688609,n,n,n,,Neutral,Neutral,0,0
+688615,y,y,y,neg,Affected Agent,Frustrative,1,3
+688613,n,n,n,neg,Neutral,Neutral,0,0
+688616,y,y,n,,Agent,Agent,5,5
+688617,n,n,y,,Patient,Patient,-2,-2
+688622,y,y,n,neg,Agent,Frustrative,1,5
+688620,n,n,y,neg,Patient,Neutral,0,-2
+688626,y,y,n,neg,Agent,Frustrative,1,5
+688627,n,n,y,neg,Patient,Neutral,0,-2
+688630,y,y,n,neg,Agent,Frustrative,1,5
+688628,n,n,y,neg,Patient,Neutral,0,-2
+688635,y,y,n,neg,Agent,Frustrative,1,5
+688636,n,n,y,neg,Patient,Neutral,0,-2
+688639,y,y,n,neg,Agent,Frustrative,1,5
+688640,n,n,y,neg,Patient,Neutral,0,-2
+688648,y,y,n,neg,Agent,Frustrative,1,5
+688649,n,n,y,neg,Patient,Neutral,0,-2
+688652,y,y,n,neg,Agent,Frustrative,1,5
+688650,n,n,y,neg,Patient,Neutral,0,-2
+688657,y,y,n,neg,Agent,Frustrative,1,5
+688655,n,n,y,neg,Patient,Neutral,0,-2
+688663,y,y,n,neg,Agent,Frustrative,1,5
+688661,n,n,y,neg,Patient,Neutral,0,-2
+688666,y,y,y,neg,Affected Agent,Frustrative,1,3
+688664,n,n,n,neg,Neutral,Neutral,0,0
+688671,y,y,n,neg,Agent,Frustrative,1,5
+688669,n,n,y,neg,Patient,Neutral,0,-2
+688675,y,y,n,neg,Agent,Frustrative,1,5
+688676,n,n,y,neg,Patient,Neutral,0,-2
+688679,y,y,n,neg,Agent,Frustrative,1,5
+688677,n,n,y,neg,Patient,Neutral,0,-2
+688684,y,y,n,neg,Agent,Frustrative,1,5
+688682,n,n,y,neg,Patient,Neutral,0,-2
+688687,y,y,y,neg,Affected Agent,Frustrative,1,3
+688685,n,n,y,neg,Patient,Neutral,0,-2
+688688,y,y,n,,Agent,Agent,5,5
+688689,n,n,y,,Patient,Patient,-2,-2
+688698,y,y,y,neg,Affected Agent,Frustrative,1,3
+688695,n,n,y,neg,Patient,Neutral,0,-2
+688696,n,n,y,neg,Patient,Neutral,0,-2
+688699,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688700,y,y,n,,Agent,Agent,5,5
+688701,n,n,y,,Patient,Patient,-2,-2
+688702,n,n,y,,Patient,Patient,-2,-2
+688707,y,y,y,neg,Affected Agent,Frustrative,1,3
+688705,n,n,n,neg,Neutral,Neutral,0,0
+688708,y,y,n,,Agent,Agent,5,5
+688709,n,n,y,,Patient,Patient,-2,-2
+688713,y,y,n,neg,Agent,Frustrative,1,5
+688711,n,n,y,neg,Force,Neutral,0,4
+688714,n,n,y,neg,Patient,Neutral,0,-2
+688715,n,n,y,,Patient,Patient,-2,-2
+688716,n,n,n,,Neutral,Neutral,0,0
+688720,y,y,n,neg,Agent,Frustrative,1,5
+688718,n,n,y,neg,Patient,Neutral,0,-2
+688721,y,y,n,,Agent,Agent,5,5
+688722,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688725,y,y,n,neg,Agent,Frustrative,1,5
+688726,n,n,y,neg,Patient,Neutral,0,-2
+688732,y,y,y,neg,Affected Agent,Frustrative,1,3
+688730,n,n,y,neg,Force,Neutral,0,4
+688739,y,y,n,neg,Agent,Frustrative,1,5
+688737,n,n,y,neg,Patient,Neutral,0,-2
+688740,n,n,y,neg,Patient,Neutral,0,-2
+688741,n,n,y,,Patient,Patient,-2,-2
+688742,n,n,n,,Neutral,Neutral,0,0
+688744,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+688747,n,n,n,neg,Neutral,Neutral,0,0
+688748,y,y,y,,Affected Agent,Affected Agent,3,3
+63686,n,n,y,,Patient,Patient,-2,-2
+688752,y,y,y,neg,Affected Agent,Frustrative,1,3
+688753,n,n,n,neg,Neutral,Neutral,0,0
+688757,n,n,y,,Patient,Patient,-2,-2
+688755,n,n,n,,Neutral,Neutral,0,0
+688759,y,y,n,,Agent,Agent,5,5
+688758,n,n,y,,Patient,Patient,-2,-2
+688761,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688764,n,n,y,,Patient,Patient,-2,-2
+688766,y,y,n,,Agent,Agent,5,5
+688767,n,n,y,,Patient,Patient,-2,-2
+688768,n,n,y,,Patient,Patient,-2,-2
+688771,n,y,n,,Patient,Patient,-2,-2
+688772,n,n,y,,Patient,Patient,-2,-2
+688775,y,y,n,,Agent,Agent,5,5
+688776,n,n,n,,Neutral,Neutral,0,0
+688779,y,y,n,neg,Agent,Frustrative,1,5
+688780,n,n,n,neg,Neutral,Neutral,0,0
+688783,n,n,y,,Patient,Patient,-2,-2
+688784,n,n,n,,Neutral,Neutral,0,0
+688788,y,y,n,,Agent,Agent,5,5
+688786,n,n,n,,Neutral,Neutral,0,0
+688793,n,n,y,,Patient,Patient,-2,-2
+688797,n,y,n,neg,Patient,Neutral,0,-2
+688798,n,n,y,neg,Patient,Neutral,0,-2
+688799,y,y,n,,Agent,Agent,5,5
+688800,n,n,y,,Patient,Patient,-2,-2
+688802,n,y,n,,Patient,Patient,-2,-2
+688803,n,n,y,,Patient,Patient,-2,-2
+688809,y,y,n,,Agent,Agent,5,5
+688810,n,n,n,,Neutral,Neutral,0,0
+688813,n,n,y,,Patient,Patient,-2,-2
+688816,n,n,n,,Neutral,Neutral,0,0
+688815,y,y,n,,Agent,Agent,5,5
+688818,y,y,n,,Agent,Agent,5,5
+688819,n,n,n,,Neutral,Neutral,0,0
+688820,y,y,n,neg,Agent,Frustrative,1,5
+688821,n,n,n,neg,Neutral,Neutral,0,0
+688823,n,n,n,,Neutral,Neutral,0,0
+688824,n,n,n,,Neutral,Neutral,0,0
+688827,y,y,y,neg,Affected Agent,Frustrative,1,3
+688828,n,n,n,neg,Neutral,Neutral,0,0
+688833,y,y,n,,Agent,Agent,5,5
+688834,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688835,y,y,n,,Agent,Agent,5,5
+688836,y,y,n,,Agent,Agent,5,5
+688837,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688839,y,y,n,,Agent,Agent,5,5
+688840,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688842,n,n,y,,Patient,Patient,-2,-2
+688848,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688847,n,n,n,,Neutral,Neutral,0,0
+688851,y,y,n,,Agent,Agent,5,5
+688850,n,n,n,,Neutral,Neutral,0,0
+688855,y,y,y,neg,Affected Agent,Frustrative,1,3
+688856,n,n,n,neg,Neutral,Neutral,0,0
+688860,y,y,n,neg,Agent,Frustrative,1,5
+688858,n,n,n,neg,Neutral,Neutral,0,0
+688861,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+688866,y,y,n,,Agent,Agent,5,5
+688867,n,n,y,,Patient,Patient,-2,-2
+688868,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688870,y,y,n,,Agent,Agent,5,5
+63881,n,n,y,,Patient,Patient,-2,-2
+688872,n,n,y,,Patient,Patient,-2,-2
+688880,n,n,y,,Patient,Patient,-2,-2
+688879,n,n,y,,Patient,Patient,-2,-2
+688877,n,n,y,,Patient,Patient,-2,-2
+688884,n,n,y,,Patient,Patient,-2,-2
+688889,n,n,y,neg,Patient,Neutral,0,-2
+688893,n,n,y,,Patient,Patient,-2,-2
+688892,n,n,n,,Neutral,Neutral,0,0
+688891,y,y,y,,Affected Agent,Affected Agent,3,3
+63914,n,n,y,,Patient,Patient,-2,-2
+688896,y,y,n,,Agent,Agent,5,5
+688895,n,n,y,,Patient,Patient,-2,-2
+688899,n,n,y,,Patient,Patient,-2,-2
+688905,y,y,n,neg,Agent,Frustrative,1,5
+688906,n,n,y,neg,Patient,Neutral,0,-2
+688902,y,y,y,,Affected Agent,Affected Agent,3,3
+688903,n,n,y,,Patient,Patient,-2,-2
+688907,y,y,y,,Affected Agent,Affected Agent,3,3
+688911,y,y,y,neg,Affected Agent,Frustrative,1,3
+688909,n,n,y,neg,Patient,Neutral,0,-2
+688915,y,y,y,neg,Affected Agent,Frustrative,1,3
+688913,n,n,y,neg,Patient,Neutral,0,-2
+688919,y,y,y,neg,Affected Agent,Frustrative,1,3
+688917,n,n,y,neg,Patient,Neutral,0,-2
+688921,y,y,n,,Agent,Agent,5,5
+688922,n,n,y,,Patient,Patient,-2,-2
+688920,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688926,y,y,n,neg,Agent,Frustrative,1,5
+688929,y,y,n,neg,Agent,Frustrative,1,5
+688932,y,y,n,neg,Agent,Frustrative,1,5
+688937,y,y,n,neg,Agent,Frustrative,1,5
+688938,n,n,y,neg,Patient,Neutral,0,-2
+688941,y,y,n,,Agent,Agent,5,5
+688942,n,n,y,,Patient,Patient,-2,-2
+688946,y,y,n,neg,Agent,Frustrative,1,5
+688947,n,n,y,neg,Patient,Neutral,0,-2
+688950,y,y,n,neg,Agent,Frustrative,1,5
+688953,n,n,y,neg,Patient,Neutral,0,-2
+688954,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+688957,y,y,n,neg,Agent,Frustrative,1,5
+688958,n,n,y,neg,Patient,Neutral,0,-2
+688962,y,y,n,neg,Agent,Frustrative,1,5
+688963,n,n,y,neg,Patient,Neutral,0,-2
+688960,n,n,y,neg,Patient,Neutral,0,-2
+688965,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688966,n,n,n,,Neutral,Neutral,0,0
+688970,y,y,n,neg,Agent,Frustrative,1,5
+688971,n,n,n,neg,Neutral,Neutral,0,0
+688974,y,y,n,neg,Agent,Frustrative,1,5
+688975,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+688978,y,y,n,neg,Agent,Frustrative,1,5
+688979,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+688981,y,y,n,,Agent,Agent,5,5
+688982,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+688984,y,y,n,neg,Agent,Frustrative,1,5
+688986,n,n,n,neg,Neutral,Neutral,0,0
+688988,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+688989,n,n,y,neg,Patient,Neutral,0,-2
+688993,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+688994,n,n,n,neg,Neutral,Neutral,0,0
+688997,y,y,n,,Agent,Agent,5,5
+688998,n,n,y,,Patient,Patient,-2,-2
+689001,n,n,y,neg,Patient,Neutral,0,-2
+689003,n,n,n,neg,Neutral,Neutral,0,0
+689002,n,n,n,neg,Neutral,Neutral,0,0
+689005,y,y,n,neg,Agent,Frustrative,1,5
+689008,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+689009,n,n,n,neg,Neutral,Neutral,0,0
+689011,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689012,n,n,n,,Neutral,Neutral,0,0
+689017,y,y,n,,Agent,Agent,5,5
+689016,n,n,n,,Neutral,Neutral,0,0
+689020,y,y,n,neg,Agent,Frustrative,1,5
+689018,n,n,y,neg,Patient,Neutral,0,-2
+689024,y,y,n,neg,Agent,Frustrative,1,5
+689022,n,n,n,neg,Neutral,Neutral,0,0
+689027,n,y,y,neg,Instrument,Patient,-2,2
+689030,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+689034,y,y,y,,Affected Agent,Affected Agent,3,3
+689036,n,n,y,,Patient,Patient,-2,-2
+689035,n,n,y,,Force,Force,4,4
+689040,n,n,y,,Patient,Patient,-2,-2
+689045,n,n,y,neg,Patient,Neutral,0,-2
+689047,n,n,n,neg,Neutral,Neutral,0,0
+689050,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+689052,n,n,n,,Neutral,Neutral,0,0
+689054,n,n,y,neg,Patient,Neutral,0,-2
+689057,n,n,y,neg,Patient,Neutral,0,-2
+689059,y,y,n,,Agent,Agent,5,5
+689060,n,n,y,,Patient,Patient,-2,-2
+689061,n,n,n,,Neutral,Neutral,0,0
+689065,y,y,n,,Agent,Agent,5,5
+689064,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689066,n,n,y,,Patient,Patient,-2,-2
+689070,y,y,n,,Agent,Agent,5,5
+689069,n,n,n,,Neutral,Neutral,0,0
+689073,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689074,n,n,n,,Neutral,Neutral,0,0
+689076,y,y,n,,Agent,Agent,5,5
+689075,n,n,n,,Neutral,Neutral,0,0
+689079,y,y,y,,Affected Agent,Affected Agent,3,3
+689080,n,n,n,,Neutral,Neutral,0,0
+689082,y,y,n,,Agent,Agent,5,5
+689083,n,n,n,,Neutral,Neutral,0,0
+689085,y,y,n,,Agent,Agent,5,5
+689086,n,n,y,,Patient,Patient,-2,-2
+689087,n,n,y,,Patient,Patient,-2,-2
+689089,n,n,y,,Patient,Patient,-2,-2
+689090,n,n,n,,Neutral,Neutral,0,0
+689093,n,n,y,neg,Patient,Neutral,0,-2
+689097,n,n,y,,Patient,Patient,-2,-2
+689103,y,y,y,,Affected Agent,Affected Agent,3,3
+689104,n,n,y,,Patient,Patient,-2,-2
+689105,y,y,n,,Agent,Agent,5,5
+689107,n,n,y,,Patient,Patient,-2,-2
+689106,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689111,y,y,y,neg,Affected Agent,Frustrative,1,3
+689112,n,n,y,neg,Patient,Neutral,0,-2
+689114,y,y,n,neg,Agent,Frustrative,1,5
+689117,y,y,n,neg,Agent,Frustrative,1,5
+689119,y,y,n,neg,Agent,Frustrative,1,5
+689120,n,n,y,neg,Patient,Neutral,0,-2
+689123,y,y,n,neg,Agent,Frustrative,1,5
+689124,n,n,y,neg,Patient,Neutral,0,-2
+689128,y,y,n,neg,Agent,Frustrative,1,5
+689126,n,n,y,neg,Patient,Neutral,0,-2
+689129,n,n,y,neg,Patient,Neutral,0,-2
+689133,y,y,n,neg,Agent,Frustrative,1,5
+689131,n,n,y,neg,Patient,Neutral,0,-2
+689134,n,n,y,neg,Patient,Neutral,0,-2
+689138,y,y,n,neg,Agent,Frustrative,1,5
+689139,n,n,y,neg,Patient,Neutral,0,-2
+689140,y,y,n,,Agent,Agent,5,5
+64261,n,n,y,,Patient,Patient,-2,-2
+689144,n,y,n,neg,Patient,Neutral,0,-2
+689147,n,n,y,,Patient,Patient,-2,-2
+689148,n,n,n,,Neutral,Neutral,0,0
+689150,y,y,n,,Agent,Agent,5,5
+689149,n,n,n,,Neutral,Neutral,0,0
+689153,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689152,n,n,n,,Neutral,Neutral,0,0
+689157,y,y,y,neg,Affected Agent,Frustrative,1,3
+689158,n,n,n,neg,Neutral,Neutral,0,0
+689162,y,y,y,neg,Affected Agent,Frustrative,1,3
+689160,n,n,n,neg,Neutral,Neutral,0,0
+689163,n,n,y,,Patient,Patient,-2,-2
+689164,n,n,n,,Neutral,Neutral,0,0
+689168,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689167,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689170,y,y,n,,Agent,Agent,5,5
+689171,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689173,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689174,n,n,n,,Neutral,Neutral,0,0
+689181,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689180,n,n,n,,Neutral,Neutral,0,0
+689184,y,y,n,neg,Agent,Frustrative,1,5
+689185,n,n,y,neg,Patient,Neutral,0,-2
+689189,n,n,y,,Patient,Patient,-2,-2
+689188,n,n,n,,Neutral,Neutral,0,0
+689191,n,n,y,,Patient,Patient,-2,-2
+689192,n,n,n,,Neutral,Neutral,0,0
+689194,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689195,n,n,n,,Neutral,Neutral,0,0
+689199,n,n,y,,Patient,Patient,-2,-2
+689200,n,n,n,,Neutral,Neutral,0,0
+689204,y,y,n,neg,Agent,Frustrative,1,5
+689205,n,n,n,neg,Neutral,Neutral,0,0
+689206,n,n,y,neg,Patient,Neutral,0,-2
+689207,n,n,n,,Neutral,Neutral,0,0
+689213,y,y,n,,Agent,Agent,5,5
+689214,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689215,n,n,n,,Neutral,Neutral,0,0
+689217,y,y,n,,Agent,Agent,5,5
+689218,n,n,n,,Neutral,Neutral,0,0
+689220,y,y,n,,Agent,Agent,5,5
+689221,n,n,n,,Neutral,Neutral,0,0
+689226,y,y,n,,Agent,Agent,5,5
+689227,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689228,y,y,n,,Agent,Agent,5,5
+689231,y,y,n,,Agent,Agent,5,5
+689230,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689232,n,n,y,,Patient,Patient,-2,-2
+689234,n,n,y,,Patient,Patient,-2,-2
+689235,n,n,n,,Neutral,Neutral,0,0
+689237,y,y,n,,Agent,Agent,5,5
+689238,n,n,y,,Patient,Patient,-2,-2
+689239,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689242,y,y,n,,Agent,Agent,5,5
+64431,n,n,y,,Patient,Patient,-2,-2
+689244,n,n,y,,Patient,Patient,-2,-2
+689246,y,y,n,,Agent,Agent,5,5
+689248,n,n,y,,Patient,Patient,-2,-2
+689249,n,n,y,,Patient,Patient,-2,-2
+689251,y,y,n,,Agent,Agent,5,5
+689252,n,n,y,,Patient,Patient,-2,-2
+689253,n,n,n,,Neutral,Neutral,0,0
+689256,y,y,n,,Agent,Agent,5,5
+689255,n,n,y,,Patient,Patient,-2,-2
+689257,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689258,y,y,n,,Agent,Agent,5,5
+689259,n,n,y,,Patient,Patient,-2,-2
+689261,y,y,n,,Agent,Agent,5,5
+689262,n,n,y,,Patient,Patient,-2,-2
+689267,y,y,n,,Agent,Agent,5,5
+689268,n,n,y,,Patient,Patient,-2,-2
+689269,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689270,y,y,n,,Agent,Agent,5,5
+689271,n,n,y,,Patient,Patient,-2,-2
+689272,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689273,y,y,n,neg,Agent,Frustrative,1,5
+689274,n,n,y,neg,Patient,Neutral,0,-2
+689277,y,y,n,,Agent,Agent,5,5
+689278,n,n,y,,Patient,Patient,-2,-2
+689279,n,n,y,,Patient,Patient,-2,-2
+689281,y,y,n,,Agent,Agent,5,5
+689282,n,n,y,,Patient,Patient,-2,-2
+689288,n,n,n,,Neutral,Neutral,0,0
+689284,y,y,n,,Agent,Agent,5,5
+689285,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689286,y,y,n,,Agent,Agent,5,5
+689287,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689292,y,y,y,,Affected Agent,Affected Agent,3,3
+689293,n,n,n,,Neutral,Neutral,0,0
+689294,y,y,n,,Agent,Agent,5,5
+689295,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689297,y,y,n,,Agent,Agent,5,5
+689298,n,n,y,,Patient,Patient,-2,-2
+689299,n,n,y,,Patient,Patient,-2,-2
+689301,y,y,n,,Agent,Agent,5,5
+689302,n,n,y,,Patient,Patient,-2,-2
+689303,n,n,n,,Neutral,Neutral,0,0
+689305,y,y,y,,Affected Agent,Affected Agent,3,3
+689307,n,n,y,,Patient,Patient,-2,-2
+689313,y,y,n,,Agent,Agent,5,5
+689314,n,n,n,,Neutral,Neutral,0,0
+689316,y,y,n,,Agent,Agent,5,5
+689317,n,n,n,,Neutral,Neutral,0,0
+689320,y,y,n,,Agent,Agent,5,5
+64571,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689322,n,n,y,,Patient,Patient,-2,-2
+689324,y,y,n,,Agent,Agent,5,5
+689325,n,n,y,,Patient,Patient,-2,-2
+689329,y,y,n,,Agent,Agent,5,5
+689328,n,n,y,,Patient,Patient,-2,-2
+689335,y,y,y,,Affected Agent,Affected Agent,3,3
+689336,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689338,y,y,y,,Affected Agent,Affected Agent,3,3
+689339,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689342,n,n,y,,Patient,Patient,-2,-2
+689344,y,y,n,,Agent,Agent,5,5
+689348,n,n,y,,Patient,Patient,-2,-2
+689346,y,y,y,,Affected Agent,Affected Agent,3,3
+689347,n,n,y,,Force,Force,4,4
+689352,n,n,y,,Patient,Patient,-2,-2
+689358,y,y,y,,Affected Agent,Affected Agent,3,3
+689359,n,n,y,,Force,Force,4,4
+689362,n,n,y,,Patient,Patient,-2,-2
+689364,y,y,n,,Agent,Agent,5,5
+689363,n,n,n,,Neutral,Neutral,0,0
+689370,y,y,y,,Affected Agent,Affected Agent,3,3
+689371,n,n,y,,Force,Force,4,4
+689372,n,n,n,,Neutral,Neutral,0,0
+689375,y,y,n,,Agent,Agent,5,5
+689373,n,n,n,,Neutral,Neutral,0,0
+689377,n,n,y,,Patient,Patient,-2,-2
+689383,y,y,y,,Affected Agent,Affected Agent,3,3
+689384,n,n,y,,Patient,Patient,-2,-2
+689388,y,y,n,,Agent,Agent,5,5
+689389,n,n,y,,Patient,Patient,-2,-2
+689387,n,n,y,,Patient,Patient,-2,-2
+689393,n,n,n,neg,Neutral,Neutral,0,0
+689396,n,n,y,,Patient,Patient,-2,-2
+689398,y,y,n,,Agent,Agent,5,5
+689399,n,n,y,,Patient,Patient,-2,-2
+689400,n,n,y,,Patient,Patient,-2,-2
+689405,y,y,n,,Agent,Agent,5,5
+689404,n,n,y,,Patient,Patient,-2,-2
+689409,y,y,y,,Affected Agent,Affected Agent,3,3
+689410,n,n,n,,Neutral,Neutral,0,0
+689411,y,y,y,,Affected Agent,Affected Agent,3,3
+689412,n,n,y,,Patient,Patient,-2,-2
+689414,y,y,n,,Agent,Agent,5,5
+689415,n,n,y,,Patient,Patient,-2,-2
+689417,n,n,y,,Patient,Patient,-2,-2
+689423,y,y,y,,Affected Agent,Affected Agent,3,3
+689424,n,n,y,,Patient,Patient,-2,-2
+689426,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689427,n,n,n,,Neutral,Neutral,0,0
+689429,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689431,n,n,n,,Neutral,Neutral,0,0
+689435,n,n,y,,Patient,Patient,-2,-2
+689438,y,y,n,,Agent,Agent,5,5
+689437,n,n,y,,Patient,Patient,-2,-2
+689440,n,n,y,,Patient,Patient,-2,-2
+689439,n,n,n,,Neutral,Neutral,0,0
+689444,y,y,y,,Affected Agent,Affected Agent,3,3
+689445,n,n,y,,Force,Force,4,4
+689447,y,y,n,,Agent,Agent,5,5
+689448,n,n,y,,Patient,Patient,-2,-2
+689450,y,y,n,,Agent,Agent,5,5
+689449,n,n,y,,Patient,Patient,-2,-2
+689452,y,y,n,,Agent,Agent,5,5
+689454,n,n,y,,Patient,Patient,-2,-2
+689457,n,n,y,,Patient,Patient,-2,-2
+689462,y,y,n,neg,Agent,Frustrative,1,5
+689460,n,n,y,neg,Patient,Neutral,0,-2
+689465,y,y,n,,Agent,Agent,5,5
+689464,n,n,y,,Patient,Patient,-2,-2
+689467,n,n,y,,Patient,Patient,-2,-2
+689466,n,n,n,,Neutral,Neutral,0,0
+689471,y,y,y,,Affected Agent,Affected Agent,3,3
+689472,n,n,y,,Force,Force,4,4
+689474,y,y,n,,Agent,Agent,5,5
+689473,n,n,y,,Patient,Patient,-2,-2
+689476,n,n,y,,Patient,Patient,-2,-2
+689475,n,n,n,,Neutral,Neutral,0,0
+689478,n,n,y,,Patient,Patient,-2,-2
+689482,y,y,y,,Affected Agent,Affected Agent,3,3
+689483,n,n,y,,Patient,Patient,-2,-2
+689487,y,y,n,,Agent,Agent,5,5
+689486,n,n,y,,Patient,Patient,-2,-2
+689489,n,n,y,,Patient,Patient,-2,-2
+689491,y,y,n,,Agent,Agent,5,5
+689492,n,n,n,,Neutral,Neutral,0,0
+689494,y,y,n,,Agent,Agent,5,5
+689495,n,n,n,,Neutral,Neutral,0,0
+689500,n,y,n,neg,Patient,Neutral,0,-2
+689499,n,n,y,neg,Patient,Neutral,0,-2
+689502,y,y,n,,Agent,Agent,5,5
+689504,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689505,n,n,n,,Neutral,Neutral,0,0
+689506,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689507,n,n,n,,Neutral,Neutral,0,0
+689510,y,y,n,neg,Agent,Frustrative,1,5
+689511,n,n,n,neg,Neutral,Neutral,0,0
+689513,y,y,n,,Agent,Agent,5,5
+689512,n,n,y,,Patient,Patient,-2,-2
+689515,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689518,y,y,n,,Agent,Agent,5,5
+689517,n,n,n,,Neutral,Neutral,0,0
+689520,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689521,n,n,n,,Neutral,Neutral,0,0
+689523,y,y,n,,Agent,Agent,5,5
+689524,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689525,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689527,n,n,y,,Patient,Patient,-2,-2
+689529,y,y,n,,Agent,Agent,5,5
+64869,n,n,y,,Patient,Patient,-2,-2
+689531,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689532,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689533,n,n,y,,Patient,Patient,-2,-2
+689537,y,y,n,,Agent,Agent,5,5
+689538,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689539,n,n,n,,Neutral,Neutral,0,0
+689541,y,y,y,,Affected Agent,Affected Agent,3,3
+689542,n,n,n,,Neutral,Neutral,0,0
+689543,n,n,n,,Neutral,Neutral,0,0
+689549,y,y,n,neg,Agent,Frustrative,1,5
+689550,n,n,y,neg,Patient,Neutral,0,-2
+689551,n,n,n,neg,Neutral,Neutral,0,0
+689553,n,y,n,,Force,Force,4,4
+689554,n,n,n,,Neutral,Neutral,0,0
+689556,y,y,n,,Agent,Agent,5,5
+689555,n,n,y,,Patient,Patient,-2,-2
+689557,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689558,y,y,y,,Affected Agent,Affected Agent,3,3
+689560,n,n,y,,Patient,Patient,-2,-2
+689561,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689567,y,y,n,,Agent,Agent,5,5
+689568,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689569,n,n,n,,Neutral,Neutral,0,0
+689570,n,n,y,,Patient,Patient,-2,-2
+689577,n,n,y,,Patient,Patient,-2,-2
+689579,n,n,y,,Patient,Patient,-2,-2
+689581,y,y,n,,Agent,Agent,5,5
+689582,n,n,y,,Patient,Patient,-2,-2
+689580,n,n,y,,Patient,Patient,-2,-2
+689587,y,y,n,,Agent,Agent,5,5
+689588,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689589,y,y,n,,Agent,Agent,5,5
+689590,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689592,y,y,n,,Agent,Agent,5,5
+689593,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689596,y,y,y,neg,Affected Agent,Frustrative,1,3
+689594,n,n,n,neg,Neutral,Neutral,0,0
+689609,n,n,y,neg,Patient,Neutral,0,-2
+689613,y,y,y,,Affected Agent,Affected Agent,3,3
+689612,n,n,n,,Neutral,Neutral,0,0
+689615,y,y,y,neg,Affected Agent,Frustrative,1,3
+689618,n,n,y,,Patient,Patient,-2,-2
+689620,y,y,n,neg,Agent,Frustrative,1,5
+689621,n,n,n,neg,Neutral,Neutral,0,0
+689622,n,n,y,neg,Patient,Neutral,0,-2
+689626,y,y,n,neg,Agent,Frustrative,1,5
+689624,n,n,y,neg,Patient,Neutral,0,-2
+689630,y,y,n,neg,Agent,Frustrative,1,5
+689631,n,n,n,neg,Neutral,Neutral,0,0
+689628,n,n,y,neg,Patient,Neutral,0,-2
+689633,n,n,y,,Patient,Patient,-2,-2
+689634,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689637,y,y,n,neg,Agent,Frustrative,1,5
+689638,n,n,y,neg,Patient,Neutral,0,-2
+689641,y,y,n,,Agent,Agent,5,5
+689640,n,n,y,,Patient,Patient,-2,-2
+689644,n,n,y,,Patient,Patient,-2,-2
+689648,y,y,y,neg,Affected Agent,Frustrative,1,3
+689646,n,n,y,neg,Patient,Neutral,0,-2
+689654,y,y,y,neg,Affected Agent,Frustrative,1,3
+689650,n,n,y,neg,Patient,Neutral,0,-2
+689651,n,y,y,,Instrument,Instrument,2,2
+689652,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689660,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+65085,n,n,n,,Neutral,Neutral,0,0
+689663,y,y,n,,Agent,Agent,5,5
+689662,n,n,y,,Patient,Patient,-2,-2
+689666,n,n,y,,Patient,Patient,-2,-2
+689667,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689671,y,y,n,,Agent,Agent,5,5
+65099,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689675,y,y,n,,Agent,Agent,5,5
+689676,y,y,n,,Agent,Agent,5,5
+689678,y,y,n,,Agent,Agent,5,5
+689677,n,n,y,,Patient,Patient,-2,-2
+689681,n,n,y,,Patient,Patient,-2,-2
+689680,n,n,y,,Patient,Patient,-2,-2
+689690,n,n,y,,Patient,Patient,-2,-2
+689689,n,n,n,,Neutral,Neutral,0,0
+689692,y,y,n,,Agent,Agent,5,5
+689693,n,n,y,,Patient,Patient,-2,-2
+689694,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689695,n,n,y,,Patient,Patient,-2,-2
+689698,y,y,n,neg,Agent,Frustrative,1,5
+689696,n,n,y,neg,Patient,Neutral,0,-2
+689702,y,y,n,neg,Agent,Frustrative,1,5
+689700,n,n,y,neg,Patient,Neutral,0,-2
+689706,y,y,y,neg,Affected Agent,Frustrative,1,3
+689704,n,n,n,neg,Neutral,Neutral,0,0
+689709,y,y,y,neg,Affected Agent,Frustrative,1,3
+689707,n,n,n,neg,Neutral,Neutral,0,0
+689713,y,y,y,neg,Affected Agent,Frustrative,1,3
+689711,n,n,n,neg,Neutral,Neutral,0,0
+689716,y,y,n,neg,Agent,Frustrative,1,5
+689717,n,n,y,neg,Patient,Neutral,0,-2
+689724,y,y,y,,Affected Agent,Affected Agent,3,3
+689725,n,n,y,,Patient,Patient,-2,-2
+689730,y,y,y,neg,Affected Agent,Frustrative,1,3
+689728,n,n,y,neg,Patient,Neutral,0,-2
+689733,y,y,y,,Affected Agent,Affected Agent,3,3
+689732,n,n,y,,Patient,Patient,-2,-2
+689734,n,n,n,,Neutral,Neutral,0,0
+689737,y,y,n,neg,Agent,Frustrative,1,5
+689738,n,n,y,neg,Patient,Neutral,0,-2
+689739,n,n,n,neg,Neutral,Neutral,0,0
+689743,y,y,n,,Agent,Agent,5,5
+65213,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689746,y,y,n,,Agent,Agent,5,5
+689747,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689748,y,y,n,,Agent,Agent,5,5
+689749,y,y,n,,Agent,Agent,5,5
+689750,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689751,y,y,n,,Agent,Agent,5,5
+689752,y,y,y,neg,Affected Agent,Frustrative,1,3
+689756,n,n,n,,Neutral,Neutral,0,0
+689759,y,y,n,,Agent,Agent,5,5
+689760,n,n,y,,Patient,Patient,-2,-2
+689762,y,y,y,neg,Affected Agent,Frustrative,1,3
+689773,n,n,n,,Neutral,Neutral,0,0
+689776,y,y,y,neg,Affected Agent,Frustrative,1,3
+689782,y,y,n,,Agent,Agent,5,5
+689783,n,n,y,,Patient,Patient,-2,-2
+689788,y,y,y,neg,Affected Agent,Frustrative,1,3
+689786,n,n,n,neg,Neutral,Neutral,0,0
+689789,y,y,n,,Agent,Agent,5,5
+689791,y,y,y,,Affected Agent,Affected Agent,3,3
+689790,n,n,y,,Patient,Patient,-2,-2
+689794,y,y,y,neg,Affected Agent,Frustrative,1,3
+689792,n,n,n,neg,Neutral,Neutral,0,0
+689798,y,y,y,neg,Affected Agent,Frustrative,1,3
+689796,n,n,n,neg,Neutral,Neutral,0,0
+689804,y,y,n,neg,Agent,Frustrative,1,5
+689805,n,n,y,neg,Patient,Neutral,0,-2
+689809,y,y,n,,Agent,Agent,5,5
+65342,n,n,y,,Patient,Patient,-2,-2
+689812,y,y,n,,Agent,Agent,5,5
+689813,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689816,y,y,n,,Agent,Agent,5,5
+689817,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689818,y,y,n,,Agent,Agent,5,5
+689819,y,y,n,,Agent,Agent,5,5
+689820,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689822,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689823,n,n,n,,Neutral,Neutral,0,0
+689826,y,y,n,neg,Agent,Frustrative,1,5
+689827,n,n,y,neg,Patient,Neutral,0,-2
+689829,y,y,n,,Agent,Agent,5,5
+689828,n,n,y,,Patient,Patient,-2,-2
+689831,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689834,y,y,n,,Agent,Agent,5,5
+689835,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689839,y,y,y,,Affected Agent,Affected Agent,3,3
+689841,n,n,n,,Neutral,Neutral,0,0
+689844,y,y,n,,Agent,Agent,5,5
+689842,n,n,y,,Patient,Patient,-2,-2
+689845,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689851,n,n,y,,Patient,Patient,-2,-2
+689855,y,y,y,neg,Affected Agent,Frustrative,1,3
+689861,n,n,y,neg,Patient,Neutral,0,-2
+689857,n,n,y,,Patient,Patient,-2,-2
+689860,n,n,y,,Patient,Patient,-2,-2
+689865,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689868,y,y,y,,Affected Agent,Affected Agent,3,3
+689869,n,n,n,,Neutral,Neutral,0,0
+689875,n,y,y,,Instrument,Instrument,2,2
+689874,n,n,y,,Patient,Patient,-2,-2
+689879,y,y,y,,Affected Agent,Affected Agent,3,3
+689880,n,n,n,,Neutral,Neutral,0,0
+689882,n,n,y,,Patient,Patient,-2,-2
+689883,n,n,n,,Neutral,Neutral,0,0
+689885,n,n,y,,Patient,Patient,-2,-2
+689886,n,n,n,,Neutral,Neutral,0,0
+689890,y,y,y,,Affected Agent,Affected Agent,3,3
+689891,n,n,n,,Neutral,Neutral,0,0
+689893,n,n,y,,Patient,Patient,-2,-2
+689897,y,y,y,neg,Affected Agent,Frustrative,1,3
+689898,n,n,y,neg,Patient,Neutral,0,-2
+689900,y,y,n,,Agent,Agent,5,5
+689901,n,n,y,,Patient,Patient,-2,-2
+689902,n,n,n,,Neutral,Neutral,0,0
+689905,n,y,n,,Patient,Patient,-2,-2
+689907,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689910,y,y,y,,Affected Agent,Affected Agent,3,3
+689911,n,n,y,,Patient,Patient,-2,-2
+689917,y,y,y,neg,Affected Agent,Frustrative,1,3
+689915,n,n,y,neg,Patient,Neutral,0,-2
+689918,n,n,y,,Patient,Patient,-2,-2
+689919,n,n,n,,Neutral,Neutral,0,0
+689923,y,y,n,,Agent,Agent,5,5
+689924,n,n,n,,Neutral,Neutral,0,0
+689927,n,n,y,neg,Patient,Neutral,0,-2
+689928,n,n,n,neg,Neutral,Neutral,0,0
+689929,n,n,n,neg,Neutral,Neutral,0,0
+689931,n,n,y,,Patient,Patient,-2,-2
+689932,n,n,n,,Neutral,Neutral,0,0
+689934,y,y,n,,Agent,Agent,5,5
+65532,n,n,y,,Patient,Patient,-2,-2
+689937,y,y,n,,Agent,Agent,5,5
+65535,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+689939,y,y,y,neg,Affected Agent,Frustrative,1,3
+689942,n,n,y,neg,Patient,Neutral,0,-2
+689943,y,y,y,neg,Affected Agent,Frustrative,1,3
+689946,n,n,y,neg,Patient,Neutral,0,-2
+689950,y,y,y,,Affected Agent,Affected Agent,3,3
+689951,n,n,y,,Patient,Patient,-2,-2
+689953,y,y,y,,Affected Agent,Affected Agent,3,3
+689955,n,n,y,,Patient,Patient,-2,-2
+689958,y,y,y,,Affected Agent,Affected Agent,3,3
+689960,n,n,y,,Patient,Patient,-2,-2
+689964,n,n,y,,Patient,Patient,-2,-2
+689966,y,y,y,neg,Affected Agent,Frustrative,1,3
+689967,n,n,y,neg,Patient,Neutral,0,-2
+689971,y,y,y,,Affected Agent,Affected Agent,3,3
+689983,n,n,y,,Patient,Patient,-2,-2
+689973,n,n,y,,Patient,Patient,-2,-2
+689980,y,y,y,,Affected Agent,Affected Agent,3,3
+689981,n,n,n,,Neutral,Neutral,0,0
+689986,y,y,y,neg,Affected Agent,Frustrative,1,3
+689989,n,n,y,neg,Patient,Neutral,0,-2
+689993,y,y,y,,Affected Agent,Affected Agent,3,3
+689994,n,n,y,,Patient,Patient,-2,-2
+689997,y,y,n,,Agent,Agent,5,5
+689998,n,n,y,,Patient,Patient,-2,-2
+689999,n,n,y,,Patient,Patient,-2,-2
+690001,y,y,n,,Agent,Agent,5,5
+690002,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690003,n,n,y,,Patient,Patient,-2,-2
+690006,y,y,n,neg,Agent,Frustrative,1,5
+690007,n,n,y,neg,Patient,Neutral,0,-2
+690009,y,y,n,,Agent,Agent,5,5
+690008,n,n,y,,Patient,Patient,-2,-2
+690010,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690012,y,y,n,,Agent,Agent,5,5
+690013,n,n,y,,Patient,Patient,-2,-2
+690014,n,n,n,,Neutral,Neutral,0,0
+690015,y,y,y,,Affected Agent,Affected Agent,3,3
+690016,n,n,y,,Patient,Patient,-2,-2
+690020,y,y,n,,Agent,Agent,5,5
+65653,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690023,y,y,n,,Agent,Agent,5,5
+690024,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690025,y,y,n,,Agent,Agent,5,5
+690026,y,y,n,,Agent,Agent,5,5
+690027,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690029,y,y,n,,Agent,Agent,5,5
+690030,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690033,y,y,n,,Agent,Agent,5,5
+690034,n,n,y,,Patient,Patient,-2,-2
+690037,y,y,n,,Agent,Agent,5,5
+690036,n,n,y,,Patient,Patient,-2,-2
+690038,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690047,y,y,n,neg,Agent,Frustrative,1,5
+690042,n,n,y,neg,Patient,Neutral,0,-2
+690051,n,n,y,neg,Patient,Neutral,0,-2
+690052,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+690056,y,y,n,,Agent,Agent,5,5
+690057,n,n,y,,Patient,Patient,-2,-2
+690058,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690059,y,y,n,,Agent,Agent,5,5
+690060,n,n,y,,Patient,Patient,-2,-2
+690064,n,n,y,,Patient,Patient,-2,-2
+690066,n,n,n,neg,Neutral,Neutral,0,0
+690072,y,y,n,neg,Agent,Frustrative,1,5
+690073,n,n,y,neg,Patient,Neutral,0,-2
+690074,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+690078,y,y,n,neg,Agent,Frustrative,1,5
+690076,n,n,y,neg,Patient,Neutral,0,-2
+690080,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+690084,y,y,n,,Agent,Agent,5,5
+690085,n,n,y,,Patient,Patient,-2,-2
+690089,n,n,y,neg,Patient,Neutral,0,-2
+690093,y,y,n,neg,Agent,Frustrative,1,5
+690091,n,n,y,neg,Patient,Neutral,0,-2
+690094,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+690098,y,y,n,neg,Agent,Frustrative,1,5
+690102,y,y,n,neg,Agent,Frustrative,1,5
+690103,n,n,y,neg,Patient,Neutral,0,-2
+690111,n,n,y,neg,Patient,Neutral,0,-2
+690112,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+690115,y,y,n,,Agent,Agent,5,5
+690116,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690117,y,y,n,,Agent,Agent,5,5
+690120,n,n,n,,Neutral,Neutral,0,0
+690122,n,n,y,,Patient,Patient,-2,-2
+690127,n,n,y,,Patient,Patient,-2,-2
+690129,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690134,y,y,n,neg,Agent,Frustrative,1,5
+690132,n,n,y,neg,Patient,Neutral,0,-2
+690138,y,y,n,,Agent,Agent,5,5
+690139,n,n,y,,Patient,Patient,-2,-2
+690140,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690142,y,y,n,,Agent,Agent,5,5
+690144,n,n,y,,Patient,Patient,-2,-2
+690146,y,y,n,neg,Agent,Frustrative,1,5
+690147,n,n,y,neg,Patient,Neutral,0,-2
+690152,y,y,n,,Agent,Agent,5,5
+690153,n,n,n,,Neutral,Neutral,0,0
+690155,y,y,n,,Agent,Agent,5,5
+690156,n,n,y,,Patient,Patient,-2,-2
+690161,y,y,n,neg,Agent,Frustrative,1,5
+690162,n,n,y,neg,Patient,Neutral,0,-2
+690164,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690165,n,n,n,,Neutral,Neutral,0,0
+690168,y,y,n,,Agent,Agent,5,5
+65928,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690170,y,y,n,,Agent,Agent,5,5
+690171,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690172,n,n,n,,Neutral,Neutral,0,0
+690173,n,n,y,,Patient,Patient,-2,-2
+690174,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690180,y,y,n,,Agent,Agent,5,5
+690181,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690182,y,y,n,,Agent,Agent,5,5
+690183,y,y,n,,Agent,Agent,5,5
+690184,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690186,y,y,n,,Agent,Agent,5,5
+690187,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690190,y,y,n,,Agent,Agent,5,5
+690191,n,n,n,,Neutral,Neutral,0,0
+690198,n,n,n,,Neutral,Neutral,0,0
+690204,y,y,n,neg,Agent,Frustrative,1,5
+690202,n,n,n,neg,Neutral,Neutral,0,0
+690212,y,y,n,,Agent,Agent,5,5
+690213,n,n,n,,Neutral,Neutral,0,0
+690222,y,y,y,,Affected Agent,Affected Agent,3,3
+690221,n,n,y,,Patient,Patient,-2,-2
+690224,n,n,n,,Neutral,Neutral,0,0
+690229,y,y,n,neg,Agent,Frustrative,1,5
+690227,n,n,n,neg,Neutral,Neutral,0,0
+690231,y,y,n,,Agent,Agent,5,5
+690232,n,n,y,,Patient,Patient,-2,-2
+690233,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690239,y,y,n,neg,Agent,Frustrative,1,5
+690237,n,n,n,neg,Neutral,Neutral,0,0
+690242,y,y,n,,Agent,Agent,5,5
+690243,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690244,y,y,n,,Agent,Agent,5,5
+690245,y,y,n,,Agent,Agent,5,5
+690246,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690248,y,y,n,,Agent,Agent,5,5
+690249,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690251,y,y,y,,Affected Agent,Affected Agent,3,3
+690252,n,n,n,,Neutral,Neutral,0,0
+690254,y,y,n,,Agent,Agent,5,5
+690253,n,n,y,,Patient,Patient,-2,-2
+690256,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690258,y,y,y,,Affected Agent,Affected Agent,3,3
+690259,n,n,y,,Patient,Patient,-2,-2
+690261,y,y,n,,Agent,Agent,5,5
+690262,n,n,y,,Patient,Patient,-2,-2
+690263,n,n,n,,Neutral,Neutral,0,0
+690265,y,y,n,,Agent,Agent,5,5
+690266,n,n,y,,Patient,Patient,-2,-2
+690267,n,n,n,,Neutral,Neutral,0,0
+690271,y,y,n,,Agent,Agent,5,5
+66120,n,n,y,,Patient,Patient,-2,-2
+690273,y,y,n,,Agent,Agent,5,5
+690277,n,n,y,,Patient,Patient,-2,-2
+690275,y,y,n,,Agent,Agent,5,5
+690276,n,n,y,,Patient,Patient,-2,-2
+690282,n,y,y,,Instrument,Instrument,2,2
+690283,n,n,y,,Patient,Patient,-2,-2
+690292,y,y,y,neg,Affected Agent,Frustrative,1,3
+690290,n,n,y,neg,Patient,Neutral,0,-2
+690294,y,y,n,,Agent,Agent,5,5
+690295,n,n,y,,Patient,Patient,-2,-2
+690300,y,y,n,,Agent,Agent,5,5
+690303,y,y,n,,Agent,Agent,5,5
+690304,n,n,y,,Patient,Patient,-2,-2
+690305,n,n,n,,Neutral,Neutral,0,0
+690308,y,y,n,,Agent,Agent,5,5
+690309,n,n,n,,Neutral,Neutral,0,0
+690311,y,y,n,,Agent,Agent,5,5
+690312,n,n,y,,Patient,Patient,-2,-2
+690313,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690315,y,y,n,,Agent,Agent,5,5
+690316,n,n,y,,Patient,Patient,-2,-2
+690314,n,n,n,,Neutral,Neutral,0,0
+690318,n,n,y,,Patient,Patient,-2,-2
+690320,n,n,y,,Patient,Patient,-2,-2
+690324,y,y,n,,Agent,Agent,5,5
+690326,n,n,y,,Patient,Patient,-2,-2
+690327,n,n,y,,Patient,Patient,-2,-2
+690329,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690335,y,y,n,,Agent,Agent,5,5
+690336,n,n,y,,Patient,Patient,-2,-2
+690343,y,y,n,,Agent,Agent,5,5
+690344,n,n,y,,Patient,Patient,-2,-2
+690347,n,n,n,,Neutral,Neutral,0,0
+690350,n,n,y,,Patient,Patient,-2,-2
+690351,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690352,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690354,y,y,n,,Agent,Agent,5,5
+690356,n,n,n,,Neutral,Neutral,0,0
+690361,y,y,n,neg,Agent,Frustrative,1,5
+690359,n,n,n,neg,Neutral,Neutral,0,0
+690369,y,y,n,neg,Agent,Frustrative,1,5
+690370,n,n,y,neg,Patient,Neutral,0,-2
+690366,y,y,y,,Affected Agent,Affected Agent,3,3
+690367,n,n,y,,Patient,Patient,-2,-2
+690371,y,y,y,,Affected Agent,Affected Agent,3,3
+690375,y,y,y,neg,Affected Agent,Frustrative,1,3
+690373,n,n,y,neg,Patient,Neutral,0,-2
+690377,y,y,n,,Agent,Agent,5,5
+690378,n,n,y,,Patient,Patient,-2,-2
+690376,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690383,y,y,n,,Agent,Agent,5,5
+690384,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690385,y,y,n,,Agent,Agent,5,5
+690386,y,y,n,,Agent,Agent,5,5
+690387,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690388,y,y,n,,Agent,Agent,5,5
+690392,n,n,n,,Neutral,Neutral,0,0
+690391,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690395,y,y,n,neg,Agent,Frustrative,1,5
+690393,n,n,n,neg,Neutral,Neutral,0,0
+690397,y,y,n,,Agent,Agent,5,5
+690398,n,n,y,,Patient,Patient,-2,-2
+690399,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690402,y,y,n,,Agent,Agent,5,5
+690403,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690404,y,y,n,,Agent,Agent,5,5
+690408,n,n,n,,Neutral,Neutral,0,0
+690412,y,y,n,,Agent,Agent,5,5
+690413,n,n,y,,Patient,Patient,-2,-2
+690415,y,y,n,,Agent,Agent,5,5
+690416,n,n,y,,Patient,Patient,-2,-2
+690417,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690421,y,y,n,neg,Agent,Frustrative,1,5
+690419,n,n,n,neg,Neutral,Neutral,0,0
+690426,n,y,n,,Force,Force,4,4
+690427,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690428,n,n,n,,Neutral,Neutral,0,0
+690433,y,y,y,neg,Affected Agent,Frustrative,1,3
+690436,n,n,y,,Patient,Patient,-2,-2
+690441,y,y,n,,Agent,Agent,5,5
+690442,n,n,n,,Neutral,Neutral,0,0
+690445,y,y,n,,Agent,Agent,5,5
+690446,n,n,y,,Patient,Patient,-2,-2
+690447,n,n,n,,Neutral,Neutral,0,0
+690450,y,y,n,neg,Agent,Frustrative,1,5
+690448,n,n,n,neg,Neutral,Neutral,0,0
+690457,y,y,n,,Agent,Agent,5,5
+690458,n,n,y,,Patient,Patient,-2,-2
+690460,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690461,n,n,n,,Neutral,Neutral,0,0
+690464,y,y,n,,Agent,Agent,5,5
+690465,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690466,y,y,n,,Agent,Agent,5,5
+690467,y,y,n,,Agent,Agent,5,5
+690468,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690469,y,y,n,,Agent,Agent,5,5
+690477,y,y,n,neg,Agent,Frustrative,1,5
+690475,n,n,n,neg,Neutral,Neutral,0,0
+690479,y,y,n,,Agent,Agent,5,5
+690480,n,n,y,,Patient,Patient,-2,-2
+690481,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690483,n,n,n,,Neutral,Neutral,0,0
+690487,y,y,n,,Agent,Agent,5,5
+690488,n,n,y,,Patient,Patient,-2,-2
+690489,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690494,y,y,n,neg,Agent,Frustrative,1,5
+690492,n,n,n,neg,Neutral,Neutral,0,0
+690498,y,y,n,,Agent,Agent,5,5
+690499,n,n,n,,Neutral,Neutral,0,0
+690501,y,y,n,,Agent,Agent,5,5
+690502,n,n,y,,Patient,Patient,-2,-2
+690503,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690507,y,y,n,,Agent,Agent,5,5
+690506,n,n,y,,Patient,Patient,-2,-2
+690508,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690512,y,y,y,,Affected Agent,Affected Agent,3,3
+690513,n,n,n,,Neutral,Neutral,0,0
+690510,y,y,y,,Affected Agent,Affected Agent,3,3
+690511,n,n,y,,Patient,Patient,-2,-2
+690521,y,y,n,,Agent,Agent,5,5
+690522,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690524,n,n,y,,Patient,Patient,-2,-2
+690526,y,y,y,,Affected Agent,Affected Agent,3,3
+690527,n,n,n,,Neutral,Neutral,0,0
+690530,y,y,y,,Affected Agent,Affected Agent,3,3
+690531,n,n,n,,Neutral,Neutral,0,0
+690537,y,y,y,,Affected Agent,Affected Agent,3,3
+690538,n,n,n,,Neutral,Neutral,0,0
+690540,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690539,n,n,n,,Neutral,Neutral,0,0
+690542,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690544,n,n,n,,Neutral,Neutral,0,0
+690547,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690550,y,y,n,,Agent,Agent,5,5
+690551,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690549,n,n,n,,Neutral,Neutral,0,0
+690552,y,y,n,,Agent,Agent,5,5
+690553,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690554,n,n,n,,Neutral,Neutral,0,0
+690559,y,y,n,,Agent,Agent,5,5
+690560,n,n,n,,Neutral,Neutral,0,0
+690561,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690564,y,y,n,,Agent,Agent,5,5
+690565,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690566,y,y,n,,Agent,Agent,5,5
+690567,y,y,n,,Agent,Agent,5,5
+690568,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690570,y,y,n,,Agent,Agent,5,5
+690571,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690572,n,n,y,,Patient,Patient,-2,-2
+690573,y,y,n,,Agent,Agent,5,5
+690574,n,n,y,,Patient,Patient,-2,-2
+690579,y,y,n,,Agent,Agent,5,5
+690578,n,n,y,,Patient,Patient,-2,-2
+690581,n,n,n,,Neutral,Neutral,0,0
+690586,y,y,n,,Agent,Agent,5,5
+690585,n,n,n,,Neutral,Neutral,0,0
+690587,n,n,y,,Patient,Patient,-2,-2
+690591,y,y,y,,Affected Agent,Affected Agent,3,3
+690592,n,n,y,,Patient,Patient,-2,-2
+690594,y,y,n,,Agent,Agent,5,5
+690595,n,n,y,,Patient,Patient,-2,-2
+690599,n,n,y,,Patient,Patient,-2,-2
+690601,y,y,n,,Agent,Agent,5,5
+690602,n,n,y,,Patient,Patient,-2,-2
+690606,n,n,n,,Neutral,Neutral,0,0
+690609,y,y,n,,Agent,Agent,5,5
+690611,n,n,y,,Patient,Patient,-2,-2
+690610,n,n,n,,Neutral,Neutral,0,0
+690613,n,n,y,,Patient,Patient,-2,-2
+690618,y,y,n,,Agent,Agent,5,5
+66894,n,n,y,,Patient,Patient,-2,-2
+690619,n,n,n,,Neutral,Neutral,0,0
+690624,n,n,y,,Patient,Patient,-2,-2
+690627,y,y,y,,Affected Agent,Affected Agent,3,3
+66913,n,n,y,,Patient,Patient,-2,-2
+690637,y,y,y,,Affected Agent,Affected Agent,3,3
+690641,n,n,n,,Neutral,Neutral,0,0
+690645,y,y,y,,Affected Agent,Affected Agent,3,3
+690648,y,y,n,,Agent,Agent,5,5
+690649,n,n,n,,Neutral,Neutral,0,0
+690651,y,y,n,,Agent,Agent,5,5
+690653,y,y,n,,Agent,Agent,5,5
+690654,n,n,y,,Patient,Patient,-2,-2
+690655,n,n,n,,Neutral,Neutral,0,0
+690660,y,y,n,,Agent,Agent,5,5
+66980,n,n,y,,Patient,Patient,-2,-2
+690661,n,n,n,,Neutral,Neutral,0,0
+690662,y,y,n,,Agent,Agent,5,5
+690663,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690667,y,y,n,,Agent,Agent,5,5
+690668,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690669,y,y,n,,Agent,Agent,5,5
+690670,y,y,n,,Agent,Agent,5,5
+690671,n,n,y,,Patient,Patient,-2,-2
+690672,n,n,n,,Neutral,Neutral,0,0
+690675,y,y,n,,Agent,Agent,5,5
+690676,n,n,y,,Patient,Patient,-2,-2
+690677,n,n,n,,Neutral,Neutral,0,0
+690681,y,y,n,,Agent,Agent,5,5
+690680,n,n,y,,Patient,Patient,-2,-2
+690684,y,y,n,,Agent,Agent,5,5
+690683,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690685,y,y,n,,Agent,Agent,5,5
+690688,y,y,n,,Agent,Agent,5,5
+690689,n,n,y,,Patient,Patient,-2,-2
+690691,n,n,y,,Patient,Patient,-2,-2
+690692,n,n,n,,Neutral,Neutral,0,0
+690697,n,n,y,,Patient,Patient,-2,-2
+690694,y,y,n,,Agent,Agent,5,5
+690695,n,n,n,,Neutral,Neutral,0,0
+690701,y,y,n,,Agent,Agent,5,5
+690700,n,n,y,,Patient,Patient,-2,-2
+690704,y,y,n,,Agent,Agent,5,5
+690705,n,n,n,,Neutral,Neutral,0,0
+690706,n,n,y,,Patient,Patient,-2,-2
+690710,y,y,n,,Agent,Agent,5,5
+690711,n,n,y,,Patient,Patient,-2,-2
+690713,n,n,y,,Patient,Patient,-2,-2
+690717,y,y,n,,Agent,Agent,5,5
+67072,n,n,y,,Patient,Patient,-2,-2
+690715,y,y,n,,Agent,Agent,5,5
+690716,n,n,y,,Patient,Patient,-2,-2
+690722,y,y,n,,Agent,Agent,5,5
+690723,n,n,n,,Neutral,Neutral,0,0
+690724,n,n,y,,Patient,Patient,-2,-2
+690726,y,y,n,,Agent,Agent,5,5
+690729,n,n,y,,Patient,Patient,-2,-2
+690737,y,y,n,,Agent,Agent,5,5
+690738,n,n,n,,Neutral,Neutral,0,0
+690739,n,n,y,,Patient,Patient,-2,-2
+690742,n,n,y,,Patient,Patient,-2,-2
+690746,y,y,n,,Agent,Agent,5,5
+67111,n,n,y,,Patient,Patient,-2,-2
+690744,y,y,n,,Agent,Agent,5,5
+690745,n,n,y,,Patient,Patient,-2,-2
+690750,n,n,y,,Patient,Patient,-2,-2
+690748,y,y,n,,Agent,Agent,5,5
+690749,n,n,y,,Patient,Patient,-2,-2
+690751,n,n,n,,Neutral,Neutral,0,0
+690754,n,n,y,,Patient,Patient,-2,-2
+690762,y,y,n,,Agent,Agent,5,5
+690763,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690765,y,y,n,,Agent,Agent,5,5
+690766,n,n,y,,Patient,Patient,-2,-2
+690767,n,n,n,,Neutral,Neutral,0,0
+690769,y,y,n,,Agent,Agent,5,5
+690770,n,n,y,,Patient,Patient,-2,-2
+690771,n,n,y,,Patient,Patient,-2,-2
+690773,y,y,n,,Agent,Agent,5,5
+690777,y,y,n,,Agent,Agent,5,5
+690778,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690781,y,y,n,,Agent,Agent,5,5
+690782,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690784,y,y,n,,Agent,Agent,5,5
+690785,y,y,n,,Agent,Agent,5,5
+690786,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690788,y,y,n,,Agent,Agent,5,5
+690789,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690791,y,y,y,,Affected Agent,Affected Agent,3,3
+690792,n,n,n,,Neutral,Neutral,0,0
+690794,y,y,n,,Agent,Agent,5,5
+690793,n,n,y,,Patient,Patient,-2,-2
+690796,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690799,n,n,y,,Force,Force,4,4
+690800,n,n,n,,Neutral,Neutral,0,0
+690802,y,y,n,,Agent,Agent,5,5
+690803,n,n,n,,Neutral,Neutral,0,0
+690806,y,y,n,,Agent,Agent,5,5
+690807,n,n,y,,Patient,Patient,-2,-2
+690809,y,y,y,,Affected Agent,Affected Agent,3,3
+690810,n,n,y,,Patient,Patient,-2,-2
+690813,n,n,n,,Neutral,Neutral,0,0
+690818,y,y,n,neg,Agent,Frustrative,1,5
+690816,n,n,n,neg,Neutral,Neutral,0,0
+690822,y,y,n,neg,Agent,Frustrative,1,5
+690820,n,n,y,neg,Patient,Neutral,0,-2
+690825,y,y,y,neg,Affected Agent,Frustrative,1,3
+690823,n,n,y,neg,Patient,Neutral,0,-2
+690829,y,y,y,neg,Affected Agent,Frustrative,1,3
+690827,n,n,y,neg,Patient,Neutral,0,-2
+690831,n,n,n,,Neutral,Neutral,0,0
+690832,n,n,y,,Force,Force,4,4
+690835,n,n,n,,Neutral,Neutral,0,0
+690836,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690839,n,n,y,,Patient,Patient,-2,-2
+690840,n,n,n,,Neutral,Neutral,0,0
+690846,n,n,y,,Patient,Patient,-2,-2
+690842,n,n,y,,Patient,Patient,-2,-2
+690847,n,y,y,,Instrument,Instrument,2,2
+690849,y,y,n,,Agent,Agent,5,5
+690850,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690851,n,n,n,,Neutral,Neutral,0,0
+690856,n,n,n,,Neutral,Neutral,0,0
+690855,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690859,y,y,n,,Agent,Agent,5,5
+690860,n,n,y,,Patient,Patient,-2,-2
+690863,y,y,n,,Agent,Agent,5,5
+690864,n,n,y,,Patient,Patient,-2,-2
+690865,n,n,n,,Neutral,Neutral,0,0
+690867,y,y,n,,Agent,Agent,5,5
+690868,n,n,y,,Patient,Patient,-2,-2
+690871,y,y,n,,Agent,Agent,5,5
+690872,n,n,n,,Neutral,Neutral,0,0
+690874,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690876,n,n,n,,Neutral,Neutral,0,0
+690878,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690880,y,y,y,,Affected Agent,Affected Agent,3,3
+690886,y,y,y,,Affected Agent,Affected Agent,3,3
+690889,n,n,n,,Neutral,Neutral,0,0
+690891,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690893,y,y,n,neg,Agent,Frustrative,1,5
+690896,y,y,y,neg,Affected Agent,Frustrative,1,3
+690897,n,n,y,neg,Patient,Neutral,0,-2
+690900,y,y,y,neg,Affected Agent,Frustrative,1,3
+690901,n,n,y,neg,Patient,Neutral,0,-2
+690906,n,n,n,,Neutral,Neutral,0,0
+690907,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690909,y,y,y,,Affected Agent,Affected Agent,3,3
+690910,n,n,y,,Patient,Patient,-2,-2
+690912,y,y,y,,Affected Agent,Affected Agent,3,3
+690917,y,y,n,,Agent,Agent,5,5
+690918,n,n,y,,Patient,Patient,-2,-2
+690919,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690921,y,y,n,,Agent,Agent,5,5
+690922,n,n,y,,Patient,Patient,-2,-2
+690924,y,y,n,neg,Agent,Frustrative,1,5
+690928,y,y,n,,Agent,Agent,5,5
+690929,n,n,y,,Patient,Patient,-2,-2
+690931,y,y,n,,Agent,Agent,5,5
+690932,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690934,y,y,n,,Agent,Agent,5,5
+690935,n,n,n,,Neutral,Neutral,0,0
+690938,y,y,n,,Agent,Agent,5,5
+690939,n,n,y,,Patient,Patient,-2,-2
+690942,y,y,n,,Agent,Agent,5,5
+690941,n,n,n,,Neutral,Neutral,0,0
+690944,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690947,y,y,n,neg,Agent,Frustrative,1,5
+690951,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690952,n,n,n,,Neutral,Neutral,0,0
+690957,y,y,n,,Agent,Agent,5,5
+690958,n,n,n,,Neutral,Neutral,0,0
+690961,y,y,n,,Agent,Agent,5,5
+690960,n,n,n,,Neutral,Neutral,0,0
+690963,y,y,n,,Agent,Agent,5,5
+690964,n,n,n,,Neutral,Neutral,0,0
+690966,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690967,n,n,n,,Neutral,Neutral,0,0
+690971,n,y,n,,Patient,Patient,-2,-2
+690972,n,n,y,,Patient,Patient,-2,-2
+690974,y,y,y,,Affected Agent,Affected Agent,3,3
+690977,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690979,n,n,n,,Neutral,Neutral,0,0
+690982,y,y,n,,Agent,Agent,5,5
+690984,y,y,y,,Affected Agent,Affected Agent,3,3
+690983,n,n,n,,Neutral,Neutral,0,0
+690988,y,y,n,neg,Agent,Frustrative,1,5
+690991,y,y,y,neg,Affected Agent,Frustrative,1,3
+690992,n,n,y,neg,Patient,Neutral,0,-2
+690994,y,y,n,,Agent,Agent,5,5
+690995,n,n,n,,Neutral,Neutral,0,0
+690996,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+690999,n,y,y,,Instrument,Instrument,2,2
+691000,n,n,n,,Neutral,Neutral,0,0
+691003,y,y,n,,Agent,Agent,5,5
+691004,n,n,n,,Neutral,Neutral,0,0
+691006,y,y,y,,Affected Agent,Affected Agent,3,3
+691008,n,n,y,,Patient,Patient,-2,-2
+691011,n,y,n,,Force,Force,4,4
+691012,y,y,y,,Affected Agent,Affected Agent,3,3
+691013,n,n,y,,Patient,Patient,-2,-2
+691015,n,n,y,neg,Patient,Neutral,0,-2
+691029,y,y,n,,Agent,Agent,5,5
+691028,n,n,n,,Neutral,Neutral,0,0
+691030,n,n,y,,Force,Force,4,4
+691033,n,n,y,,Patient,Patient,-2,-2
+691035,y,y,n,,Agent,Agent,5,5
+691036,n,n,y,,Patient,Patient,-2,-2
+691039,y,y,y,,Affected Agent,Affected Agent,3,3
+691044,y,y,n,,Agent,Agent,5,5
+691045,n,n,y,,Patient,Patient,-2,-2
+691052,n,n,y,neg,Patient,Neutral,0,-2
+691055,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691057,y,y,y,,Affected Agent,Affected Agent,3,3
+691058,n,n,n,,Neutral,Neutral,0,0
+691060,y,y,n,,Agent,Agent,5,5
+691061,n,n,n,,Neutral,Neutral,0,0
+691063,y,y,n,,Agent,Agent,5,5
+691064,n,n,y,,Patient,Patient,-2,-2
+691065,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691067,y,y,n,,Agent,Agent,5,5
+691068,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691070,y,y,y,,Affected Agent,Affected Agent,3,3
+691071,n,n,n,,Neutral,Neutral,0,0
+691076,y,y,y,neg,Affected Agent,Frustrative,1,3
+691077,n,n,n,neg,Neutral,Neutral,0,0
+691078,y,y,n,,Agent,Agent,5,5
+691079,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691082,n,n,y,,Patient,Patient,-2,-2
+691085,y,y,y,,Affected Agent,Affected Agent,3,3
+691086,n,n,y,,Patient,Patient,-2,-2
+691089,y,y,y,,Affected Agent,Affected Agent,3,3
+691090,n,n,n,,Neutral,Neutral,0,0
+691092,y,y,y,,Affected Agent,Affected Agent,3,3
+691093,n,n,n,,Neutral,Neutral,0,0
+691097,y,y,n,,Agent,Agent,5,5
+691098,n,n,y,,Patient,Patient,-2,-2
+691101,n,n,n,,Neutral,Neutral,0,0
+691103,n,n,n,,Neutral,Neutral,0,0
+691106,n,n,n,,Neutral,Neutral,0,0
+691110,n,n,y,neg,Patient,Neutral,0,-2
+691113,n,n,n,,Neutral,Neutral,0,0
+691112,n,n,y,,Patient,Patient,-2,-2
+691116,n,n,y,,Patient,Patient,-2,-2
+691124,y,y,y,,Affected Agent,Affected Agent,3,3
+691125,n,n,y,,Patient,Patient,-2,-2
+691128,n,y,y,neg,Instrument,Patient,-2,2
+691131,n,n,n,,Neutral,Neutral,0,0
+691138,n,n,n,,Neutral,Neutral,0,0
+691140,n,n,y,,Patient,Patient,-2,-2
+691143,n,y,y,,Instrument,Instrument,2,2
+691146,n,n,n,,Neutral,Neutral,0,0
+691151,y,y,y,,Affected Agent,Affected Agent,3,3
+691152,n,n,y,,Patient,Patient,-2,-2
+691155,n,y,y,,Instrument,Instrument,2,2
+691162,n,n,y,neg,Patient,Neutral,0,-2
+691172,n,n,y,,Patient,Patient,-2,-2
+691175,n,y,y,,Instrument,Instrument,2,2
+691176,n,n,n,,Neutral,Neutral,0,0
+691178,y,y,n,,Agent,Agent,5,5
+691179,n,n,y,,Patient,Patient,-2,-2
+691182,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691183,n,n,n,,Neutral,Neutral,0,0
+691185,y,y,n,neg,Agent,Frustrative,1,5
+691186,n,n,y,neg,Patient,Neutral,0,-2
+691187,n,n,n,neg,Neutral,Neutral,0,0
+691189,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691190,n,n,n,,Neutral,Neutral,0,0
+691193,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691194,n,n,n,,Neutral,Neutral,0,0
+691197,y,y,n,neg,Agent,Frustrative,1,5
+691195,n,n,y,neg,Patient,Neutral,0,-2
+691198,n,n,y,neg,Patient,Neutral,0,-2
+691203,y,y,n,neg,Agent,Frustrative,1,5
+691204,n,n,y,neg,Patient,Neutral,0,-2
+691208,y,y,n,,Agent,Agent,5,5
+691209,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691210,n,n,n,,Neutral,Neutral,0,0
+691211,y,y,n,,Agent,Agent,5,5
+691212,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691213,n,n,y,,Patient,Patient,-2,-2
+691214,n,n,y,,Patient,Patient,-2,-2
+691215,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691220,n,n,y,,Patient,Patient,-2,-2
+691221,n,n,n,,Neutral,Neutral,0,0
+691223,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691224,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691226,y,y,n,neg,Agent,Frustrative,1,5
+691227,n,n,y,neg,Patient,Neutral,0,-2
+691228,n,n,n,neg,Neutral,Neutral,0,0
+691230,n,n,y,,Patient,Patient,-2,-2
+691231,n,n,n,,Neutral,Neutral,0,0
+691233,y,y,n,,Agent,Agent,5,5
+691234,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691238,y,y,y,,Affected Agent,Affected Agent,3,3
+691237,n,n,n,,Neutral,Neutral,0,0
+691240,y,y,y,,Affected Agent,Affected Agent,3,3
+691241,n,n,n,,Neutral,Neutral,0,0
+691244,y,y,y,,Affected Agent,Affected Agent,3,3
+691243,n,n,n,,Neutral,Neutral,0,0
+691249,y,y,n,,Agent,Agent,5,5
+691250,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691251,n,n,n,,Neutral,Neutral,0,0
+691253,n,n,y,neg,Patient,Neutral,0,-2
+691256,y,y,n,neg,Agent,Frustrative,1,5
+691257,n,n,y,neg,Patient,Neutral,0,-2
+691260,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691261,n,n,n,,Neutral,Neutral,0,0
+691265,n,n,y,,Patient,Patient,-2,-2
+691271,y,y,n,,Agent,Agent,5,5
+691272,n,n,y,,Patient,Patient,-2,-2
+691270,n,n,y,,Patient,Patient,-2,-2
+691276,n,n,y,,Patient,Patient,-2,-2
+691277,n,n,n,,Neutral,Neutral,0,0
+691279,y,y,n,,Agent,Agent,5,5
+691278,n,n,y,,Patient,Patient,-2,-2
+691285,y,y,n,,Agent,Agent,5,5
+691284,n,n,n,,Neutral,Neutral,0,0
+691288,n,n,y,,Patient,Patient,-2,-2
+691289,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691292,y,y,n,,Agent,Agent,5,5
+691293,n,n,y,,Patient,Patient,-2,-2
+691294,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691295,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691296,n,n,y,,Patient,Patient,-2,-2
+691299,y,y,n,,Agent,Agent,5,5
+691298,n,n,y,,Patient,Patient,-2,-2
+691304,y,y,n,neg,Agent,Frustrative,1,5
+691305,n,n,y,neg,Patient,Neutral,0,-2
+691310,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691313,n,n,y,,Patient,Patient,-2,-2
+691314,n,n,n,,Neutral,Neutral,0,0
+691316,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691317,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691319,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691320,n,n,n,,Neutral,Neutral,0,0
+691323,y,y,n,,Agent,Agent,5,5
+68026,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691326,y,y,n,,Agent,Agent,5,5
+68032,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691330,y,y,n,,Agent,Agent,5,5
+68039,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691333,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691335,y,y,y,,Affected Agent,Affected Agent,3,3
+691337,y,y,n,,Agent,Agent,5,5
+691338,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691344,n,n,y,,Patient,Patient,-2,-2
+691347,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691348,n,n,n,,Neutral,Neutral,0,0
+691353,y,y,n,,Agent,Agent,5,5
+691354,n,n,y,,Patient,Patient,-2,-2
+691358,n,n,y,,Patient,Patient,-2,-2
+691362,y,y,n,,Agent,Agent,5,5
+691363,n,n,n,,Neutral,Neutral,0,0
+691365,y,y,n,,Agent,Agent,5,5
+691366,n,n,y,,Patient,Patient,-2,-2
+691368,n,n,y,,Patient,Patient,-2,-2
+691369,n,n,n,,Neutral,Neutral,0,0
+691371,y,y,n,neg,Agent,Frustrative,1,5
+68110,n,n,y,neg,Patient,Neutral,0,-2
+691377,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+691382,y,y,y,,Affected Agent,Affected Agent,3,3
+691390,y,y,n,,Agent,Agent,5,5
+691391,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691392,n,n,n,,Neutral,Neutral,0,0
+691396,y,y,n,neg,Agent,Frustrative,1,5
+691398,n,n,n,neg,Neutral,Neutral,0,0
+691397,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+691402,y,y,n,neg,Agent,Frustrative,1,5
+691400,n,n,n,neg,Neutral,Neutral,0,0
+691403,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+691407,y,y,n,neg,Agent,Frustrative,1,5
+691405,n,n,y,neg,Patient,Neutral,0,-2
+691408,n,n,n,neg,Neutral,Neutral,0,0
+691409,y,y,y,,Affected Agent,Affected Agent,3,3
+691410,n,n,n,,Neutral,Neutral,0,0
+691415,y,y,n,,Agent,Agent,5,5
+691414,n,n,n,,Neutral,Neutral,0,0
+691418,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691417,n,n,n,,Neutral,Neutral,0,0
+691423,y,y,n,,Agent,Agent,5,5
+691422,n,n,n,,Neutral,Neutral,0,0
+691426,y,y,n,,Agent,Agent,5,5
+691425,n,n,n,,Neutral,Neutral,0,0
+691428,y,y,n,,Agent,Agent,5,5
+691429,n,n,n,,Neutral,Neutral,0,0
+691431,y,y,n,,Agent,Agent,5,5
+691432,n,n,y,,Patient,Patient,-2,-2
+691436,n,y,n,,Patient,Patient,-2,-2
+691437,n,n,y,,Patient,Patient,-2,-2
+691439,n,y,n,,Patient,Patient,-2,-2
+691441,n,n,y,,Patient,Patient,-2,-2
+691445,n,n,n,,Neutral,Neutral,0,0
+691446,n,n,n,,Neutral,Neutral,0,0
+691444,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691448,n,n,n,,Neutral,Neutral,0,0
+691450,n,n,n,,Neutral,Neutral,0,0
+691452,y,y,y,,Affected Agent,Affected Agent,3,3
+691453,n,n,y,,Patient,Patient,-2,-2
+691456,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691458,n,n,n,,Neutral,Neutral,0,0
+691460,y,y,n,,Agent,Agent,5,5
+691461,n,n,n,,Neutral,Neutral,0,0
+691462,n,n,n,,Neutral,Neutral,0,0
+691464,y,y,y,,Affected Agent,Affected Agent,3,3
+691469,y,y,n,,Agent,Agent,5,5
+691470,n,n,y,,Patient,Patient,-2,-2
+691471,n,n,n,,Neutral,Neutral,0,0
+691473,n,y,y,neg,Instrument,Patient,-2,2
+691476,n,n,n,neg,Neutral,Neutral,0,0
+691478,y,y,n,,Agent,Agent,5,5
+691479,n,n,y,,Patient,Patient,-2,-2
+691481,n,y,y,,Instrument,Instrument,2,2
+691482,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691487,y,y,n,,Agent,Agent,5,5
+691488,n,n,y,,Patient,Patient,-2,-2
+691490,y,y,n,,Agent,Agent,5,5
+691491,n,n,y,,Patient,Patient,-2,-2
+691495,n,y,y,,Instrument,Instrument,2,2
+691496,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691499,y,y,y,,Affected Agent,Affected Agent,3,3
+691500,n,n,n,,Neutral,Neutral,0,0
+691502,y,y,n,,Agent,Agent,5,5
+691503,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691505,y,y,n,,Agent,Agent,5,5
+691506,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691508,y,y,n,,Agent,Agent,5,5
+691509,n,n,n,,Neutral,Neutral,0,0
+691510,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691512,y,y,y,,Affected Agent,Affected Agent,3,3
+691513,n,n,y,,Patient,Patient,-2,-2
+691517,y,y,n,,Agent,Agent,5,5
+691515,n,n,y,,Patient,Patient,-2,-2
+691516,n,n,n,,Neutral,Neutral,0,0
+691519,y,y,n,,Agent,Agent,5,5
+691520,n,n,y,,Patient,Patient,-2,-2
+691521,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691525,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+691526,n,n,n,neg,Neutral,Neutral,0,0
+691528,y,y,n,,Agent,Agent,5,5
+691529,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691531,n,n,y,,Patient,Patient,-2,-2
+691532,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691535,n,n,y,,Patient,Patient,-2,-2
+691537,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691542,y,y,n,,Agent,Agent,5,5
+691543,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691544,n,n,n,,Neutral,Neutral,0,0
+691547,n,n,y,,Patient,Patient,-2,-2
+691546,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691549,y,y,n,,Agent,Agent,5,5
+691550,n,n,y,,Patient,Patient,-2,-2
+691552,y,y,n,,Agent,Agent,5,5
+691553,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691558,y,y,y,neg,Affected Agent,Frustrative,1,3
+691559,n,n,n,neg,Neutral,Neutral,0,0
+691562,y,y,n,neg,Agent,Frustrative,1,5
+691563,n,n,n,neg,Neutral,Neutral,0,0
+691567,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691566,n,n,n,,Neutral,Neutral,0,0
+691572,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691570,n,n,n,,Neutral,Neutral,0,0
+691573,y,y,n,neg,Agent,Frustrative,1,5
+691574,n,n,n,neg,Neutral,Neutral,0,0
+691575,y,y,n,,Agent,Agent,5,5
+691576,n,n,n,,Neutral,Neutral,0,0
+691577,y,y,n,,Agent,Agent,5,5
+691579,n,n,n,,Neutral,Neutral,0,0
+691580,n,n,y,,Patient,Patient,-2,-2
+691582,y,y,n,,Agent,Agent,5,5
+691583,n,n,y,,Patient,Patient,-2,-2
+691584,n,n,n,,Neutral,Neutral,0,0
+691585,n,y,y,,Instrument,Instrument,2,2
+691586,n,n,y,,Patient,Patient,-2,-2
+691588,n,y,n,,Force,Force,4,4
+691589,n,n,y,,Patient,Patient,-2,-2
+691591,y,y,n,,Agent,Agent,5,5
+691593,n,n,y,,Patient,Patient,-2,-2
+691596,y,y,y,,Affected Agent,Affected Agent,3,3
+68415,n,n,y,,Patient,Patient,-2,-2
+691598,y,y,n,,Agent,Agent,5,5
+691599,n,n,y,,Patient,Patient,-2,-2
+691600,n,n,y,,Patient,Patient,-2,-2
+691602,n,n,y,,Patient,Patient,-2,-2
+691603,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691607,y,y,n,,Agent,Agent,5,5
+691606,n,n,y,,Patient,Patient,-2,-2
+691609,n,y,y,,Instrument,Instrument,2,2
+691612,n,y,n,,Force,Force,4,4
+691613,n,n,y,,Patient,Patient,-2,-2
+691618,y,y,y,neg,Affected Agent,Frustrative,1,3
+691619,n,n,n,neg,Neutral,Neutral,0,0
+691621,y,y,n,,Agent,Agent,5,5
+691622,y,y,n,,Agent,Agent,5,5
+691623,n,n,y,,Patient,Patient,-2,-2
+691627,y,y,n,,Agent,Agent,5,5
+691628,n,n,y,,Patient,Patient,-2,-2
+691630,y,y,n,,Agent,Agent,5,5
+691631,n,n,y,,Patient,Patient,-2,-2
+691639,n,n,y,,Patient,Patient,-2,-2
+691643,n,y,n,neg,Patient,Neutral,0,-2
+691644,n,n,y,neg,Patient,Neutral,0,-2
+691646,n,y,n,neg,Patient,Neutral,0,-2
+691649,n,n,y,neg,Patient,Neutral,0,-2
+691652,y,y,n,,Agent,Agent,5,5
+691653,n,n,y,,Patient,Patient,-2,-2
+691657,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+691658,y,y,y,,Affected Agent,Affected Agent,3,3
+691659,n,n,n,,Neutral,Neutral,0,0
+691661,y,y,n,,Agent,Agent,5,5
+691663,n,n,n,,Neutral,Neutral,0,0
+691662,n,n,n,,Neutral,Neutral,0,0
+691667,y,y,n,,Agent,Agent,5,5
+691669,n,n,y,,Patient,Patient,-2,-2
+691668,n,n,y,,Patient,Patient,-2,-2
+691671,n,y,n,,Force,Force,4,4
+691672,n,n,y,,Patient,Patient,-2,-2
+691674,n,y,n,,Force,Force,4,4
+691675,n,n,y,,Patient,Patient,-2,-2
+691677,n,y,n,,Force,Force,4,4
+691678,n,n,y,,Patient,Patient,-2,-2
+691681,n,n,y,,Patient,Patient,-2,-2
+691687,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+691686,y,y,y,neg,Affected Agent,Frustrative,1,3
+691689,y,y,n,,Agent,Agent,5,5
+691690,n,n,y,,Patient,Patient,-2,-2
+691694,y,y,n,,Agent,Agent,5,5
+691695,n,n,y,,Patient,Patient,-2,-2
+691700,y,y,n,,Agent,Agent,5,5
+691699,n,n,n,,Neutral,Neutral,0,0
+691704,y,y,n,,Agent,Agent,5,5
+691706,n,n,y,,Patient,Patient,-2,-2
+691705,n,n,y,,Patient,Patient,-2,-2
+691707,n,y,y,,Instrument,Instrument,2,2
+691708,n,n,n,,Neutral,Neutral,0,0
+691710,y,y,y,,Affected Agent,Affected Agent,3,3
+691713,y,y,n,,Agent,Agent,5,5
+691714,n,n,y,,Patient,Patient,-2,-2
+691715,n,n,y,,Patient,Patient,-2,-2
+691717,n,n,y,,Patient,Patient,-2,-2
+691718,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691719,y,y,n,,Agent,Agent,5,5
+691721,n,n,y,,Patient,Patient,-2,-2
+691720,n,n,y,,Patient,Patient,-2,-2
+691724,y,y,n,,Agent,Agent,5,5
+691725,n,n,n,,Neutral,Neutral,0,0
+691728,y,y,n,,Agent,Agent,5,5
+691729,n,n,y,,Patient,Patient,-2,-2
+691732,y,y,y,,Affected Agent,Affected Agent,3,3
+691735,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+691740,y,y,y,neg,Affected Agent,Frustrative,1,3
+691741,n,n,n,neg,Neutral,Neutral,0,0
+691743,y,y,n,,Agent,Agent,5,5
+691744,n,n,y,,Patient,Patient,-2,-2
+691747,y,y,n,,Agent,Agent,5,5
+691748,n,n,y,,Patient,Patient,-2,-2
+691753,y,y,n,,Agent,Agent,5,5
+691752,n,n,y,,Patient,Patient,-2,-2
+691757,y,y,y,,Affected Agent,Affected Agent,3,3
+691758,n,n,y,,Patient,Patient,-2,-2
+691761,y,y,y,,Affected Agent,Affected Agent,3,3
+691760,n,n,y,,Patient,Patient,-2,-2
+691763,y,y,n,,Agent,Agent,5,5
+691764,n,n,y,,Patient,Patient,-2,-2
+691766,y,y,n,,Agent,Agent,5,5
+691767,n,n,y,,Patient,Patient,-2,-2
+691769,y,y,n,,Agent,Agent,5,5
+691770,n,n,y,,Patient,Patient,-2,-2
+691771,n,n,n,,Neutral,Neutral,0,0
+691774,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691775,n,n,n,,Neutral,Neutral,0,0
+691777,y,y,n,,Agent,Agent,5,5
+691778,n,n,y,,Patient,Patient,-2,-2
+691779,n,n,n,,Neutral,Neutral,0,0
+691781,y,y,n,,Agent,Agent,5,5
+691782,n,n,y,,Patient,Patient,-2,-2
+691785,y,y,y,neg,Affected Agent,Frustrative,1,3
+691786,n,n,n,neg,Neutral,Neutral,0,0
+691789,y,y,n,,Agent,Agent,5,5
+691790,n,n,y,,Patient,Patient,-2,-2
+691794,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691793,n,n,n,,Neutral,Neutral,0,0
+691796,n,n,y,,Patient,Patient,-2,-2
+691797,n,n,n,,Neutral,Neutral,0,0
+691800,y,y,n,,Agent,Agent,5,5
+691799,n,n,y,,Patient,Patient,-2,-2
+691801,n,n,n,,Neutral,Neutral,0,0
+691803,y,y,n,,Agent,Agent,5,5
+691805,n,n,y,,Patient,Patient,-2,-2
+691804,n,n,y,,Patient,Patient,-2,-2
+691808,n,n,y,,Patient,Patient,-2,-2
+691811,n,n,y,,Patient,Patient,-2,-2
+691816,n,n,y,,Force,Force,4,4
+691817,n,n,n,,Neutral,Neutral,0,0
+691819,n,n,y,,Patient,Patient,-2,-2
+691825,n,n,y,,Force,Force,4,4
+691827,n,n,y,,Force,Force,4,4
+691828,n,n,n,,Neutral,Neutral,0,0
+691831,n,n,y,,Force,Force,4,4
+691830,n,n,y,,Patient,Patient,-2,-2
+691834,n,n,y,neg,Force,Neutral,0,4
+691832,n,n,n,neg,Neutral,Neutral,0,0
+691836,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691837,n,n,n,,Neutral,Neutral,0,0
+691840,n,n,y,,Patient,Patient,-2,-2
+691843,y,y,n,,Agent,Agent,5,5
+691844,n,n,n,,Neutral,Neutral,0,0
+691845,n,n,y,,Patient,Patient,-2,-2
+691850,n,y,n,,Force,Force,4,4
+691849,n,n,y,,Patient,Patient,-2,-2
+691852,n,y,y,,Instrument,Instrument,2,2
+691855,n,y,y,,Instrument,Instrument,2,2
+691860,n,y,y,,Instrument,Instrument,2,2
+691871,n,n,n,neg,Neutral,Neutral,0,0
+691874,n,n,y,,Patient,Patient,-2,-2
+691875,n,n,n,,Neutral,Neutral,0,0
+691879,n,y,n,,Patient,Patient,-2,-2
+691878,n,n,y,,Patient,Patient,-2,-2
+691884,n,n,y,,Patient,Patient,-2,-2
+691882,n,n,y,,Patient,Patient,-2,-2
+691889,n,n,y,,Patient,Patient,-2,-2
+691891,y,y,n,,Agent,Agent,5,5
+691892,n,n,n,,Neutral,Neutral,0,0
+691895,y,y,n,,Agent,Agent,5,5
+691894,n,n,n,,Neutral,Neutral,0,0
+691896,n,n,y,,Patient,Patient,-2,-2
+691900,y,y,n,,Agent,Agent,5,5
+691901,n,n,y,,Patient,Patient,-2,-2
+691903,y,y,n,,Agent,Agent,5,5
+691905,n,n,y,,Patient,Patient,-2,-2
+691908,y,y,n,,Agent,Agent,5,5
+691909,n,n,y,,Patient,Patient,-2,-2
+691914,n,n,y,,Force,Force,4,4
+691917,y,y,y,,Affected Agent,Affected Agent,3,3
+691918,n,n,n,,Neutral,Neutral,0,0
+691920,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691921,n,n,n,,Neutral,Neutral,0,0
+691926,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691925,n,n,n,,Neutral,Neutral,0,0
+691929,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691928,n,n,n,,Neutral,Neutral,0,0
+691933,n,y,y,,Instrument,Instrument,2,2
+691931,n,n,y,,Patient,Patient,-2,-2
+691935,n,n,y,,Force,Force,4,4
+691936,n,n,n,,Neutral,Neutral,0,0
+691938,n,y,y,,Instrument,Instrument,2,2
+691937,n,n,y,,Patient,Patient,-2,-2
+691940,y,y,y,,Affected Agent,Affected Agent,3,3
+691942,n,n,n,,Neutral,Neutral,0,0
+691947,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691946,n,n,n,,Neutral,Neutral,0,0
+691951,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691949,n,n,n,,Neutral,Neutral,0,0
+691955,n,n,y,,Patient,Patient,-2,-2
+691956,n,n,n,,Neutral,Neutral,0,0
+691958,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+68907,n,n,n,neg,Neutral,Neutral,0,0
+691961,y,n,y,neg,Volitional Undergoer,Frustrative,1,-1
+68910,n,n,n,neg,Neutral,Neutral,0,0
+691962,y,y,n,,Agent,Agent,5,5
+68912,n,n,y,,Patient,Patient,-2,-2
+691963,y,y,n,,Agent,Agent,5,5
+691964,n,n,n,,Neutral,Neutral,0,0
+691965,n,n,y,,Patient,Patient,-2,-2
+691970,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691971,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691972,n,n,n,,Neutral,Neutral,0,0
+691974,y,y,n,,Agent,Agent,5,5
+691975,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691976,n,n,n,,Neutral,Neutral,0,0
+691978,n,n,y,,Patient,Patient,-2,-2
+691979,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
+691987,y,y,n,,Agent,Agent,5,5
+691985,n,n,n,,Neutral,Neutral,0,0
+691988,n,n,n,,Neutral,Neutral,0,0

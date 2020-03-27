@@ -1,51 +1,32 @@
-,col1,col2,PC 1,lex,Aktionsart,evaluation,correction,lexemes,new_Aktionsart
-0,0,42,46.01084768516503,come_BW>[,active,EXP,nan,BW>[,active
-1,1,36,16.635562832700508,call_QR>[,active,EXP,nan,QR>[,active
-3,3,114,8.74703770170521,return_CWB[,active,EXP,nan,CWB[,active
-5,5,75,6.3687922116663325,hear_CM<[,active,EXP,EXP,CM<[,active
-6,6,8,6.268503118085621,ascend_<LH[,active,EXP,nan,<LH[,active
-7,7,4,5.801700998045572,approach_NGC[,active,EXP,nan,NGC[,active
-9,9,68,5.133849037258111,flee_NWS[,active,EXP,nan,NWS[,active
-11,11,5,4.1404523802183535,approach_QRB[,active,EXP,nan,QRB[,active
-12,12,71,2.7731594823820203,go out_JY>[,active,EXP,nan,JY>[,active
-13,13,153,2.7189478313378417,turn_PNH[,active,EXP,nan,PNH[,active
-14,14,97,2.550650454302899,pour_CPK[,active,EXP,nan,CPK[,active
-15,15,157,1.6252119149546564,walk_HLK[,active,EXP,nan,HLK[,active
-16,16,145,1.6219833023979673,take_LQX[,active,SUR,SUR,LQX[,stative
-26,26,69,0.8730774821935985,gather_>SP[,active,SUR,SUR,>SP[,stative
-27,27,85,0.8337844501724324,lift_NF>[,active,EXP,nan,NF>[,active
-34,34,131,0.5851120550299518,slaughter_ZBX[,active,EXP,nan,ZBX[,stative
-46,46,101,0.34474888978038865,pursue_RDP[,active,EXP,nan,RDP[,active
-48,48,149,0.27988892446626346,touch_NG<[,active,EXP,nan,NG<[,active
-49,49,77,0.23928474387967394,keep_CMR[,active,EXP,EXP,CMR[,active
-67,67,7,0.09932353916374266,arrange_<RK[,active,SUR,SUR,<RK[,stative
-68,68,83,0.002866471813635696,lie down_CKB[,active,SUR,nan,CKB[,active
-70,70,92,-0.012111956320915412,miss_PQD[,stative,?,?,PQD[,active
-71,71,93,-0.012111956320915412,miss_XV>[,stative,EXP,nan,XV>[,stative
-75,75,130,-0.04521932861462823,slaughter_CXV[,stative,SUR,nan,CXV[,stative
-76,76,158,-0.04521932861462823,wash_RXY[,stative,EXP,nan,RXY[,stative
-77,77,96,-0.04521932861462823,plant_NV<[,stative,SUR,nan,NV<[,stative
-81,81,134,-0.04521932861462823,sow_ZR<[,stative,SUR,nan,ZR<[,active
-83,83,109,-0.04521932861462823,rejoice_FMX[,stative,SUR,nan,FMX[,active
-93,93,81,-0.04521932861462823,let loose_PR<[,stative,EXP,EXP,PR<[,stative
-104,104,38,-0.04521932861462823,cease_CBT[,stative,EXP,nan,CBT[,stative
-107,107,86,-0.04521932861462823,loath_QWY[,stative,EXP,EXP,QWY[,stative
-111,111,80,-0.04521932861462823,leave_<ZB[,stative,?,?,<ZB[,stative
-117,117,6,-0.17676758163112907,arise_QWM[,stative,EXP,nan,QWM[,stative
-125,125,57,-0.5509159975154171,eat_>KL[,stative,SUR,nan,>KL[,active
-127,127,121,-0.5509159975154171,see_R>H[,stative,EXP,nan,R>H[,stative
-134,134,160,-0.8688197320503608,"work, serve_<BD[",stative,SUR,nan,<BD[,active
-135,135,95,-1.066817396240432,pass_<BR[,stative,SUR,nan,<BR[,active
-136,136,87,-1.3729275830821779,lodge_LJN[,stative,EXP,nan,LJN[,stative
-138,138,65,-1.7786097684686633,fall_NPL[,stative,SUR,nan,NPL[,active
-139,139,25,-1.8735862727030832,be unfaithful_M<L[,stative,EXP,nan,M<L[,stative
-143,143,27,-2.1385462263565107,be_HJH[,stative,EXP,nan,HJH[,stative
-145,145,56,-2.355718564278196,dwell_GWR[,stative,EXP,nan,GWR[,stative
-147,147,148,-2.3765538912260142,toss_ZRQ[,stative,SUR,SUR,ZRQ[,active
-148,148,140,-2.7325515002199263,stand_<MD[,stative,EXP,nan,<MD[,stative
-150,150,70,-3.1615766845956115,give_NTN[,stative,SUR,nan,NTN[,stative
-152,152,89,-3.841236306486168,make_<FH[,stative,SUR,nan,<FH[,active
-153,153,103,-4.736546101854208,put_FJM[,stative,SUR,nan,FJM[,stative
-155,155,67,-6.924460254557292,find_MY>[,stative,SUR,nan,MY>[,active
-159,159,34,-15.138220928563864,burn_FRP[,stative,SUR,nan,FRP[,stative
-161,161,129,-33.57070447826025,sit_JCB[,stative,EXP,nan,JCB[,stative
+lex,Aktionsart,evaluation,lexemes,new_Aktionsart
+"<BD[#עבד_work, serve",stative,?,<BD[,active
+<BR[#עבר_pass,stative,?,<BR[,active
+<FH[#עשׂה_make,active,EXP,<FH[,active
+<LH[#עלה_ascend,active,EXP,<LH[,active
+<MD[#עמד_stand,stative,EXP,<MD[,stative
+>KL[#אכל_eat,active,EXP,>KL[,active
+>MR[#אמר_say,active,EXP,>MR[,active
+BW>[#בוא_come,active,EXP,BW>[,active
+CKB[#שׁכב_lie down,stative,EXP,CKB[,stative
+CM<[#שׁמע_hear,stative,EXP,CM<[,stative
+CWB[#שׁוב_return,active,EXP,CWB[,active
+FJM[#שׂים_put,stative,EXP,FJM[,stative
+HLK[#הלך_walk,stative,?,HLK[,active
+JCB[#ישׁב_sit,stative,EXP,JCB[,stative
+JR>[#ירא_fear,active,?,JR>[,stative
+JY>[#יצא_go out,active,EXP,JY>[,active
+LQX[#לקח_take,active,?,LQX[,stative
+NF>[#נשׂא_lift,active,EXP,NF>[,active
+NG<[#נגע_touch,stative,?,NG<[,active
+NGC[#נגשׁ_approach,active,EXP,NGC[,active
+NPL[#נפל_fall,active,?,NPL[,stative
+NTN[#נתן_give,active,?,NTN[,stative
+NWS[#נוס_flee,active,EXP,NWS[,active
+PNH[#פנה_turn,active,EXP,PNH[,active
+QR>[#קרא_call,active,EXP,QR>[,active
+QRB[#קרב_approach,active,EXP,QRB[,active
+QWM[#קום_arise,active,EXP,QWM[,active
+R>H[#ראה_see,stative,EXP,R>H[,stative
+RXY[#רחץ_wash,stative,?,RXY[,stative
+XV>[#חטא_miss,active,?,XV>[,stative
+ZBX[#זבח_slaughter,active,?,ZBX[,stative

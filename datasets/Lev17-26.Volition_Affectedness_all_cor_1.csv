@@ -19,7 +19,7 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 17,439669,ZRQ[,688406,y,n,688407,n,y,688408,n,n,
 18,439670,QVR[,688410,y,n,688411,n,y,688412,n,n,
 19,439671,ZBX[,688415,y,n,688417,n,y,688418,y,y,Is Undergoer2 are recipients and benefitting.
-20,439672,ZNH[,688420,y,n,688422,y,y,,,,
+20,439672,ZNH[,688420,y,n,688422,y,n,,,,
 21,439673,HJH[,688425,n,n,,,,,,,
 22,439674,>MR[,688430,y,n,688429,n,n,,,,
 23,439676,GWR[,688432,y,y,688434,n,n,,,,
@@ -129,7 +129,7 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 70,439817,>MR[,688835,y,n,,,,,,,
 71,439818,DBR[,688836,y,n,688837,n,n,,,,
 72,439819,>MR[,688839,y,n,688840,n,n,,,,
-73,439820,HJH[,688842,y,y,,,,,,,
+73,439820,HJH[,688842,n,y,,,,,,,
 74,439823,JR>[,688848,y,y,,,,688847,y,n,Undergoer should be moved to Undergoer1. Not volitional because the Undergoer is not involved.
 75,439824,CMR[,688851,y,n,688850,n,n,,,,
 76,439826,PNH[,688855,y,y,688856,n,n,,,,
@@ -208,7 +208,7 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 149,439912,NTN[,689133,y,n,689131,n,y,689134,n,y,
 150,439914,XLL[,689138,y,n,689139,n,y,,,,
 151,439915,ZNH[,689140,y,n,689140,n,y,,,,
-152,439916,ZNH[,689144,n,y,,,,,,,Is the nonanimate Actor actually volitional?
+152,439916,ZNH[,689144,?,n,,,,,,,Is the nonanimate Actor actually volitional?
 153,439917,ML>[,689147,n,y,689148,n,n,,,,The Undergoer is probably not affected because it is abstract.
 154,439918,CMR[,689150,y,n,689149,n,n,,,,
 155,439919,JR>[,689153,y,y,689152,n,n,,,,
@@ -220,12 +220,12 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 161,439927,JR>[,689173,y,y,689174,n,n,,,,
 162,439929,GWR[,689181,y,y,689180,n,n,,,,Actor is probably  affected if it is understood as coming to live with. Undergoer is not benefitting so not affected.
 163,439930,JNH[,689184,y,n,689185,n,y,,,,
-164,439931,HJH[,689189,y,y,689188,?,?,,,,Probably the sentence could be translated - and annotated - you shall consider/treat the foreigner as a native thereby making the complement phrase the Actor.
+164,439931,HJH[,689189,n,y,689188,?,?,,,,Probably the sentence could be translated - and annotated - you shall consider/treat the foreigner as a native thereby making the complement phrase the Actor.
 165,439932,GWR[,689190,y,n,689192,n,n,,,,
 166,439933,>HB[,689194,y,y,689195,n,n,,,,
-167,439934,HJH[,689199,y,y,689200,n,n,,,,
+167,439934,HJH[,689199,n,y,689200,n,n,,,,
 168,439936,<FH[,689204,y,n,689205,n,n,689206,n,y,Undergoer2 seems to be Instrument
-169,439937,HJH[,689207,n,n,,,,,,,
+169,439937,HJH[,689207,n,y,,,,,,,
 170,439939,JY>[,689212,y,n,689214,y,y,689215,n,n,
 171,439940,CMR[,689217,y,n,689218,n,n,,,,
 172,439941,<FH[,689220,y,n,689221,n,n,,,,
@@ -253,7 +253,7 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 194,439965,NTN[,689297,y,n,689298,n,y,689299,y,y,Here the objects of the fornications seems to be humans - therefore Volitional
 195,439966,KRT[,689301,y,n,689302,n,y,689303,n,n,
 196,439967,QDC[,689305,y,y,,,,,,,
-197,439968,HJH[,689307,y,y,,,,,,,
+197,439968,HJH[,689307,n,y,,,,,,,
 198,439970,CMR[,689313,y,n,689314,n,n,,,,
 199,439971,<FH[,689316,y,n,689317,n,n,,,,
 200,439973,QDC[,689320,y,n,689320,y,y,,,,
@@ -322,33 +322,33 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 263,440055,RMF[,689552,n,n,689554,n,n,,,,Actor is probably not changing state - so not affected.
 264,440056,BDL[,689556,y,n,689555,n,y,689557,n,n,
 265,440057,VM>[,689558,y,y,,,,,,,
-266,440058,HJH[,689560,y,y,689561,n,n,,,,Undergoer2 is not involved in the event
+266,440058,HJH[,689560,n,y,689561,n,n,,,,Undergoer2 is not involved in the event
 267,440060,BDL[,689567,y,n,689568,y,y,689569,n,n,
-268,440061,HJH[,689570,y,y,,,,,,,
-269,440063,HJH[,689577,y,?,,,,,,,
+268,440061,HJH[,689570,n,y,,,,,,,
+269,440063,HJH[,689577,n,y,,,,,,,
 270,440064,MWT[,,,,689579,n,y,,,,
 271,440065,RGM[,689581,y,n,689582,n,y,689580,n,y,Undergoer2 is probably Instrumental
 0,440067,>MR[,689587,y,n,689588,n,n,,,,
 1,440068,>MR[,689589,y,n,689590,n,n,,,,
 2,440069,>MR[,689592,y,n,689593,n,n,,,,
 3,440070,VM>[,689596,y,y,689594,n,n,,,,
-4,440075,HJH[,689608,?,y,,,,,,,PreC probably needs annotation
+4,440075,HJH[,689608,n,y,,,,,,,PreC probably needs annotation
 5,440076,VM>[,689613,y,y,689612,n,?,,,,Undergoer1 is perhaps Instrument
 6,440077,VM>[,689615,y,y,,,,,,,
 7,440078,XLL[,,,,689618,n,y,,,,
 8,440079,QRX[,689620,y,n,689621,n,y,689622,n,n,
 9,440080,GLX[,689626,y,n,689624,n,y,,,,
 10,440081,FRV[,689630,y,n,689631,n,y,689628,n,y,The body is probably affected
-11,440082,HJH[,689633,y,y,689634,n,n,,,,
+11,440082,HJH[,689633,n,y,689634,n,n,,,,
 12,440083,XLL[,689637,y,n,689638,n,y,,,,
 13,440084,QRB[,689641,y,n,689640,n,y,,,,
-14,440085,HJH[,689644,y,y,,,,,,,
+14,440085,HJH[,689644,n,y,,,,,,,
 15,440086,LQX[,689648,y,y,689646,n,y,,,,
 16,440087,LQX[,689654,y,y,689650,n,y,,,,
 17,440088,GRC[,689651,n,y,689652,y,y,,,,Undergoer is also instigating.
 18,440090,QDC[,689660,y,y,689660,n,n,,,,The Undergoer1 is probably unaffected because he is not involved in the event. It is merely a cognitive event.
 19,440091,QRB[,689663,y,n,689662,n,y,,,,
-20,440092,HJH[,689666,?,?,689667,?,?,,,,The clause is difficult. Is still just a cognitive event like the previous clause?
+20,440092,HJH[,689666,n,y,689667,?,?,,,,The clause is difficult. Is still just a cognitive event like the previous clause?
 21,440094,QDC[,689671,y,n,689671,y,y,,,,
 22,440096,XLL[,689675,n,n,,,,,,,Is their an unspecified Undergoer?
 23,440097,ZNH[,689676,y,n,,,,,,,
@@ -425,7 +425,7 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 94,440194,QNH[,689950,y,y,689951,n,y,,,,The Actor is also the recipient of the transfer
 95,440195,>KL[,689953,y,y,689955,n,y,,,,
 96,440197,>KL[,689958,y,y,689960,n,y,,,,
-97,440199,HJH[,689964,?,y,,,,,,,
+97,440199,HJH[,689964,n,y,,,,,,,
 98,440200,>KL[,689966,y,y,689967,n,y,,,,
 99,440201,>KL[,689971,y,y,689983,n,y,,,,
 100,440202,HJH[,689973,n,y,,,,,,,
@@ -446,7 +446,7 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 115,440221,QRB[,690032,y,n,690034,n,y,,,,
 116,440222,QRB[,690037,y,n,690036,n,y,690038,y,y,
 117,440224,QRB[,690047,y,n,690042,n,y,,,,
-118,440226,HJH[,690051,n,?,690052,?,y,,,,
+118,440226,HJH[,690051,n,y,690052,?,y,,,,
 119,440228,QRB[,690056,y,n,690057,n,y,690058,y,y,
 120,440229,PL>[,690059,y,n,690060,n,y,,,,
 121,440231,HJH[,690064,n,y,,,,,,,
@@ -475,7 +475,7 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 144,440262,QDC[,,,,690164,y,y,,,,
 145,440264,QDC[,690168,y,n,690168,y,y,,,,
 146,440265,JY>[,690169,y,n,690171,y,y,690172,n,n,
-147,440266,HJH[,690173,y,y,,,,,,,How to annotate a genitival relationship like this?
+147,440266,HJH[,690173,n,y,,,,,,,How to annotate a genitival relationship like this?
 148,440268,DBR[,690180,y,n,690181,n,n,,,,
 149,440269,>MR[,690182,y,n,,,,,,,
 150,440270,DBR[,690183,y,n,690184,n,n,,,,
@@ -510,13 +510,13 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 179,440312,SPR[,690308,y,n,690309,n,n,,,,
 180,440313,QRB[,690311,y,n,690312,n,y,690313,y,y,
 181,440314,BW>[,690315,y,n,690316,n,y,690314,n,n,
-182,440315,HJH[,690318,n,?,,,,,,,
+182,440315,HJH[,690318,n,y,,,,,,,
 183,440316,>PH[,,,,690320,n,y,,,,
 184,440318,QRB[,690324,y,n,690326,n,y,,,,
-185,440319,HJH[,690327,n,?,690329,y,y,,,,
+185,440319,HJH[,690327,n,y,690329,y,y,,,,
 186,440321,<FH[,690335,y,n,690336,n,y,,,,
 187,440323,NWP[,690343,y,n,690344,n,y,690347,n,n,
-188,440324,HJH[,690350,n,?,,,,,,,
+188,440324,HJH[,690350,n,y,,,,,,,
 189,440325,QR>[,690354,y,n,,,,,,,
 190,440326,HJH[,690356,n,n,,,,,,,
 191,440327,<FH[,690361,y,n,690359,n,n,,,,
@@ -584,7 +584,7 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 11,440408,NTN[,690609,y,n,690611,n,y,690610,n,n,
 12,440409,HJH[,690613,n,y,,,,,,,
 13,440411,<RK[,690618,y,n,690618,n,y,690619,n,n,
-14,440413,HJH[,690624,y,y,,,,,,,Not volitional
+14,440413,HJH[,690624,n,y,,,,,,,Not volitional
 15,440414,>KL[,690627,y,y,690627,n,y,,,,
 16,440417,JY>[,690637,y,y,690641,n,n,,,,
 17,440419,NYH[,690645,y,y,,,,,,,Actor is probably affected because it is a reciprocal meaning.
@@ -621,7 +621,7 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 48,440458,MWT[,,,,690750,n,y,,,,
 49,440459,NKH[,690748,y,n,690749,n,y,,,,
 50,440460,HJH[,690751,n,n,,,,,,,
-51,440461,HJH[,,,,,,,,,,
+51,440461,HJH[,690754,n,y,,,,,,,
 52,440463,DBR[,690762,y,n,690763,n,n,,,,
 53,440464,JY>[,690765,y,n,690766,n,y,690767,n,n,
 54,440465,RGM[,690769,y,n,690770,n,y,690771,n,y,Undergoer2 is Instrument
@@ -642,10 +642,10 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 69,440480,ZMR=[,690822,y,n,690820,n,y,,,,
 70,440481,QYR=[,690825,y,n,690823,n,y,,,,
 71,440482,BYR[,690829,y,y,690827,n,y,,,,
-72,440483,HJH[,,,,,,,,,,
+72,440483,HJH[,690831,n,n,,,,,,,
 73,440484,HJH[,690835,n,n,690836,y,y,,,,
 74,440485,GWR[,690838,y,y,690840,n,n,,,,
-75,440486,HJH[,690846,n,?,690842,n,y,,,,
+75,440486,HJH[,690846,n,y,690842,n,y,,,,
 76,440488,>KL[,690847,n,y,,,,,,,
 77,440489,SPR[,690849,y,n,690850,y,y,690851,n,n,Undergoer1 is benefitting
 78,440490,HJH[,690856,n,n,690855,y,y,,,,
@@ -653,14 +653,14 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 80,440492,<BR[,690863,y,n,690864,n,y,690865,n,n,
 81,440493,QDC[,690867,y,n,690868,n,y,,,,The sanctification changes the status of the year. Probably the Undergoer is affected.
 82,440494,QR>[,690871,y,n,690872,n,n,690874,y,y,Undergoer1 is not affected because it is abstract. Undergoer2 is probably affected because it is set free. However they are not directly involved in the event.
-83,440495,HJH[,690876,n,y,690878,y,y,,,,
+83,440495,HJH[,690876,n,n,690878,y,y,,,,
 84,440496,CWB[,690880,y,y,,,,,,,
 85,440498,CWB[,690886,y,y,,,,,,,
-86,440501,HJH[,690889,n,y,690891,y,y,,,,
+86,440501,HJH[,690889,n,n,690891,y,y,,,,
 87,440502,ZR<[,690893,y,n,,,,,,,
 88,440503,QYR=[,690896,y,n,690897,n,y,,,,
 89,440504,BYR[,690900,y,y,690901,n,y,,,,
-90,440506,HJH[,690906,n,y,690907,y,y,,,,
+90,440506,HJH[,690906,n,n,690907,y,y,,,,
 91,440507,>KL[,690909,y,y,690910,n,y,,,,
 92,440508,CWB[,690912,y,y,,,,,,,
 93,440510,MKR[,690917,y,n,690918,n,y,690919,y,y,
@@ -696,7 +696,7 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 123,440545,MKR[,691035,y,y,691036,n,y,,,,
 124,440546,BW>[,691039,y,y,,,,,,,
 125,440548,G>L[,691044,y,n,691045,n,y,,,,
-126,440550,HJH[,691052,?,?,,,,,,,Difficult
+126,440550,HJH[,691052,n,y,,,,,,,Difficult
 127,440551,NFG[,691055,y,y,,,,,,,Difficult but the construction probably means can afford. Perhaps then the hand is even volitional because it stands for the person.
 128,440552,MY>[,691057,y,y,691058,n,n,,,,Undergoer is probably not affected. But what about the Actor?
 129,440553,XCB[,691060,y,n,691061,n,n,,,,
@@ -736,11 +736,11 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 163,440596,NTN[,691203,y,n,691204,n,y,,,,
 164,440598,JY>[,691207,y,n,691209,y,y,691210,n,n,
 165,440599,NTN[,691211,y,n,691212,y,y,691213,n,y,
-166,440600,HJH[,691214,y,y,691215,y,y,,,,
+166,440600,HJH[,691214,n,y,691215,y,y,,,,
 167,440601,MWK[,691220,n,y,691221,n,n,,,,The Undergoer seems to be merely location and therefore not affected.
 168,440602,MKR[,691223,y,y,691224,y,y,,,,The Actor is selling himself - therefore he is both instigating and the affected object
 169,440603,<BD[,691226,y,n,691227,n,y,691228,n,n,
-170,440604,HJH[,691230,y,y,691231,n,?,,,,
+170,440604,HJH[,691230,n,y,691231,n,?,,,,
 171,440605,<BD[,691233,y,n,691234,n,n,,,,
 172,440606,JY>[,691238,y,y,691237,n,y,,,,Undergoer is deprived of labor and therefore affected
 173,440607,CWB[,691240,y,y,691241,n,n,,,,
@@ -771,13 +771,13 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 198,440640,G>L[,691335,y,y,,,,,,,Reflexive use of Niphal
 199,440641,XCB[,691337,y,n,691338,y,n,,,,Probably comitant - therefore they have the same annotaiton
 200,440642,MKR[,,,,,,,,,,
-201,440643,HJH[,691344,n,n,,,,,,,
+201,440643,HJH[,691344,n,y,,,,,,,
 202,440644,HJH[,691347,y,y,691348,n,n,,,,
 203,440646,CWB[,691353,y,n,691354,n,y,,,,
 204,440647,C>R[,,,,691358,n,y,,,,
 205,440648,XCB[,691362,y,n,691363,n,n,,,,
 206,440649,CWB[,691365,y,n,691366,n,y,,,,
-207,440650,HJH[,691368,y,y,691369,n,n,,,,
+207,440650,HJH[,691368,n,y,691369,n,n,,,,
 208,440651,RDH[,691371,y,n,691371,n,y,,,,
 209,440652,G>L[,,,,691377,y,y,,,,
 210,440653,JY>[,691382,y,y,,,,,,,
@@ -816,8 +816,8 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 31,440692,NTN[,691519,y,n,691520,n,y,691521,n,n,Undergoer1 is probably affected because it is placed or moved
 32,440693,G<L[,691525,y,y,691526,n,n,,,,
 33,440694,HLK[,691528,y,n,691529,n,n,,,,
-34,440695,HJH[,691531,y,y,691532,y,y,,,,
-35,440696,HJH[,691535,y,y,691537,y,y,,,,
+34,440695,HJH[,691531,n,y,691532,y,y,,,,
+35,440696,HJH[,691535,n,y,691537,y,y,,,,
 36,440698,JY>[,691541,y,n,691543,y,y,691544,n,n,
 37,440699,HJH[,691547,n,y,691546,y,?,,,,
 38,440700,CBR[,691549,y,n,691550,n,y,,,,
@@ -856,7 +856,7 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 71,440735,KRT[,691674,n,n,691675,n,y,,,,
 72,440736,M<V[,691677,n,n,691678,n,y,,,,
 73,440737,CMM[,,,,691681,n,y,,,,
-74,440738,JSR[,691687,y,n,691686,y,y,,,,The Complement phrase expresses the Actor. The Undergoer is assumed to be volitional.
+74,440738,JSR[,691687,y,?,691686,y,y,,,,The Complement phrase expresses the Actor. The Undergoer is assumed to be volitional.
 75,440739,HLK[,691689,y,y,691690,n,n,,,,
 76,440740,HLK[,691693,y,y,691695,n,n,,,,
 77,440741,NKH[,691700,y,n,691699,n,n,,,,
@@ -926,12 +926,12 @@ Unnamed: 0,clause,lex,Act_phr,Act_vol,Act_aff,Und1_phr,Und1_vol,Und1_aff,Und2_ph
 61,440810,RYH=[,691940,y,y,691942,n,n,,,,
 62,440812,M>S[,691947,y,y,691946,n,n,,,,
 63,440813,G<L[,691951,y,y,691949,n,n,,,,
-64,440815,HJH[,691955,y,y,691956,n,n,,,,Actor is probably not volitional
+64,440815,HJH[,691955,n,y,691956,n,n,,,,Actor is probably not volitional
 65,440816,M>S[,691958,y,y,691958,n,n,,,,
 66,440817,G<L[,691961,y,y,691961,n,n,,,,
 67,440818,KLH[,691962,y,n,691962,n,y,,,,
 68,440819,PRR[,691963,y,n,691964,n,n,691965,n,y,
 69,440821,ZKR[,691970,y,y,691971,y,y,691972,n,n,
 70,440822,JY>[,691974,y,n,691975,y,y,691976,n,n,
-71,440823,HJH[,691978,y,y,691979,y,y,,,,y
+71,440823,HJH[,691978,n,y,691979,y,y,,,,y
 72,440826,NTN[,691987,y,n,691985,n,n,691988,n,n,

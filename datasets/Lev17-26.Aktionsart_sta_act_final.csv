@@ -1,4 +1,4 @@
-0
+,0
 <BD[_hif,act
 <BD[_hof,act
 <BD[_nif,act
@@ -218,9 +218,9 @@ NGC[_qal,act
 NGP[_nif,act
 NGP[_qal,act
 NKH[_hif,act
-NPL[_hif,act
-NPL[_hit,act
-NPL[_qal,act
+NPL[_hif,sta
+NPL[_hit,sta
+NPL[_qal,sta
 NQB[_nif,act
 NQB[_qal,act
 NQM[_hof,act

@@ -1,73 +1,69 @@
-,lex,new_Aktionsart,class,comment
-0,QDC[,sta,CULTIC,causative
-1,ZRH[,sta,LOCATION,causative. Probably transfer
-2,<NH=[,sta,PSYCHOLOGICAL,causative
-3,BQC[,act,,Probably denotes a movement towards the soothsayers
-4,XCB[,act,,
-5,YR<[,sta,PHYSICAL CONDITION,Not relevant
-6,CXT[,sta,EXTINCTION,causative
-7,<LL[,sta,TRANSFER,Probably a transfer like other verbs describing harverst
-8,QVR[,sta,CULTIC,causative
-9,PDH[,sta,TRANSFER,causative
-10,CQY[,sta,CULTIC,
-11,NZR[,sta,CULTIC,
-12,M<V[,sta,EXISTENTIAL,
-13,BLL[,act,,Not relevant
-14,CLM[,sta,EXISTENTIAL,
-15,NWX[,sta,LOCATION,
-16,KN<[,sta,PSYCHOLOGICAL,
-17,DBR[,act,COMMUNICATION,
-18,XZQ[,act,,
-19,QLL[,act,COMMUNICATION,
-20,KXC[,act,COMMUNICATION,
-21,CKL[,sta,EXISTENTIAL,causative
-22,NWP[,act,MOTION,
-23,GLX[,sta,EXTINCTION,causative
-24,ZWB[,sta,,Not relevant
-25,RBH[,sta,EXISTENTIAL,
-26,C>R[,sta,EXISTENTIAL,
-27,GRC[,act,TRANSFER,causative.
-28,<LM[,sta,EXISTENTIAL,causative
-29,RWX[,act,PERCEPTION,
-30,<NN[,act,,
-31,JYQ[,sta,stop,
-32,YWH[,act,COMMUNICATION,
-33,CMD[,sta,EXTINCTION,
-34,SLX[,sta,,
-35,BDL[,sta,CREATION,
-36,NFG[,sta,,
-37,PRH[,sta,EXISTENTIAL,
-38,KBS[,sta,PHYSICAL CONDITION,
-39,KLH[,sta,EXISTENTIAL,Or extinction
-40,NXL[,sta,TRANSFER,The verb is about possession.
-41,CLX[,act,MOTION,causative
-42,GLH[,sta,PHYSICAL CONDITION,causative
-43,CB<[,act,COMMUNICATION,
-44,XLL[,sta,CULTIC,
-45,LQV[,sta,TRANSFER,Probably transfer like other verbs for harvest
-46,KSH[,sta,APPEARENCE,causative
-47,RWM[,sta,LOCATION,Here the verb has a technical sense of presenting to Jahwe
-48,XRP=[,sta,,
-49,<RH[,sta,PHYSICAL CONDITION,causative
-50,NQP[,act,MOTION,
-51,PRR[,sta,EXTINCTION,Causative
-52,RYH[,sta,PSYCHOLOGICAL,
-53,RJQ[,act,MOTION,causative
-54,XPC[,sta,EXISTENTIAL,
-55,MQQ[,sta,PSYCHOLOGICAL,
-56,JSR[,sta,COGNITIVE,causative in Piel
-57,NYH[,act,SOCIAL INTERACTION,
-58,JTR[,sta,EXISTENTIAL,
-59,NKH[,act,SOCIAL INTERACTION,Probably semelfactive
-60,JLD[,act,EXISTENTIAL,
-61,NGP[,act,,
-62,CQR[,act,COMMUNICATION,
-63,KPR[,act,,
-64,JNH[,sta,SOCIAL INTERACTION,Could also be causative
-65,KRT[,sta,TRANSFER,Means remove. Causative
-66,NXC[,act,CULTIC,
-67,DWB[,sta,PSYCHOLOGICAL,
-68,JKX[,act,COMMUNICATION,
-69,XWH[,act,MOTION,Active accomplishment
-70,JDH[,act,COMMUNICATION,
-71,PL>[,sta,ABSTRACT,causative
+lex,new_Aktionsart,class,comment
+QDC[,sta,CULTIC,causative
+ZRH[,sta,LOCATION,causative. Probably transfer
+<NH=[,sta,PSYCHOLOGICAL,causative
+BQC[,act,,Probably denotes a movement towards the soothsayers
+XCB[,act,,
+CXT[,sta,EXTINCTION,causative
+<LL[,sta,TRANSFER,Probably a transfer like other verbs describing harverst
+QVR[,sta,CULTIC,causative
+PDH[,sta,TRANSFER,causative
+CQY[,sta,CULTIC,
+NZR[,sta,CULTIC,
+M<V[,sta,EXISTENTIAL,
+CLM[,sta,EXISTENTIAL,
+NWX[,sta,LOCATION,
+KN<[,sta,PSYCHOLOGICAL,
+DBR[,act,COMMUNICATION,
+XZQ[,sta,,
+QLL[,act,COMMUNICATION,
+KXC[,act,COMMUNICATION,
+CKL[,sta,EXISTENTIAL,causative
+NWP[,act,MOTION,
+GLX[,act,EXTINCTION,causative
+RBH[,sta,EXISTENTIAL,
+C>R[,sta,EXISTENTIAL,
+<LM[,sta,EXISTENTIAL,causative
+RWX[,act,PERCEPTION,
+<NN[,act,,
+JYQ[,sta,stop,
+YWH[,act,COMMUNICATION,
+CMD[,sta,EXTINCTION,
+SLX[,sta,,
+BDL[,sta,CREATION,
+NFG[,sta,,
+PRH[,sta,EXISTENTIAL,
+KBS[,sta,PHYSICAL CONDITION,
+KLH[,sta,EXISTENTIAL,Or extinction
+NXL[,sta,TRANSFER,The verb is about possession.
+CLX[,act,MOTION,causative
+GLH[,sta,PHYSICAL CONDITION,causative
+CB<[,act,COMMUNICATION,
+XLL[,sta,CULTIC,
+LQV[,sta,TRANSFER,Probably transfer like other verbs for harvest
+KSH[,sta,APPEARENCE,causative
+RWM[,sta,LOCATION,Here the verb has a technical sense of presenting to Jahwe
+XRP=[,sta,,
+<RH[,sta,PHYSICAL CONDITION,causative
+NQP[,act,MOTION,
+PRR[,sta,EXTINCTION,Causative
+RYH[,sta,PSYCHOLOGICAL,
+RJQ[,act,MOTION,causative
+XPC[,sta,EXISTENTIAL,
+MQQ[,sta,PSYCHOLOGICAL,
+JSR[,sta,COGNITIVE,causative in Piel
+NYH[,act,SOCIAL INTERACTION,
+JTR[,sta,EXISTENTIAL,
+NKH[,act,SOCIAL INTERACTION,Probably semelfactive
+JLD[,act,EXISTENTIAL,
+NGP[,act,,
+CQR[,act,COMMUNICATION,
+KPR[,act,,
+JNH[,sta,SOCIAL INTERACTION,Could also be causative
+KRT[,sta,TRANSFER,Means remove. Causative
+NXC[,act,CULTIC,
+DWB[,sta,PSYCHOLOGICAL,
+JKX[,act,COMMUNICATION,
+XWH[,act,MOTION,Active accomplishment
+JDH[,act,COMMUNICATION,
+PL>[,sta,ABSTRACT,causative

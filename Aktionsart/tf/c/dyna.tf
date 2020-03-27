@@ -4,7 +4,7 @@
 @description=Dynamicity annotations for verbs
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2019-09-19T12:36:50Z
+@dateWritten=2020-03-27T11:13:31Z
 
 15	sta
 33	act
@@ -147,11 +147,11 @@ sta
 1297	act
 1303	sta
 1312	act
-1316	act
+1316	sta
 1345	act
 1352	act
 1356	act
-1359	act
+1359	sta
 1364	sta
 1371	act
 1383	act
@@ -172,7 +172,7 @@ sta
 1480	act
 1482	sta
 1501	act
-1503	act
+1503	sta
 1508	act
 1513	act
 1515	act
@@ -202,13 +202,13 @@ sta
 1705	sta
 1710	act
 1721	act
-1752	act
+1752	sta
 1755	act
-1764	act
+1764	sta
 1788	act
 1794	sta
 1796	sta
-1801	sta
+1801	act
 1807	sta
 1809	act
 1817	act
@@ -236,12 +236,11 @@ sta
 1944	sta
 1955	sta
 1959	act
-1968	act
 1989	sta
 2009	sta
 2020	sta
 2045	act
-2052	act
+2052	sta
 2060	sta
 2077	sta
 2086	act
@@ -347,7 +346,7 @@ sta
 2907	sta
 2912	act
 2916	act
-2943	sta
+2943	act
 2948	act
 2972	act
 2982	sta
@@ -438,9 +437,9 @@ act
 4148	act
 4165	act
 4174	act
-4178	sta
+4178	act
 4209	act
-4218	sta
+4218	act
 4234	sta
 4242	act
 4250	sta
@@ -454,7 +453,7 @@ act
 4331	sta
 4333	sta
 4351	act
-4360	sta
+4360	act
 4371	sta
 4375	act
 4401	sta
@@ -475,7 +474,6 @@ act
 4515	sta
 4527	sta
 4538	sta
-4549	act
 4636	sta
 4638	sta
 4644	sta
@@ -503,7 +501,7 @@ act
 5074	act
 5084	act
 5088	act
-5093	act
+5093	sta
 5116	act
 5121	act
 5145	act
@@ -629,7 +627,7 @@ act
 6151	sta
 6153	sta
 6160	sta
-6180	sta
+6180	act
 6192	sta
 6197	act
 6199	sta
@@ -645,7 +643,7 @@ act
 6343	act
 6361	sta
 6397	act
-6403	act
+6403	sta
 6409	act
 6411	sta
 6423	act
@@ -653,7 +651,7 @@ act
 6435	act
 6438	sta
 6442	act
-6470	act
+6470	sta
 6476	act
 6487	act
 6498	act
@@ -708,8 +706,8 @@ act
 6838	sta
 6862	sta
 6866	act
-6869	act
-6877	act
+6869	sta
+6877	sta
 6880	act
 6884	sta
 6887	sta
@@ -727,7 +725,7 @@ act
 6977	sta
 7047	act
 7057	act
-7065	act
+7065	sta
 7071	sta
 7085	sta
 7091	sta
@@ -751,7 +749,7 @@ act
 7216	sta
 7225	act
 7235	act
-7239	act
+7239	sta
 7245	sta
 7263	act
 7273	act
@@ -764,7 +762,7 @@ act
 7348	sta
 7351	sta
 7357	sta
-7363	act
+7363	sta
 7368	act
 7372	act
 7378	sta
@@ -773,7 +771,7 @@ act
 7400	sta
 7406	sta
 7412	act
-7414	sta
+7414	act
 7430	sta
 7439	sta
 7456	sta
@@ -788,20 +786,19 @@ act
 7583	sta
 7590	sta
 7596	sta
-7598	act
+7598	sta
 7605	act
-7613	act
 7623	act
 7630	sta
 7634	act
 7643	act
-7648	sta
-7661	act
+7648	act
+7661	sta
 7666	sta
 7669	sta
 7677	act
 7679	sta
-7686	sta
+7686	act
 7704	sta
 7706	act
 7709	act
@@ -836,7 +833,7 @@ act
 7963	act
 7969	act
 7971	act
-7985	act
+7985	sta
 7997	act
 8003	sta
 8016	act
@@ -848,7 +845,7 @@ act
 8065	act
 8069	sta
 8071	act
-8076	sta
+8076	act
 8088	act
 8091	act
 8094	act
@@ -910,7 +907,7 @@ act
 8425	act
 8435	sta
 8440	sta
-8443	sta
+8443	act
 8447	act
 8451	act
 8461	sta
@@ -922,7 +919,7 @@ act
 8491	act
 8496	act
 8498	act
-8500	act
+8500	sta
 8522	act
 8526	act
 8532	act
@@ -953,15 +950,15 @@ act
 8714	act
 8717	act
 8723	act
-sta
+act
 act
 8732	sta
 8738	sta
 8748	act
 8756	act
+act
 sta
-sta
-8776	act
+8776	sta
 8795	act
 8797	sta
 8804	sta
@@ -998,22 +995,22 @@ sta
 9090	act
 9105	act
 9112	act
-9118	act
+9118	sta
 9135	act
-9139	act
+9139	sta
 9144	sta
-9146	act
-9149	sta
+9146	sta
+9149	act
 9151	sta
 9155	act
-9162	act
+9162	sta
 9172	act
-act
-9192	sta
-9196	act
+sta
+9192	act
+9196	sta
 9200	sta
-9202	act
-9205	sta
+9202	sta
+9205	act
 9219	act
 9236	act
 9255	sta
@@ -1076,12 +1073,10 @@ act
 9637	act
 9652	act
 9656	act
-9662	act
 9680	act
-9689	act
 9695	act
 9698	act
-9703	act
+9703	sta
 9707	act
 9727	act
 9737	sta
@@ -1089,7 +1084,7 @@ act
 9763	sta
 9785	act
 9801	act
-9804	act
+9804	sta
 9821	sta
 9832	sta
 9838	sta
@@ -1102,14 +1097,14 @@ act
 9888	sta
 9894	sta
 9898	act
-9904	act
+9904	sta
 9911	act
 9920	act
 9926	sta
-9928	act
-9938	sta
+9928	sta
+9938	act
 act
-9944	act
+9944	sta
 9952	sta
 9959	sta
 9963	act
@@ -1134,7 +1129,7 @@ act
 10081	act
 10084	sta
 10086	act
-10102	act
+10102	sta
 10107	sta
 10113	sta
 10131	act
@@ -1143,7 +1138,7 @@ act
 10156	sta
 10169	act
 10179	act
-10188	sta
+10188	act
 10195	act
 10200	sta
 10206	act
@@ -1158,7 +1153,7 @@ sta
 10261	act
 10270	act
 10283	sta
-10297	sta
+10297	act
 10299	act
 10304	act
 10314	act
@@ -1204,9 +1199,9 @@ sta
 10581	act
 10599	sta
 10616	sta
-10631	act
+10631	sta
 10635	act
-10640	sta
+10640	act
 10642	act
 10648	sta
 10654	sta
@@ -1214,38 +1209,38 @@ sta
 10736	sta
 10751	sta
 10761	act
-10771	sta
+10771	act
 10778	act
 10783	act
 10789	sta
 10807	act
-10809	act
-10833	sta
+10809	sta
+10833	act
 10836	act
 10845	act
 10848	act
-10860	act
+10860	sta
 10869	sta
 10884	sta
 10893	sta
 10915	act
-10918	act
+10918	sta
 10921	sta
 10929	sta
 10934	sta
 10939	act
 10947	act
 10956	act
-10961	act
+10961	sta
 sta
 10966	sta
 10979	act
-10982	act
-10998	act
+10982	sta
+10998	sta
 11011	act
 11020	act
-11025	sta
-11091	sta
+11025	act
+11091	act
 11111	act
 11124	act
 11136	sta
@@ -1273,7 +1268,7 @@ sta
 11296	act
 11304	sta
 11313	act
-11321	sta
+11321	act
 11323	act
 11347	act
 11351	act
@@ -1311,7 +1306,7 @@ sta
 11622	sta
 11671	sta
 11673	sta
-11686	act
+11686	sta
 11692	act
 11694	act
 11699	act
@@ -1371,14 +1366,14 @@ act
 12131	sta
 12138	act
 12141	sta
-12144	act
+12144	sta
 12150	act
 12155	act
 12166	sta
 12171	sta
 12178	act
 12188	sta
-12190	sta
+12190	act
 12195	act
 act
 12200	act
@@ -1398,7 +1393,7 @@ act
 12275	act
 12279	sta
 12284	sta
-12290	sta
+12290	act
 12300	act
 12305	sta
 12311	act
@@ -1412,7 +1407,7 @@ act
 12345	act
 12347	act
 12352	sta
-12356	act
+12356	sta
 12362	act
 12372	act
 12379	act
@@ -1437,7 +1432,7 @@ act
 12684	sta
 12686	sta
 12699	act
-12705	act
+12705	sta
 12713	act
 12717	sta
 12723	sta
@@ -1469,7 +1464,7 @@ act
 12949	sta
 12956	sta
 12964	act
-12968	sta
+12968	act
 12970	act
 12978	sta
 12991	sta
@@ -1479,11 +1474,11 @@ act
 13019	sta
 13026	sta
 13035	sta
-13043	sta
+13043	act
 13048	act
 13053	sta
 13061	sta
-13080	act
+13080	sta
 13085	act
 13092	sta
 13104	act
@@ -1500,7 +1495,7 @@ act
 13171	sta
 13174	act
 13178	act
-13182	act
+13182	sta
 13189	act
 13193	act
 13200	act
@@ -1571,20 +1566,20 @@ sta
 13693	act
 13696	act
 13703	sta
-13706	act
+13706	sta
 13708	act
 13714	act
 13719	sta
 13722	act
 13725	act
 13730	act
-13732	act
+13732	sta
 13735	act
 13740	act
 act
 13745	act
 13749	act
-13761	act
+13761	sta
 13767	act
 13769	act
 13775	sta
@@ -1596,7 +1591,7 @@ act
 13824	sta
 13830	act
 13837	act
-13844	act
+13844	sta
 13848	act
 sta
 13852	act
@@ -1613,7 +1608,7 @@ sta
 13932	act
 13939	act
 13942	act
-13944	sta
+13944	act
 13946	sta
 13948	act
 13956	act
@@ -1648,7 +1643,7 @@ sta
 14156	act
 14161	act
 14165	act
-14168	sta
+14168	act
 14171	act
 14180	act
 14187	act
@@ -1658,7 +1653,7 @@ sta
 14211	act
 14216	act
 14221	sta
-14223	act
+14223	sta
 14237	act
 14245	act
 act
@@ -1686,14 +1681,13 @@ act
 14408	act
 14415	act
 14423	sta
-14427	act
-14431	sta
+14427	sta
+14431	act
 14439	sta
 14445	act
 14449	act
 14457	act
 14462	sta
-14466	sta
 14472	act
 14476	sta
 14484	sta
@@ -1701,7 +1695,7 @@ act
 14508	act
 14510	act
 14513	sta
-14518	sta
+14518	act
 act
 14527	sta
 14543	sta
@@ -1717,7 +1711,7 @@ act
 14616	act
 14619	act
 14621	sta
-14627	act
+14627	sta
 14635	act
 14639	sta
 14650	act
@@ -1728,10 +1722,10 @@ act
 14687	act
 14691	sta
 14697	sta
-14700	act
+14700	sta
 14722	act
 14732	act
-14745	act
+14745	sta
 14748	sta
 14753	sta
 14783	act
@@ -1786,7 +1780,7 @@ sta
 15141	act
 15166	act
 15192	sta
-15194	act
+15194	sta
 15212	act
 15226	act
 15235	sta
@@ -1835,7 +1829,7 @@ act
 15515	sta
 15521	sta
 15530	act
-15532	act
+15532	sta
 15538	sta
 15544	act
 15554	act
@@ -1851,7 +1845,7 @@ act
 15652	sta
 15660	act
 15672	act
-15678	act
+15678	sta
 15682	sta
 15687	act
 15703	act
@@ -1874,13 +1868,13 @@ act
 15810	sta
 15815	sta
 15821	act
-15824	act
+15824	sta
 15832	act
 15841	act
 15846	act
 15848	act
-15856	act
-15863	act
+15856	sta
+15863	sta
 15876	act
 15878	sta
 15882	sta
@@ -1889,7 +1883,7 @@ act
 15918	act
 15927	act
 15932	sta
-15937	act
+15937	sta
 15950	act
 sta
 15956	act
@@ -1940,7 +1934,7 @@ act
 16349	sta
 16351	sta
 16368	sta
-16381	act
+16381	sta
 16387	act
 sta
 16400	act
@@ -1972,7 +1966,7 @@ act
 16580	act
 16589	sta
 16594	act
-16610	sta
+16610	act
 act
 16618	act
 16628	act
@@ -1981,13 +1975,13 @@ act
 16647	act
 16670	act
 16673	act
-16675	sta
+16675	act
 16678	act
 16706	act
 16714	act
 16720	sta
 16729	sta
-16751	sta
+16751	act
 16753	act
 16758	sta
 16777	sta
@@ -2026,7 +2020,7 @@ act
 17016	sta
 17027	act
 17029	act
-17041	sta
+17041	act
 17052	act
 17068	act
 17084	act
@@ -2130,7 +2124,7 @@ act
 17867	act
 17870	act
 17877	sta
-17887	sta
+17887	act
 17893	sta
 17907	act
 17912	sta
@@ -2162,7 +2156,7 @@ act
 18130	act
 18134	act
 18139	act
-18150	act
+18150	sta
 18158	act
 18162	sta
 18171	act
@@ -2207,23 +2201,23 @@ act
 18461	sta
 18467	sta
 18478	sta
-18481	act
+18481	sta
 18484	sta
 18493	sta
 18498	act
 18504	act
 18510	act
 sta
-18522	act
+18522	sta
 18524	sta
 18530	sta
 18540	act
 18542	act
 18549	act
 18554	act
-18559	act
+18559	sta
 18570	act
-18574	act
+18574	sta
 18581	act
 18583	act
 18587	act
@@ -2251,7 +2245,7 @@ sta
 18727	sta
 18730	sta
 18733	sta
-18740	act
+18740	sta
 18745	sta
 18749	act
 18768	act
@@ -2264,7 +2258,7 @@ sta
 18841	sta
 18844	sta
 18871	sta
-18874	act
+18874	sta
 18894	sta
 18901	sta
 18904	sta
@@ -2282,12 +2276,12 @@ sta
 19038	act
 19042	act
 19046	act
-19050	sta
+19050	act
 act
 19054	sta
 19057	act
 19073	act
-19096	sta
+19096	act
 19098	act
 19101	act
 19114	sta
@@ -2327,8 +2321,8 @@ act
 19401	sta
 19434	sta
 19444	act
-19447	act
-19453	act
+19447	sta
+19453	sta
 19456	sta
 19507	act
 19517	sta
@@ -2368,8 +2362,8 @@ act
 20255	sta
 20257	sta
 20260	act
-20262	act
-20281	sta
+20262	sta
+20281	act
 20291	act
 20295	act
 20307	sta
@@ -2395,7 +2389,7 @@ act
 20460	act
 20464	act
 20472	act
-20479	act
+20479	sta
 act
 act
 20484	act
@@ -2411,11 +2405,11 @@ act
 20534	act
 20536	sta
 20538	sta
-20541	act
+20541	sta
 20548	act
 20550	act
 20553	act
-20557	act
+20557	sta
 20581	act
 20585	sta
 20588	act
@@ -2433,7 +2427,7 @@ act
 20662	act
 20664	sta
 20671	sta
-20678	act
+20678	sta
 20681	act
 20688	act
 20695	sta
@@ -2451,7 +2445,7 @@ act
 20782	act
 20787	act
 20796	sta
-20807	sta
+20807	act
 20820	act
 20834	sta
 20846	sta
@@ -2468,7 +2462,7 @@ act
 20940	sta
 20943	act
 20947	act
-20955	sta
+20955	act
 20960	sta
 20965	sta
 20969	sta
@@ -2507,7 +2501,7 @@ act
 21157	act
 21167	sta
 21170	act
-21176	sta
+21176	act
 21178	act
 21185	sta
 21201	sta
@@ -2569,7 +2563,7 @@ act
 21557	sta
 21564	act
 21572	act
-act
+sta
 21578	act
 21585	sta
 21596	sta
@@ -2577,14 +2571,14 @@ act
 21629	sta
 21633	sta
 21635	act
-21642	act
-21645	act
+21642	sta
+21645	sta
 21648	sta
 21651	sta
 21658	act
 21662	act
 21680	act
-act
+sta
 21684	sta
 21689	act
 21691	act
@@ -2598,10 +2592,10 @@ act
 sta
 act
 21725	act
-21728	act
+21728	sta
 21731	act
 21736	sta
-21738	act
+21738	sta
 21740	sta
 21743	act
 21745	sta
@@ -2619,7 +2613,7 @@ act
 21793	sta
 21797	act
 21801	sta
-21803	act
+21803	sta
 21809	act
 21812	act
 21818	act
@@ -2686,12 +2680,12 @@ act
 22589	sta
 22591	act
 22601	act
-22610	sta
+22610	act
 22615	act
 22619	act
-22631	act
+22631	sta
 22634	act
-act
+sta
 22646	act
 22654	act
 22661	sta
@@ -2711,7 +2705,7 @@ act
 22862	act
 22868	act
 22875	act
-22883	sta
+22883	act
 22897	sta
 22944	act
 22947	sta
@@ -2759,11 +2753,13 @@ sta
 23383	act
 23385	act
 23389	sta
+23407	sta
 23417	act
+23424	sta
 23432	sta
 23440	act
 23447	act
-23449	act
+23449	sta
 23463	sta
 23466	sta
 23488	act
@@ -2806,15 +2802,15 @@ act
 23758	act
 23761	act
 23771	sta
-23779	act
+23779	sta
 23782	act
 23793	act
 23796	act
 23799	act
 23801	sta
-23807	act
+23807	sta
 23816	sta
-23818	act
+23818	sta
 23831	act
 23834	act
 23837	sta
@@ -2884,7 +2880,7 @@ act
 24262	sta
 24264	act
 24269	act
-24279	sta
+24279	act
 24281	act
 24283	sta
 24286	sta
@@ -2899,15 +2895,13 @@ sta
 24365	act
 24369	act
 24378	sta
-24380	sta
+24380	act
 act
 24388	sta
 24396	act
-24408	sta
-sta
 24411	sta
 24422	sta
-24429	sta
+24429	act
 24434	sta
 24439	sta
 24445	act
@@ -2940,7 +2934,7 @@ sta
 24630	sta
 24633	sta
 24643	act
-24649	act
+24649	sta
 24652	act
 24655	act
 24660	act
@@ -2975,7 +2969,7 @@ sta
 24881	act
 24893	act
 24901	act
-24906	sta
+24906	act
 act
 24912	sta
 24914	act
@@ -2999,7 +2993,7 @@ act
 25043	sta
 25060	act
 25064	act
-25075	act
+25075	sta
 25080	act
 25089	act
 25092	sta
@@ -3057,8 +3051,8 @@ act
 act
 25472	sta
 25481	sta
-25487	act
-25490	act
+25487	sta
+25490	sta
 25494	act
 25516	act
 25520	act
@@ -3078,7 +3072,7 @@ act
 25686	sta
 25694	act
 25709	sta
-25718	act
+25718	sta
 25741	act
 25751	act
 act
@@ -3126,7 +3120,7 @@ sta
 26035	sta
 26043	sta
 26051	act
-26061	sta
+26061	act
 26067	act
 26086	act
 26089	sta
@@ -3136,14 +3130,13 @@ sta
 26184	sta
 26192	sta
 26275	sta
-26297	act
 26364	sta
 26382	act
 26386	act
 26416	act
 26433	act
 26441	act
-26451	act
+26451	sta
 26460	act
 26464	sta
 26468	sta
@@ -3208,6 +3201,7 @@ sta
 27015	sta
 27022	sta
 27031	sta
+27036	sta
 27041	sta
 27050	act
 27067	sta
@@ -3236,7 +3230,7 @@ sta
 27245	act
 27249	sta
 27255	act
-27266	act
+27266	sta
 27270	act
 27278	act
 27280	act
@@ -3256,7 +3250,6 @@ act
 27364	sta
 27366	sta
 27371	sta
-27387	act
 27393	act
 27405	sta
 27410	act
@@ -3299,8 +3292,8 @@ sta
 27778	act
 27783	act
 sta
-27798	act
-27802	act
+27798	sta
+27802	sta
 27823	sta
 27825	act
 27829	sta
@@ -3309,13 +3302,13 @@ sta
 27852	sta
 27882	act
 27892	act
-27901	sta
+27901	act
 27914	act
 27931	sta
 27972	sta
 27988	sta
 27999	sta
-28012	act
+28012	sta
 28032	sta
 28039	sta
 28062	sta
@@ -3330,7 +3323,7 @@ sta
 28244	act
 28248	sta
 28256	sta
-28260	act
+28260	sta
 28272	act
 28290	sta
 28296	sta
@@ -3375,7 +3368,7 @@ sta
 28589	act
 28600	act
 28603	act
-28607	act
+28607	sta
 28611	act
 28617	act
 28621	sta
@@ -3399,7 +3392,7 @@ sta
 28794	sta
 28804	sta
 28808	sta
-28838	sta
+28838	act
 28845	sta
 28849	act
 28866	sta
@@ -3474,7 +3467,7 @@ sta
 29412	sta
 29417	sta
 29420	act
-29426	act
+29426	sta
 29434	act
 29436	sta
 29446	sta
@@ -3482,7 +3475,7 @@ sta
 29462	act
 29466	sta
 29475	act
-29481	sta
+29481	act
 29490	act
 29495	act
 29498	act
@@ -3499,7 +3492,7 @@ sta
 29568	sta
 29577	sta
 29590	act
-29599	act
+29599	sta
 29604	sta
 29616	sta
 29622	sta
@@ -3520,7 +3513,7 @@ sta
 29754	sta
 29761	act
 29764	sta
-29774	act
+29774	sta
 29779	sta
 29791	act
 29833	act
@@ -3555,7 +3548,7 @@ sta
 30014	act
 30019	act
 act
-30051	act
+30051	sta
 30055	act
 30064	act
 30074	act
@@ -3572,7 +3565,7 @@ act
 30139	act
 30158	sta
 30172	act
-30180	act
+30180	sta
 30184	act
 30190	act
 30198	act
@@ -3580,7 +3573,7 @@ act
 30208	sta
 30212	act
 30217	act
-30231	act
+30231	sta
 30234	sta
 30255	act
 30259	act
@@ -3592,11 +3585,11 @@ act
 30290	act
 30295	act
 30299	sta
-30306	act
+30306	sta
 30322	sta
-30335	act
+30335	sta
 30339	sta
-30345	act
+30345	sta
 30349	sta
 30353	sta
 30358	sta
@@ -3670,7 +3663,7 @@ sta
 30767	act
 30774	act
 30779	act
-30791	act
+30791	sta
 30793	act
 30800	sta
 30806	act
@@ -3680,7 +3673,7 @@ sta
 30822	act
 30826	act
 30832	act
-30837	act
+30837	sta
 30841	act
 30845	sta
 30853	act
@@ -3749,10 +3742,10 @@ act
 31264	act
 31273	act
 31278	act
-31302	sta
+31302	act
 31307	sta
 31316	sta
-31321	act
+31321	sta
 31331	sta
 31335	act
 31342	act
@@ -3766,7 +3759,7 @@ act
 31398	sta
 31408	sta
 31415	act
-31423	act
+31423	sta
 31434	act
 31439	act
 act
@@ -3774,8 +3767,8 @@ act
 31447	act
 31454	act
 31460	act
-31465	act
-31469	act
+31465	sta
+31469	sta
 31476	act
 31484	act
 31494	act
@@ -3792,7 +3785,7 @@ act
 31755	act
 31758	act
 31770	act
-31781	act
+31781	sta
 31785	act
 31789	sta
 sta
@@ -3802,7 +3795,7 @@ sta
 31808	act
 31812	act
 31825	sta
-31836	act
+31836	sta
 31840	sta
 31846	act
 31860	sta
@@ -3826,7 +3819,8 @@ sta
 31971	act
 31982	act
 31995	sta
-32010	act
+32005	sta
+32010	sta
 32014	act
 32017	act
 32026	act
@@ -3837,7 +3831,7 @@ sta
 32067	act
 act
 32072	act
-32079	act
+32079	sta
 32083	act
 32087	sta
 32093	act
@@ -3854,7 +3848,8 @@ act
 32227	sta
 32243	sta
 32251	act
-32263	act
+32258	sta
+32263	sta
 32267	act
 32270	act
 32273	act
@@ -3893,7 +3888,7 @@ act
 32574	sta
 32597	sta
 32600	sta
-32609	act
+32609	sta
 32613	act
 32616	act
 32620	act
@@ -3907,7 +3902,8 @@ act
 32685	act
 32693	sta
 32704	act
-32718	act
+32713	sta
+32718	sta
 32722	act
 32725	act
 32739	act
@@ -3916,7 +3912,6 @@ act
 32748	act
 32751	act
 32755	act
-32759	act
 32774	sta
 32799	sta
 32803	sta
@@ -3956,7 +3951,7 @@ sta
 33038	act
 33042	act
 33048	act
-33051	act
+33051	sta
 33056	sta
 33094	sta
 33102	sta
@@ -3978,7 +3973,7 @@ sta
 33227	sta
 33244	sta
 33253	sta
-33271	act
+33271	sta
 33275	act
 33280	act
 33294	act
@@ -4021,6 +4016,7 @@ sta
 33745	sta
 33758	sta
 33760	sta
+33768	sta
 33773	act
 33779	act
 33785	act
@@ -4089,7 +4085,7 @@ sta
 34297	sta
 34314	sta
 34324	sta
-34330	sta
+34330	act
 34341	sta
 34346	act
 34351	act
@@ -4138,7 +4134,7 @@ act
 34631	act
 34633	act
 34641	act
-34646	act
+34646	sta
 34659	act
 34677	act
 34684	act
@@ -4214,12 +4210,12 @@ act
 35339	sta
 35346	act
 35356	sta
-35373	sta
+35373	act
 35384	sta
 35395	sta
 35397	act
 35405	act
-sta
+act
 act
 35417	act
 act
@@ -4227,6 +4223,7 @@ act
 35427	sta
 35430	act
 35432	act
+35438	sta
 35446	act
 35451	act
 35453	sta
@@ -4400,8 +4397,8 @@ sta
 37033	act
 37040	sta
 37074	sta
-37081	act
-37100	act
+37081	sta
+37100	sta
 37113	act
 37117	act
 37120	sta
@@ -4420,7 +4417,7 @@ act
 37263	act
 37284	sta
 37293	act
-37296	act
+37296	sta
 37306	act
 37312	act
 37319	sta
@@ -4445,22 +4442,22 @@ sta
 37499	sta
 37502	act
 37510	sta
-37515	act
+37515	sta
 37527	act
 37530	sta
 37538	act
 37545	sta
-37547	act
+37547	sta
 37565	act
 37569	act
 37575	act
-37580	act
+37580	sta
 37584	sta
 37586	act
 37594	act
 37607	act
 37612	act
-act
+sta
 37618	act
 37621	act
 37625	act
@@ -4485,7 +4482,7 @@ act
 37762	sta
 37771	act
 37776	sta
-37782	act
+37782	sta
 37786	sta
 37820	sta
 37836	act
@@ -4565,7 +4562,7 @@ sta
 38441	sta
 38460	act
 38465	act
-38480	act
+38480	sta
 38489	act
 38498	act
 38505	sta
@@ -4602,7 +4599,7 @@ sta
 38818	act
 38828	act
 38847	act
-38851	act
+38851	sta
 38856	sta
 38859	sta
 38868	act
@@ -4618,7 +4615,7 @@ sta
 38967	act
 38971	sta
 38981	act
-38985	act
+38985	sta
 38991	act
 38994	act
 39004	sta
@@ -4638,7 +4635,7 @@ sta
 39121	act
 39125	act
 39131	act
-39138	act
+39138	sta
 39142	act
 39146	sta
 39160	sta
@@ -4653,7 +4650,7 @@ sta
 39211	act
 39220	act
 39226	act
-39234	act
+39234	sta
 39238	act
 39256	act
 39260	act
@@ -4685,7 +4682,7 @@ sta
 39498	act
 39501	act
 39515	sta
-39517	act
+39517	sta
 39534	act
 39543	act
 39552	act
@@ -4720,7 +4717,7 @@ sta
 39867	sta
 39871	act
 39874	act
-39878	act
+39878	sta
 39881	act
 39885	sta
 39887	act
@@ -4781,8 +4778,8 @@ sta
 40251	sta
 40257	act
 40268	sta
-40270	act
-40274	sta
+40270	sta
+40274	act
 40285	act
 40288	sta
 40294	act
@@ -4806,7 +4803,7 @@ sta
 40488	act
 40500	sta
 40519	sta
-40521	act
+40521	sta
 40529	sta
 40531	act
 40537	sta
@@ -4849,25 +4846,25 @@ sta
 40850	sta
 40855	sta
 40859	act
-40871	act
+40871	sta
 40883	sta
-40895	act
+40895	sta
 40899	sta
 sta
 40913	sta
 40919	sta
 40928	sta
 40931	sta
-40939	act
+40939	sta
 40945	sta
 40951	sta
 40967	sta
 40972	sta
 40981	act
 40984	act
-40997	act
+40997	sta
 40999	sta
-41004	act
+41004	sta
 41010	act
 41024	sta
 41027	act
@@ -4908,9 +4905,9 @@ sta
 41334	act
 41351	act
 41357	act
-41367	act
+41367	sta
 41375	act
-41385	act
+41385	sta
 41389	act
 41392	act
 41398	sta
@@ -4948,7 +4945,7 @@ act
 41747	act
 41750	act
 41752	act
-41754	act
+41754	sta
 41756	sta
 41762	act
 41767	act
@@ -4959,7 +4956,7 @@ act
 41837	act
 41842	sta
 41845	sta
-41862	sta
+41862	act
 41868	act
 41878	act
 sta
@@ -5010,7 +5007,6 @@ act
 42386	sta
 42394	act
 42399	act
-42410	act
 42416	act
 42429	act
 42432	sta
@@ -5057,7 +5053,7 @@ act
 43092	sta
 43117	act
 43176	act
-43189	sta
+43189	act
 43201	act
 43214	act
 43218	sta
@@ -5187,7 +5183,7 @@ act
 44734	sta
 44745	sta
 44751	sta
-44763	act
+44763	sta
 44769	sta
 44775	sta
 44798	sta
@@ -5369,7 +5365,7 @@ act
 46489	act
 46505	sta
 46523	act
-46525	sta
+46525	act
 act
 46530	act
 46539	act
@@ -5388,7 +5384,7 @@ act
 46628	act
 46634	sta
 46638	act
-46642	sta
+46642	act
 46646	act
 46650	act
 46656	act
@@ -5420,10 +5416,10 @@ sta
 46825	act
 46827	act
 46831	act
-46874	act
+46874	sta
 46883	act
 46892	act
-46905	act
+46905	sta
 46907	sta
 46910	act
 46915	sta
@@ -5456,7 +5452,7 @@ sta
 47095	act
 47104	sta
 47117	act
-47124	act
+47124	sta
 47138	act
 47140	sta
 47155	sta
@@ -5487,7 +5483,7 @@ act
 47302	sta
 47334	act
 47343	sta
-47348	act
+47348	sta
 47367	act
 47371	act
 47381	act
@@ -5501,7 +5497,7 @@ act
 47434	act
 47445	sta
 47447	act
-47452	sta
+47452	act
 47466	act
 47470	sta
 47472	act
@@ -5509,7 +5505,7 @@ act
 47486	act
 47490	sta
 47498	sta
-47503	sta
+47503	act
 47508	act
 47513	act
 47522	act
@@ -5840,7 +5836,7 @@ sta
 51857	act
 51863	act
 51868	act
-51880	sta
+51880	act
 51886	sta
 51901	act
 51906	sta
@@ -5869,12 +5865,12 @@ sta
 52109	act
 52113	act
 52115	sta
-52131	sta
-52135	sta
+52131	act
+52135	act
 52141	sta
 52145	sta
 52149	sta
-52153	sta
+52153	act
 52165	sta
 52176	act
 52181	sta
@@ -5905,16 +5901,13 @@ sta
 52393	act
 52397	sta
 52400	act
-52405	sta
+52405	act
 52418	sta
 52425	sta
 52431	sta
 52440	sta
 52449	act
 52461	sta
-52467	act
-52483	act
-52491	act
 52501	sta
 52513	act
 52517	act
@@ -6016,7 +6009,7 @@ act
 53596	sta
 53606	act
 53636	sta
-53661	act
+53661	sta
 53678	sta
 53684	sta
 53732	sta
@@ -6032,7 +6025,7 @@ act
 53852	sta
 53860	act
 53895	sta
-53913	act
+53913	sta
 53927	sta
 53930	sta
 53934	act
@@ -6053,7 +6046,7 @@ act
 54028	sta
 54038	sta
 54048	sta
-54057	act
+54057	sta
 54067	sta
 54076	act
 54083	sta
@@ -6067,7 +6060,7 @@ act
 54133	sta
 54142	sta
 54150	sta
-54160	act
+54160	sta
 54180	sta
 54191	act
 54196	sta
@@ -6078,13 +6071,13 @@ act
 54224	sta
 54229	sta
 54239	sta
-54249	act
+54249	sta
 54270	sta
 54280	act
 54287	sta
 54289	sta
 54294	sta
-54296	act
+54296	sta
 54303	sta
 54305	sta
 54310	act
@@ -6434,7 +6427,7 @@ sta
 57355	act
 57362	act
 57374	sta
-57381	act
+57381	sta
 57385	sta
 57394	sta
 57398	sta
@@ -6490,7 +6483,7 @@ act
 57806	act
 57813	act
 57828	act
-57838	act
+57838	sta
 57845	act
 57853	act
 57855	act
@@ -6529,27 +6522,27 @@ act
 58318	sta
 58373	act
 58377	sta
-58384	act
+58384	sta
 58389	sta
 58403	act
 58409	act
 58411	sta
 58416	sta
-58422	act
+58422	sta
 58430	sta
 58433	sta
 58439	act
 58441	act
 58444	sta
 58453	sta
-58457	act
+58457	sta
 58461	sta
 58470	sta
 58478	sta
 58481	act
 58484	sta
-58487	act
-58505	act
+58487	sta
+58505	sta
 58514	sta
 58524	act
 58527	sta
@@ -6646,7 +6639,7 @@ act
 59531	sta
 59562	sta
 59581	sta
-59601	sta
+59601	act
 59613	sta
 59646	sta
 59649	sta
@@ -6694,14 +6687,14 @@ act
 60325	sta
 60344	act
 60355	sta
-60361	sta
+60361	act
 60366	sta
 60371	sta
 60374	act
 60379	sta
 60387	sta
-60393	sta
-60410	sta
+60393	act
+60410	act
 60412	sta
 60416	sta
 60423	sta
@@ -6764,7 +6757,7 @@ act
 61104	act
 61113	sta
 61124	act
-61157	act
+61157	sta
 61173	sta
 61177	act
 61185	sta
@@ -6774,7 +6767,7 @@ act
 61254	act
 61266	act
 61274	sta
-61280	act
+61280	sta
 61284	sta
 61289	act
 61293	sta
@@ -6793,7 +6786,7 @@ act
 61529	sta
 sta
 61538	sta
-61557	act
+61557	sta
 61561	sta
 61567	sta
 61569	sta
@@ -6841,7 +6834,7 @@ sta
 61824	sta
 61835	sta
 61845	sta
-61852	act
+61852	sta
 61858	sta
 61863	sta
 61870	sta
@@ -6850,7 +6843,7 @@ sta
 61879	sta
 61885	act
 61887	sta
-61894	act
+61894	sta
 61898	sta
 61902	sta
 61904	sta
@@ -6866,15 +6859,15 @@ sta
 61957	sta
 61960	act
 61962	sta
-61969	act
+61969	sta
 61973	sta
 61977	sta
-61985	act
+61985	sta
 61987	sta
 61991	sta
 62002	sta
 62012	sta
-62019	act
+62019	sta
 62027	sta
 62034	sta
 62037	sta
@@ -6895,7 +6888,7 @@ sta
 62146	act
 62151	sta
 62160	sta
-62174	act
+62174	sta
 62178	act
 62188	act
 62193	sta
@@ -7003,7 +6996,7 @@ act
 63066	act
 63068	act
 63077	act
-63084	act
+63084	sta
 63086	sta
 63096	act
 63103	sta
@@ -7035,7 +7028,7 @@ act
 63304	sta
 63308	sta
 63314	act
-63316	act
+63316	sta
 63320	sta
 63333	act
 63341	act
@@ -7092,7 +7085,7 @@ act
 63645	sta
 63647	act
 63653	sta
-63663	act
+63663	sta
 63673	sta
 63676	sta
 63681	sta
@@ -7172,7 +7165,7 @@ act
 64090	act
 64094	act
 64101	act
-64106	act
+64106	sta
 64114	sta
 64120	sta
 64124	sta
@@ -7208,7 +7201,7 @@ act
 64281	act
 64290	act
 64292	sta
-64300	sta
+64300	act
 64302	sta
 64306	sta
 64313	sta
@@ -7256,13 +7249,13 @@ act
 64593	act
 64598	act
 64603	sta
-64612	act
+64612	sta
 64618	sta
 64620	sta
-64627	act
+64627	sta
 64631	sta
 64634	act
-64640	act
+64640	sta
 64646	act
 64649	sta
 64655	sta
@@ -7281,7 +7274,7 @@ act
 64736	sta
 64743	sta
 64745	sta
-64749	act
+64749	sta
 64754	sta
 64759	sta
 64762	sta
@@ -7289,7 +7282,7 @@ act
 64780	sta
 64784	sta
 64786	sta
-64790	act
+64790	sta
 64795	sta
 64797	sta
 64799	sta
@@ -7330,7 +7323,7 @@ act
 65024	sta
 65029	sta
 65031	act
-65039	sta
+65039	act
 65044	act
 65047	sta
 65052	sta
@@ -7347,7 +7340,7 @@ act
 65107	act
 65111	sta
 65115	sta
-65124	act
+65124	sta
 65131	sta
 65135	sta
 65142	sta
@@ -7454,7 +7447,7 @@ act
 65835	sta
 65838	act
 65843	act
-65850	act
+65850	sta
 65852	sta
 65864	sta
 65879	sta
@@ -7708,7 +7701,7 @@ act
 67688	sta
 67693	sta
 67695	sta
-67700	sta
+67700	act
 67715	sta
 67720	act
 67737	act
@@ -7720,7 +7713,7 @@ act
 67791	sta
 67799	sta
 67802	act
-67806	act
+67806	sta
 67812	sta
 67815	sta
 67822	sta
@@ -7792,14 +7785,14 @@ act
 68219	act
 68224	sta
 68230	sta
-68236	act
+68236	sta
 68241	sta
 68250	act
 68254	act
-68258	act
+68258	sta
 68265	act
 68273	act
-68275	act
+68275	sta
 68283	act
 68286	sta
 68289	sta
@@ -7815,7 +7808,7 @@ act
 68341	sta
 68345	sta
 68349	act
-68355	act
+68355	sta
 68359	act
 68370	sta
 68375	sta
@@ -7832,7 +7825,7 @@ act
 68427	sta
 68431	act
 68434	act
-68441	act
+68441	sta
 68444	act
 68446	sta
 68452	sta
@@ -7842,7 +7835,7 @@ act
 68486	sta
 68490	act
 68495	sta
-68497	act
+68497	sta
 68500	sta
 68507	act
 68514	sta
@@ -7863,7 +7856,7 @@ act
 68587	act
 68593	act
 68596	sta
-68602	act
+68602	sta
 68605	act
 68610	act
 68616	sta
@@ -7895,7 +7888,7 @@ sta
 68736	act
 68744	act
 68750	act
-68754	act
+68754	sta
 68759	act
 68772	sta
 68779	sta
@@ -7950,21 +7943,21 @@ act
 69205	sta
 69207	sta
 69214	sta
-69236	sta
+69236	act
 69241	sta
 69245	sta
 69251	sta
 69258	sta
 69263	sta
 69280	sta
-69284	sta
+69284	act
 69290	sta
 69293	act
 69305	sta
 69317	sta
 69322	sta
 69325	sta
-69331	sta
+69331	act
 69336	sta
 69342	sta
 69350	sta
@@ -8017,7 +8010,7 @@ act
 70310	act
 70317	act
 70335	act
-70366	sta
+70366	act
 70375	sta
 70400	sta
 70407	act
@@ -8193,7 +8186,7 @@ act
 act
 72922	act
 72930	sta
-72934	act
+72934	sta
 72948	sta
 72958	act
 72968	sta
@@ -8211,7 +8204,7 @@ act
 73072	sta
 73087	sta
 73099	act
-73105	act
+73105	sta
 73132	sta
 73134	sta
 73154	act
@@ -8228,7 +8221,7 @@ act
 73298	sta
 73300	sta
 73305	act
-73317	act
+73317	sta
 73320	sta
 73331	sta
 73352	sta
@@ -8248,15 +8241,15 @@ act
 73499	act
 73529	sta
 73536	sta
-73540	sta
-73550	sta
+73540	act
+73550	act
 73557	act
 73572	act
 73583	act
 73587	sta
 73592	sta
 73608	act
-73619	act
+73619	sta
 73621	sta
 73630	sta
 73633	act
@@ -8266,7 +8259,7 @@ act
 73694	act
 73704	act
 73714	act
-73723	sta
+73723	act
 73733	sta
 73739	sta
 73749	sta
@@ -8285,7 +8278,7 @@ act
 73877	sta
 73887	sta
 73890	sta
-73893	sta
+73893	act
 73901	sta
 73918	sta
 73921	act
@@ -8351,7 +8344,7 @@ sta
 75143	sta
 75213	act
 75219	act
-75222	act
+75222	sta
 75243	act
 75246	act
 75251	act
@@ -8434,7 +8427,7 @@ sta
 75903	act
 75914	act
 75917	sta
-75919	act
+75919	sta
 75921	act
 75925	act
 75930	act
@@ -8454,18 +8447,14 @@ act
 76037	act
 76049	act
 76052	sta
-76066	sta
+76066	act
 76070	sta
 76084	sta
 76094	sta
 76098	sta
-76106	act
 76163	act
 76175	sta
 76195	sta
-76203	act
-76216	act
-76245	act
 76259	act
 76267	act
 76272	act
@@ -8477,8 +8466,7 @@ act
 76381	sta
 76419	sta
 76430	sta
-76446	act
-76569	sta
+76569	act
 76574	act
 76653	act
 76669	act
@@ -8497,12 +8485,12 @@ act
 76723	sta
 76768	sta
 76774	act
-76776	sta
+76776	act
 76782	act
 76789	act
 act
 76796	sta
-76806	act
+76806	sta
 76817	act
 76838	act
 76859	act
@@ -8511,7 +8499,7 @@ act
 76875	act
 76943	act
 76947	sta
-76968	act
+76968	sta
 76991	act
 77002	act
 77007	sta
@@ -8571,7 +8559,7 @@ sta
 77446	sta
 77452	sta
 77458	sta
-77504	sta
+77504	act
 77522	sta
 77528	sta
 77553	act
@@ -8583,7 +8571,7 @@ sta
 77608	act
 77614	act
 77620	act
-77622	act
+77622	sta
 77640	act
 77651	act
 77657	act
@@ -8591,7 +8579,7 @@ sta
 77671	act
 77676	act
 77679	act
-act
+sta
 77684	sta
 77695	act
 77709	act
@@ -8658,13 +8646,13 @@ act
 78449	sta
 78460	sta
 78464	act
-78472	act
+78472	sta
 78479	sta
 78486	act
 78489	act
 78493	sta
 78496	act
-78499	act
+78499	sta
 78529	act
 78536	act
 78540	act
@@ -8679,15 +8667,15 @@ act
 78645	act
 78652	act
 78661	act
-78666	act
+78666	sta
 78669	act
 78680	act
-78687	act
+78687	sta
 78706	sta
 78713	act
 78723	sta
 78733	act
-78737	act
+78737	sta
 78741	act
 78747	act
 78757	act
@@ -8700,7 +8688,7 @@ act
 78825	act
 78847	sta
 78854	act
-78869	act
+78869	sta
 78873	sta
 78878	act
 78885	sta
@@ -8712,11 +8700,11 @@ act
 78919	act
 78929	act
 78937	act
-78959	act
+78959	sta
 act
 78970	act
 78974	act
-78981	act
+78981	sta
 79000	act
 79005	act
 79024	act
@@ -8724,7 +8712,7 @@ act
 79029	act
 79032	sta
 79037	sta
-79042	act
+79042	sta
 79050	sta
 79058	act
 79062	sta
@@ -8750,7 +8738,7 @@ act
 79231	act
 79240	act
 79248	act
-79262	act
+79262	sta
 79269	act
 79275	sta
 79281	act
@@ -8852,10 +8840,10 @@ act
 80049	act
 80055	sta
 80063	sta
-80084	sta
+80084	act
 80110	act
-80131	act
-80134	act
+80131	sta
+80134	sta
 80138	act
 80146	act
 80159	act
@@ -8866,7 +8854,7 @@ sta
 80182	sta
 80190	sta
 80204	act
-80208	act
+80208	sta
 80216	sta
 80224	act
 80228	act
@@ -8896,21 +8884,19 @@ sta
 80443	act
 80451	act
 80460	sta
-80465	act
+80465	sta
 80469	act
 80480	sta
 80488	act
 80493	act
 act
 80499	act
-act
-80510	sta
+80510	act
 80513	act
 80519	act
 80524	act
 80529	act
 80543	act
-80554	act
 80568	act
 80579	act
 80583	sta
@@ -8949,7 +8935,7 @@ act
 80918	act
 80923	act
 80932	sta
-80937	act
+80937	sta
 80941	act
 80945	sta
 80950	sta
@@ -9142,7 +9128,7 @@ sta
 82616	act
 82620	act
 82644	act
-82657	act
+82657	sta
 82666	act
 82671	act
 sta
@@ -9152,7 +9138,7 @@ sta
 82711	sta
 82722	act
 82736	act
-82738	act
+82738	sta
 82748	act
 82752	sta
 82757	act
@@ -9166,7 +9152,7 @@ sta
 82832	sta
 82838	act
 82844	sta
-82861	act
+82861	sta
 82867	act
 82878	act
 82883	act
@@ -9199,12 +9185,12 @@ sta
 83069	act
 83093	sta
 83109	sta
-83126	act
+83126	sta
 83131	sta
 83135	act
 83155	act
 83158	sta
-83171	act
+83171	sta
 83177	sta
 83188	act
 83216	act
@@ -9295,12 +9281,12 @@ act
 84037	act
 84049	act
 84054	act
-84065	sta
+84065	act
 84071	act
 84075	act
 84082	sta
 84084	act
-84087	sta
+84087	act
 84091	act
 84095	act
 84098	act
@@ -9324,11 +9310,11 @@ act
 84203	act
 84207	act
 84209	act
-84212	sta
+84212	act
 act
 84221	act
 84224	act
-84226	sta
+84226	act
 84236	act
 84245	act
 84267	sta
@@ -9368,7 +9354,7 @@ act
 84565	act
 84568	act
 84570	act
-84576	act
+84576	sta
 84579	act
 84582	act
 84598	act
@@ -9433,18 +9419,18 @@ act
 84994	act
 84997	act
 85000	act
-sta
-85004	act
+act
+85004	sta
 85021	act
 85024	act
 85026	act
-85029	sta
+85029	act
 85032	sta
 85037	act
 85045	sta
 85057	act
-85090	sta
-85096	act
+85090	act
+85096	sta
 85098	act
 85105	act
 85121	act
@@ -9467,12 +9453,12 @@ sta
 85249	sta
 85254	act
 85257	act
-85270	act
+85270	sta
 85296	sta
 85320	act
 85327	act
-85337	act
-85344	sta
+85337	sta
+85344	act
 85361	act
 85368	act
 85382	act
@@ -9489,10 +9475,10 @@ sta
 85444	act
 85456	act
 85459	act
-85472	act
+85472	sta
 85476	sta
 85486	sta
-85499	sta
+85499	act
 85513	sta
 85517	sta
 85523	act
@@ -9512,7 +9498,7 @@ sta
 85587	sta
 85595	sta
 85598	sta
-85606	sta
+85606	act
 85609	act
 85611	act
 85617	act
@@ -9530,7 +9516,7 @@ sta
 85707	act
 85709	act
 85732	sta
-85741	sta
+85741	act
 85747	sta
 85752	act
 85781	sta
@@ -9572,7 +9558,6 @@ act
 86676	sta
 86682	sta
 86754	act
-86785	act
 86799	sta
 86804	act
 86811	sta
@@ -9627,7 +9612,7 @@ act
 87236	sta
 87255	act
 87260	sta
-87265	act
+87265	sta
 87276	sta
 87289	act
 87293	act
@@ -9710,34 +9695,34 @@ act
 88591	sta
 88596	act
 88599	act
-88616	act
-88631	sta
-88641	sta
-88649	act
-88659	sta
+88616	sta
+88631	act
+88641	act
+88649	sta
+88659	act
 88671	sta
-88685	act
-88689	act
-88694	sta
-88702	sta
-88707	act
+88685	sta
+88689	sta
+88694	act
+88702	act
+88707	sta
 88712	sta
-88739	sta
-88754	act
-88763	sta
-88773	sta
+88739	act
+88754	sta
+88763	act
+88773	act
 88777	sta
-88782	act
-88793	sta
+88782	sta
+88793	act
 88795	sta
 88807	sta
-88810	sta
+88810	act
 88813	sta
-88825	sta
-88835	sta
-88842	act
+88825	act
+88835	act
+88842	sta
 88846	sta
-88849	act
+88849	sta
 88851	act
 88858	act
 88875	act
@@ -9840,7 +9825,7 @@ act
 90121	sta
 90138	sta
 90143	act
-90151	sta
+90151	act
 90167	act
 90171	sta
 90174	sta
@@ -9899,7 +9884,7 @@ act
 91085	act
 91097	sta
 91104	act
-91136	act
+91136	sta
 91143	sta
 91151	act
 91249	act
@@ -9929,7 +9914,7 @@ act
 act
 91410	act
 91414	act
-91423	act
+91423	sta
 91432	sta
 91443	sta
 91463	act
@@ -10097,11 +10082,11 @@ sta
 93090	sta
 93110	act
 93119	act
-act
+sta
 93124	act
-93146	act
+93146	sta
 93164	act
-93167	act
+93167	sta
 93169	act
 93181	act
 93187	act
@@ -10150,7 +10135,7 @@ sta
 93451	act
 93469	act
 93491	act
-93499	act
+93499	sta
 93507	act
 93509	act
 93511	sta
@@ -10180,14 +10165,14 @@ sta
 93662	act
 93672	act
 93677	act
-93681	act
+93681	sta
 93690	act
 93694	act
 93698	sta
 93707	act
 93711	act
 93722	act
-93730	act
+93730	sta
 93739	sta
 93748	sta
 93750	act
@@ -10221,7 +10206,7 @@ act
 93978	sta
 93982	act
 93988	sta
-93992	sta
+93992	act
 93994	act
 94000	act
 94008	act
@@ -10254,7 +10239,7 @@ act
 94181	act
 94184	sta
 94186	sta
-94188	sta
+94188	act
 94191	act
 94195	sta
 sta
@@ -10262,7 +10247,7 @@ sta
 sta
 94218	sta
 sta
-94232	act
+94232	sta
 94253	act
 act
 94263	act
@@ -10341,7 +10326,7 @@ sta
 95044	act
 95050	act
 95053	sta
-95080	act
+95080	sta
 95083	act
 95089	sta
 act
@@ -10353,7 +10338,7 @@ act
 95134	act
 95149	sta
 95151	sta
-95160	act
+95160	sta
 95173	act
 95175	sta
 95177	act
@@ -10374,7 +10359,7 @@ act
 95268	sta
 95270	act
 95272	act
-95283	act
+95283	sta
 95291	act
 95317	act
 95337	sta
@@ -10386,7 +10371,7 @@ act
 95414	act
 95416	sta
 95436	act
-95446	act
+95446	sta
 95450	sta
 95459	act
 95462	act
@@ -10425,27 +10410,27 @@ act
 95788	sta
 95800	act
 95811	sta
-95814	act
+95814	sta
 95817	act
 95820	act
 95822	act
 95829	act
 95844	act
 95855	act
-95860	act
+95860	sta
 95872	sta
 95880	act
 95889	sta
-95928	act
+95928	sta
 95932	act
-95939	act
+95939	sta
 95942	sta
 95948	act
 95950	sta
 95981	act
 95992	sta
 96010	sta
-96022	act
+96022	sta
 96030	sta
 96039	act
 96058	act
@@ -10469,7 +10454,7 @@ act
 96261	sta
 96313	act
 96319	act
-96321	act
+96321	sta
 96341	act
 96343	act
 96373	act
@@ -10504,32 +10489,32 @@ act
 96698	sta
 96706	sta
 96709	sta
-96711	act
+96711	sta
 96727	act
 96735	act
-96748	act
+96748	sta
 96757	sta
 96759	act
 96765	sta
 96769	sta
 96771	act
 96779	sta
-96782	act
+96782	sta
 96789	sta
-96795	act
+96795	sta
 96799	act
 96806	sta
 act
-96810	act
+96810	sta
 96814	act
 96819	act
 96824	act
-96829	act
+96829	sta
 96831	act
-96833	act
+96833	sta
 96839	act
 96842	act
-96845	act
+96845	sta
 96854	act
 96859	act
 96861	sta
@@ -10558,19 +10543,19 @@ act
 96991	sta
 96996	act
 97004	act
-97019	act
+97019	sta
 97022	act
 97024	act
 97034	act
-97044	act
+97044	sta
 97051	sta
 97067	sta
 97074	act
 97084	act
 97087	sta
 97092	act
-97098	act
-97101	sta
+97098	sta
+97101	act
 97109	sta
 97123	sta
 97125	act
@@ -10636,7 +10621,7 @@ act
 97669	act
 97673	act
 97675	sta
-97677	act
+97677	sta
 97684	act
 97686	act
 97689	act
@@ -10716,7 +10701,7 @@ act
 98329	sta
 98336	sta
 98340	act
-98343	sta
+98343	act
 98347	act
 98356	sta
 98364	act
@@ -10725,13 +10710,13 @@ act
 98379	sta
 98385	sta
 98389	sta
-98392	act
-98397	act
+98392	sta
+98397	sta
 98400	act
 98407	act
 98409	sta
 98430	sta
-98433	act
+98433	sta
 98441	sta
 98449	act
 98455	sta
@@ -10743,7 +10728,7 @@ act
 98490	sta
 98515	act
 98517	sta
-98534	sta
+98534	act
 98539	act
 98551	sta
 98558	sta
@@ -10762,7 +10747,7 @@ act
 98687	sta
 98695	sta
 98707	act
-98710	sta
+98710	act
 98719	act
 98728	act
 act
@@ -10780,7 +10765,7 @@ sta
 98854	sta
 98856	act
 98878	sta
-98881	act
+98881	sta
 98897	sta
 98912	act
 98916	sta
@@ -10790,7 +10775,7 @@ sta
 act
 98969	sta
 98974	sta
-98988	act
+98988	sta
 98992	sta
 98997	sta
 99016	act
@@ -10828,11 +10813,11 @@ act
 99311	sta
 99324	act
 99330	sta
-99345	act
+99345	sta
 99355	sta
 99357	sta
 99359	act
-99362	sta
+99362	act
 act
 99371	act
 99373	sta
@@ -10873,6 +10858,7 @@ act
 99748	act
 99750	act
 99757	act
+99761	sta
 99763	act
 99765	sta
 99771	act
@@ -10886,7 +10872,7 @@ act
 99833	act
 99836	sta
 99867	sta
-99870	act
+99870	sta
 99875	act
 99880	sta
 99886	act
@@ -10906,8 +10892,8 @@ act
 99998	act
 100001	sta
 100006	act
-100012	act
-100015	sta
+100012	sta
+100015	act
 100034	act
 100039	sta
 100051	act
@@ -10922,9 +10908,9 @@ act
 100147	act
 100149	sta
 100151	sta
-100163	act
+100163	sta
 100170	act
-100179	act
+100179	sta
 100191	act
 100196	act
 100202	sta
@@ -10978,7 +10964,7 @@ act
 100630	sta
 100640	act
 100652	act
-100656	act
+100656	sta
 100663	act
 100693	act
 100718	act
@@ -10996,10 +10982,11 @@ act
 100802	act
 100811	act
 100818	act
+100820	sta
 100823	act
 100834	act
 100841	act
-100845	act
+100845	sta
 100850	act
 100859	act
 100868	sta
@@ -11008,7 +10995,7 @@ act
 100882	act
 100904	act
 act
-100907	act
+100907	sta
 100916	act
 100927	act
 100938	sta
@@ -11027,20 +11014,20 @@ act
 101026	act
 101028	act
 101030	sta
-101037	sta
+101037	act
 101045	sta
 101051	act
 101058	act
 101061	act
 act
 101068	sta
-101072	act
+101072	sta
 101092	sta
 101095	sta
 101109	act
 101112	sta
 101116	act
-101120	act
+101120	sta
 101123	act
 101138	sta
 101140	act
@@ -11052,7 +11039,7 @@ act
 101199	act
 101204	sta
 101231	sta
-101235	act
+101235	sta
 101247	sta
 101251	sta
 101253	sta
@@ -11060,11 +11047,11 @@ act
 101274	sta
 101276	act
 101284	act
-101294	act
+101294	sta
 101296	sta
 101299	sta
 101301	act
-101312	act
+101312	sta
 101319	sta
 101322	sta
 101325	act
@@ -11081,7 +11068,7 @@ act
 101438	sta
 101444	sta
 101447	act
-101451	act
+101451	sta
 101457	act
 101463	act
 101467	act
@@ -11127,7 +11114,7 @@ act
 102038	sta
 102051	sta
 102055	sta
-102059	act
+102059	sta
 102065	act
 102067	act
 102076	act
@@ -11164,7 +11151,6 @@ act
 102359	act
 102368	act
 102378	act
-102383	act
 102391	sta
 102396	act
 102409	act
@@ -11172,7 +11158,7 @@ act
 102434	sta
 102440	act
 102458	act
-102462	act
+102462	sta
 102466	act
 102472	act
 102482	act
@@ -11221,7 +11207,7 @@ act
 102912	sta
 102915	sta
 102925	act
-102929	sta
+102929	act
 102933	sta
 102937	sta
 102945	sta
@@ -11232,7 +11218,7 @@ act
 102986	act
 102990	act
 103008	act
-103013	act
+103013	sta
 103023	act
 103031	act
 103044	act
@@ -11241,7 +11227,7 @@ act
 103079	sta
 103087	sta
 103093	sta
-103133	sta
+103133	act
 103135	act
 103145	act
 103156	sta
@@ -11251,10 +11237,10 @@ act
 103207	act
 103209	act
 103225	act
-103230	act
+103230	sta
 103235	sta
 103247	sta
-103262	act
+103262	sta
 103264	sta
 103270	act
 103277	sta
@@ -11300,23 +11286,23 @@ sta
 103660	act
 103676	sta
 103687	sta
-103694	act
+103694	sta
 103699	sta
-103709	sta
-103714	act
+103709	act
+103714	sta
 103730	act
 103732	sta
-103734	act
+103734	sta
 103748	sta
 103752	sta
 103754	act
 103759	act
-103761	sta
+103761	act
 103768	sta
 103773	act
 103778	act
 103780	sta
-103785	act
+103785	sta
 103789	act
 103802	act
 103809	act
@@ -11370,7 +11356,7 @@ sta
 104117	sta
 104122	sta
 104124	sta
-104131	sta
+104131	act
 104134	act
 104137	sta
 104139	act
@@ -11379,15 +11365,15 @@ sta
 104164	sta
 104196	sta
 104199	sta
-104201	sta
+104201	act
 104217	sta
-104227	sta
-104230	sta
+104227	act
+104230	act
 104240	sta
 104259	sta
 104281	act
 104287	act
-104299	act
+104299	sta
 104301	sta
 104304	sta
 104306	act
@@ -11399,7 +11385,7 @@ sta
 104366	act
 104375	act
 104380	act
-104382	act
+104382	sta
 104397	sta
 104410	act
 104421	act
@@ -11453,7 +11439,7 @@ act
 104781	act
 104795	sta
 104798	sta
-act
+sta
 104806	act
 104808	act
 104822	sta
@@ -11461,7 +11447,7 @@ act
 104899	sta
 104917	sta
 104931	act
-104934	act
+104934	sta
 104943	sta
 act
 104953	sta
@@ -11471,7 +11457,7 @@ act
 104998	sta
 105009	sta
 105014	act
-105019	sta
+105019	act
 105023	act
 105034	sta
 105049	act
@@ -11486,15 +11472,15 @@ act
 105121	sta
 105147	sta
 105165	sta
-105173	act
+105173	sta
 105182	sta
-105186	act
+105186	sta
 105195	act
 105205	act
-105215	act
+105215	sta
 105222	sta
 105230	sta
-105240	act
+105240	sta
 105242	sta
 105245	sta
 105252	sta
@@ -11513,8 +11499,8 @@ act
 105345	sta
 105348	act
 105354	sta
-105360	act
-105368	sta
+105360	sta
+105368	act
 105371	sta
 105378	sta
 105387	act
@@ -11523,8 +11509,8 @@ act
 105435	sta
 105448	act
 105454	sta
-105459	act
-105461	act
+105459	sta
+105461	sta
 105464	act
 105474	act
 105488	sta
@@ -11558,27 +11544,27 @@ act
 105677	sta
 105679	act
 105684	act
-105696	act
+105696	sta
 105702	sta
-105708	act
+105708	sta
 105722	sta
 105729	act
-105735	act
+105735	sta
 105738	act
 105754	sta
 105773	sta
 105788	act
-105797	act
-105802	act
+105797	sta
+105802	sta
 105805	sta
-105809	act
+105809	sta
 105818	act
-105829	sta
+105829	act
 105845	act
 105856	act
-105866	act
+105866	sta
 105871	sta
-105875	act
+105875	sta
 105885	sta
 105890	sta
 105893	act
@@ -11592,10 +11578,9 @@ act
 105968	act
 105983	act
 105986	sta
-105990	act
+105990	sta
 106004	sta
 106027	sta
-106032	act
 106036	act
 106042	act
 106053	sta
@@ -11674,10 +11659,10 @@ sta
 106561	act
 106570	sta
 106578	act
-106591	act
+106591	sta
 106595	act
 106601	act
-106605	act
+106605	sta
 106612	sta
 106619	sta
 106636	sta
@@ -11718,11 +11703,11 @@ sta
 106886	act
 106889	sta
 106896	sta
-106901	sta
+106901	act
 106920	sta
 106924	act
 106932	act
-106936	sta
+106936	act
 106943	sta
 106946	act
 106951	act
@@ -11733,7 +11718,7 @@ sta
 106984	act
 107004	act
 107011	act
-107026	act
+107026	sta
 107037	sta
 107048	sta
 107062	sta
@@ -11770,7 +11755,7 @@ sta
 107281	sta
 107295	sta
 107297	sta
-107308	act
+107308	sta
 107313	sta
 107323	act
 107345	act
@@ -11791,7 +11776,7 @@ sta
 107485	act
 107492	act
 107504	sta
-107508	act
+107508	sta
 107513	act
 107517	act
 107536	sta
@@ -11803,7 +11788,7 @@ sta
 107584	sta
 107590	act
 107595	act
-107603	act
+107603	sta
 107612	sta
 107619	act
 107623	act
@@ -11818,14 +11803,14 @@ act
 107678	sta
 107683	act
 107693	sta
-107696	sta
+107696	act
 107717	act
 107720	act
 107727	sta
 107736	act
 107742	sta
 107744	act
-107748	sta
+107748	act
 107756	act
 107779	act
 107790	act
@@ -11834,8 +11819,8 @@ act
 107803	act
 107823	act
 107834	act
-107837	act
-107850	act
+107837	sta
+107850	sta
 107856	act
 107864	act
 107868	act
@@ -11851,42 +11836,42 @@ act
 107978	act
 107990	act
 108003	act
-108009	act
+108009	sta
 108014	sta
 108018	act
-108024	act
+108024	sta
 108029	act
-108035	act
+108035	sta
 108044	act
-108050	act
+108050	sta
 108054	act
 108060	act
 108066	act
 108072	sta
 108075	act
 108080	act
-108088	sta
+108088	act
 108096	act
 108099	act
 108105	sta
-108108	act
+108108	sta
 108114	act
 108116	act
 108122	act
 108126	sta
 108136	act
 108144	sta
-108146	act
+108146	sta
 108183	act
 108188	act
 sta
-108194	sta
+108194	act
 108196	act
 108202	act
 108208	act
 108211	act
 108232	sta
-108234	sta
+108234	act
 108242	act
 108245	act
 108251	act
@@ -11899,7 +11884,7 @@ sta
 108327	sta
 108336	sta
 108342	sta
-108346	act
+108346	sta
 108353	act
 108357	act
 108360	act
@@ -11907,7 +11892,7 @@ sta
 108378	act
 108383	act
 108385	sta
-108388	act
+108388	sta
 108394	act
 108396	act
 108404	act
@@ -11937,7 +11922,7 @@ act
 108630	act
 108642	sta
 108661	sta
-108677	act
+108677	sta
 108682	sta
 108685	sta
 108688	sta
@@ -11953,7 +11938,7 @@ act
 108761	sta
 act
 108785	act
-108792	sta
+108792	act
 108798	sta
 108803	act
 108811	sta
@@ -11972,7 +11957,7 @@ act
 108918	act
 108926	act
 108928	sta
-108933	act
+108933	sta
 108939	act
 108944	act
 108946	sta
@@ -11982,7 +11967,7 @@ act
 108995	sta
 109001	sta
 109003	act
-109021	act
+109021	sta
 109028	act
 109037	act
 109059	sta
@@ -12001,7 +11986,7 @@ act
 109312	act
 109318	sta
 109324	sta
-109333	act
+109333	sta
 109339	sta
 109350	sta
 109357	sta
@@ -12031,7 +12016,7 @@ act
 109582	sta
 109587	sta
 109591	sta
-109595	act
+109595	sta
 109602	act
 109623	act
 109631	sta
@@ -12044,7 +12029,7 @@ act
 109690	act
 109697	act
 109730	act
-109746	sta
+109746	act
 109755	sta
 109761	act
 109766	act
@@ -12058,14 +12043,14 @@ act
 109869	act
 109871	act
 109887	sta
-109889	act
+109889	sta
 109901	act
 109903	sta
 109909	act
 109918	sta
 109957	sta
 109979	act
-109986	sta
+109986	act
 109993	act
 109998	sta
 110025	act
@@ -12085,7 +12070,7 @@ act
 110191	sta
 110195	act
 110208	act
-110213	act
+110213	sta
 110220	act
 110242	act
 110255	sta
@@ -12098,12 +12083,12 @@ act
 110313	sta
 110328	act
 110331	act
-110333	act
+110333	sta
 110338	act
 110344	act
 110348	sta
 110369	act
-110382	act
+110382	sta
 110388	act
 110401	act
 110419	act
@@ -12126,7 +12111,7 @@ sta
 110544	act
 110547	sta
 110550	act
-110554	act
+110554	sta
 110558	act
 110563	act
 110570	sta
@@ -12136,7 +12121,7 @@ sta
 110604	sta
 110618	sta
 110623	sta
-110628	act
+110628	sta
 110642	sta
 110647	act
 110659	sta
@@ -12158,11 +12143,13 @@ sta
 110753	sta
 110758	act
 110765	act
+110767	sta
 110771	sta
 110782	act
 110788	sta
 110790	act
 110795	act
+110801	sta
 110806	act
 110816	act
 110821	sta
@@ -12176,12 +12163,12 @@ sta
 110878	act
 110893	act
 110907	act
-110936	act
+110936	sta
 110941	sta
 110946	act
 110948	act
 110960	sta
-act
+sta
 110965	sta
 110980	act
 110986	sta
@@ -12193,8 +12180,8 @@ act
 111008	act
 111027	sta
 111036	act
-111041	act
-111045	sta
+111041	sta
+111045	act
 111051	act
 111059	act
 111064	sta
@@ -12224,6 +12211,7 @@ act
 111240	act
 111260	act
 111266	act
+sta
 111272	act
 111280	act
 111284	sta
@@ -12245,7 +12233,7 @@ sta
 111428	act
 111442	sta
 111447	act
-111449	act
+111449	sta
 111476	act
 111523	act
 111526	sta
@@ -12274,7 +12262,7 @@ act
 111906	sta
 111916	act
 111925	act
-111929	sta
+111929	act
 111932	sta
 111935	sta
 111946	sta
@@ -12321,7 +12309,7 @@ act
 112304	sta
 112306	sta
 112314	act
-act
+sta
 112322	act
 112330	sta
 112334	act
@@ -12330,7 +12318,7 @@ act
 112367	sta
 112369	act
 112382	sta
-112403	sta
+112403	act
 112406	act
 112425	act
 112469	act
@@ -12362,10 +12350,10 @@ sta
 112834	sta
 112843	sta
 112847	sta
-112853	act
+112853	sta
 112858	act
 112861	act
-112867	sta
+112867	act
 112875	sta
 112891	act
 112920	act
@@ -12373,7 +12361,7 @@ sta
 112934	act
 112943	act
 112946	sta
-112949	sta
+112949	act
 act
 112968	sta
 112981	sta
@@ -12382,8 +12370,10 @@ act
 113028	sta
 113031	sta
 113037	sta
+sta
 113053	act
 113057	sta
+113060	sta
 113065	act
 113067	act
 113073	act
@@ -12391,6 +12381,7 @@ act
 113104	act
 113106	act
 113122	act
+sta
 113138	act
 113140	act
 113147	act
@@ -12422,19 +12413,20 @@ sta
 113309	act
 act
 113316	act
-113320	act
-113324	act
+113320	sta
+113324	sta
 113327	sta
 113333	sta
-113344	act
+113344	sta
 113350	act
 sta
+113353	sta
 113369	act
 act
 sta
 113379	act
 113381	act
-113389	act
+113389	sta
 113397	act
 113400	act
 113419	act
@@ -12457,17 +12449,17 @@ act
 113505	act
 113520	act
 113522	act
-113527	act
+113527	sta
 113530	act
 113536	act
 113540	sta
 113542	sta
-113550	act
-113563	act
+113550	sta
+113563	sta
 113575	act
 113580	act
-113600	act
-113606	sta
+113600	sta
+113606	act
 113631	act
 113637	act
 113641	act
@@ -12539,7 +12531,7 @@ act
 114134	sta
 114136	act
 114141	act
-114144	act
+114144	sta
 114150	act
 114154	sta
 114198	act
@@ -12551,7 +12543,7 @@ act
 114282	act
 114304	sta
 114312	sta
-114320	sta
+114320	act
 114343	sta
 114348	act
 114352	sta
@@ -12585,7 +12577,7 @@ act
 114576	act
 114586	act
 114592	sta
-114598	sta
+114598	act
 114614	sta
 114627	sta
 114633	sta
@@ -12615,7 +12607,7 @@ act
 114805	act
 114815	act
 114845	sta
-114849	sta
+114849	act
 114855	act
 114860	act
 114868	act
@@ -12627,7 +12619,7 @@ act
 114917	sta
 114929	sta
 114937	sta
-114939	act
+114939	sta
 114972	act
 114978	sta
 114991	act
@@ -12643,11 +12635,11 @@ act
 115081	act
 115088	sta
 115096	act
-115101	act
+115101	sta
 115106	act
 115116	act
 115121	sta
-115131	sta
+115131	act
 115138	sta
 115147	sta
 115150	sta
@@ -12670,7 +12662,7 @@ act
 115293	act
 115302	act
 115310	act
-115312	act
+115312	sta
 115318	act
 115320	act
 115324	act
@@ -12684,8 +12676,8 @@ sta
 115399	act
 115405	act
 115434	sta
-115442	act
-115454	act
+115442	sta
+115454	sta
 115460	act
 115466	act
 115474	act
@@ -12730,8 +12722,8 @@ act
 115797	sta
 115822	act
 115833	sta
-115835	act
-115849	act
+115835	sta
+115849	sta
 115854	act
 115904	act
 115906	act
@@ -12745,7 +12737,7 @@ act
 115988	sta
 116009	sta
 116039	act
-116047	sta
+116047	act
 116066	sta
 116071	sta
 116078	sta
@@ -12765,7 +12757,7 @@ act
 116207	act
 116216	act
 116226	sta
-116234	act
+116234	sta
 116250	act
 116255	act
 116261	act
@@ -12773,12 +12765,12 @@ act
 116279	sta
 116284	sta
 116292	act
-116302	act
+116302	sta
 116314	sta
 116322	act
 116328	act
-116332	sta
-116337	act
+116332	act
+116337	sta
 116340	sta
 116344	act
 116348	act
@@ -12786,17 +12778,17 @@ act
 116358	sta
 116361	act
 116364	sta
-116373	sta
+116373	act
 116378	act
 116383	sta
 116387	sta
 116389	sta
 116393	sta
-116398	sta
+116398	act
 sta
 116404	act
 116410	act
-116421	sta
+116421	act
 116432	act
 116439	sta
 116445	act
@@ -12826,20 +12818,20 @@ sta
 116730	act
 116742	sta
 116748	sta
-116760	sta
+116760	act
 116771	act
 116778	act
 116792	act
 116797	sta
 116801	sta
-116809	sta
+116809	act
 act
 116813	sta
 sta
 116831	act
 116840	act
 116852	sta
-116861	sta
+116861	act
 116869	act
 116885	act
 116888	act
@@ -12853,7 +12845,7 @@ sta
 116946	act
 act
 116956	act
-116961	sta
+116961	act
 116971	sta
 116977	sta
 116993	act
@@ -12884,7 +12876,7 @@ act
 117238	act
 117242	act
 117259	sta
-117275	sta
+117275	act
 117285	act
 117301	act
 117307	sta
@@ -12904,19 +12896,19 @@ act
 117411	sta
 117414	sta
 117427	act
-117430	act
+117430	sta
 117436	sta
 117438	act
 117444	act
 117450	sta
-117453	act
+117453	sta
 117474	act
 117505	act
 117509	sta
 117515	sta
 117539	act
 117542	act
-117560	sta
+117560	act
 117583	act
 117602	act
 117606	act
@@ -12929,8 +12921,8 @@ act
 117722	act
 117738	act
 117742	sta
-117744	act
-117801	act
+117744	sta
+117801	sta
 117804	act
 117813	act
 117819	act
@@ -12946,7 +12938,7 @@ act
 117911	act
 117913	act
 117919	act
-117926	act
+117926	sta
 117932	act
 117939	act
 117964	act
@@ -12962,7 +12954,7 @@ sta
 118049	act
 118060	act
 118066	sta
-118077	act
+118077	sta
 118086	sta
 118092	act
 118112	act
@@ -12994,7 +12986,7 @@ sta
 118318	sta
 118320	sta
 118350	sta
-118352	act
+118352	sta
 118366	act
 118373	act
 118388	sta
@@ -13029,7 +13021,7 @@ act
 118682	sta
 118693	act
 118699	sta
-118710	act
+118710	sta
 118721	act
 118733	act
 118751	act
@@ -13062,6 +13054,7 @@ sta
 118939	sta
 118945	act
 118949	sta
+118953	sta
 118958	act
 118968	act
 118973	sta
@@ -13100,7 +13093,7 @@ sta
 119380	act
 119417	act
 119429	sta
-119431	act
+119431	sta
 119507	act
 119539	act
 119551	act
@@ -13108,7 +13101,7 @@ sta
 119567	sta
 119580	sta
 119585	act
-119599	act
+119599	sta
 119602	sta
 119608	act
 119610	act
@@ -13214,7 +13207,7 @@ sta
 121289	act
 121292	sta
 121300	act
-121309	act
+121309	sta
 121329	act
 121335	sta
 121346	sta
@@ -13288,7 +13281,7 @@ sta
 122481	act
 122485	sta
 122492	sta
-122503	act
+122503	sta
 122534	sta
 122541	sta
 122553	act
@@ -13298,6 +13291,7 @@ sta
 122631	sta
 122687	sta
 122694	sta
+122696	sta
 122700	sta
 122711	act
 122717	act
@@ -13316,14 +13310,14 @@ sta
 122891	act
 122893	sta
 122898	sta
-122913	sta
+122913	act
 122926	act
 122935	sta
 122943	sta
 122957	act
 122990	sta
 122999	sta
-123005	sta
+123005	act
 123009	act
 123011	act
 123022	act
@@ -13451,14 +13445,14 @@ sta
 125197	act
 125202	sta
 125212	sta
-125217	act
+125217	sta
 125226	act
 125233	act
 125235	act
 125250	act
 125253	act
 125257	act
-125263	act
+125263	sta
 125269	act
 125272	sta
 125284	act
@@ -13486,9 +13480,9 @@ sta
 125450	act
 125472	act
 125490	act
-125521	act
+125521	sta
 125525	act
-125554	act
+125554	sta
 125565	act
 125621	act
 125639	act
@@ -13527,7 +13521,7 @@ act
 sta
 125985	act
 126009	act
-126036	act
+126036	sta
 126054	act
 126068	act
 126087	sta
@@ -13550,6 +13544,7 @@ sta
 126290	sta
 126313	sta
 126318	act
+126323	sta
 126326	act
 126329	act
 126347	act
@@ -13569,10 +13564,10 @@ sta
 126507	sta
 126514	act
 126523	sta
-126533	act
+126533	sta
 126543	act
 126549	act
-126552	act
+126552	sta
 126557	sta
 126560	act
 126568	act
@@ -13615,11 +13610,11 @@ sta
 126836	sta
 126841	sta
 126845	sta
-126849	sta
+126849	act
 126862	act
 126868	act
 126872	sta
-126874	act
+126874	sta
 126887	act
 126892	act
 126920	sta
@@ -13660,13 +13655,13 @@ sta
 127209	act
 127230	act
 127238	act
-127242	act
+127242	sta
 127256	sta
 127276	sta
-127280	sta
+127280	act
 127290	act
 127301	sta
-127307	act
+127307	sta
 127313	act
 127316	sta
 127321	act
@@ -13746,6 +13741,7 @@ sta
 127977	act
 128028	sta
 128035	sta
+128037	sta
 128040	sta
 128058	sta
 128062	sta
@@ -13764,7 +13760,7 @@ act
 128229	act
 128233	act
 128235	sta
-128255	act
+128255	sta
 128260	act
 128263	act
 128270	sta
@@ -13782,7 +13778,7 @@ act
 128362	act
 128366	sta
 128400	sta
-128404	sta
+128404	act
 128410	sta
 128419	act
 128423	act
@@ -13800,14 +13796,14 @@ act
 128516	sta
 128522	act
 128527	act
-128535	sta
-128548	act
+128535	act
+128548	sta
 128550	act
 128555	act
 128563	act
-128566	act
+128566	sta
 128570	act
-128574	sta
+128574	act
 128579	sta
 128604	sta
 128609	act
@@ -13818,7 +13814,7 @@ act
 128641	act
 128644	act
 128652	act
-128657	act
+128657	sta
 128663	sta
 128673	sta
 128676	sta
@@ -13835,7 +13831,7 @@ act
 128773	act
 128776	sta
 128783	sta
-128785	act
+128785	sta
 128790	act
 128799	sta
 128819	sta
@@ -13845,7 +13841,7 @@ act
 128851	act
 128866	sta
 128873	act
-128887	sta
+128887	act
 128905	sta
 128910	act
 128914	act
@@ -13859,7 +13855,7 @@ act
 128983	act
 128987	sta
 128993	act
-129010	sta
+129010	act
 129037	act
 129058	act
 129072	sta
@@ -13874,7 +13870,7 @@ act
 129120	act
 129124	sta
 129134	act
-129141	sta
+129141	act
 129153	sta
 129166	act
 129188	act
@@ -13884,7 +13880,7 @@ act
 129211	sta
 129219	act
 129241	sta
-129250	act
+129250	sta
 129252	sta
 129260	act
 129269	sta
@@ -13922,18 +13918,18 @@ act
 129565	sta
 129572	act
 129577	sta
-129582	sta
+129582	act
 129585	act
 129599	act
 129606	act
 129636	act
 129665	act
-129669	sta
+129669	act
 129675	sta
 129684	act
 129727	act
 129732	act
-129743	act
+129743	sta
 129751	sta
 129756	act
 129779	act
@@ -13957,23 +13953,23 @@ act
 129898	act
 129900	act
 129910	act
-129915	act
+129915	sta
 sta
 129939	act
 129952	sta
 129970	act
 129972	sta
-129981	act
+129981	sta
 129997	act
 130039	act
-130049	sta
-130052	sta
+130049	act
+130052	act
 130086	sta
 130090	act
 130119	act
-130121	sta
+130121	act
 130183	sta
-130188	act
+130188	sta
 130206	sta
 130209	sta
 130222	sta
@@ -13983,10 +13979,10 @@ sta
 130282	act
 130309	sta
 130313	act
-130338	act
-act
-130343	act
-130348	act
+130338	sta
+sta
+130343	sta
+130348	sta
 130365	act
 130375	act
 130380	act
@@ -14013,7 +14009,7 @@ act
 130605	act
 130611	sta
 130618	sta
-130623	act
+130623	sta
 130627	act
 130631	sta
 130663	act
@@ -14047,7 +14043,7 @@ act
 130840	act
 130845	sta
 130854	sta
-130864	act
+130864	sta
 130866	act
 130880	act
 130889	act
@@ -14072,7 +14068,6 @@ act
 131055	sta
 131065	act
 131068	act
-131096	act
 131103	act
 131108	act
 131116	act
@@ -14127,29 +14122,30 @@ act
 131612	act
 131617	sta
 131632	act
-131642	act
+131642	sta
 131646	sta
 131654	sta
 131661	act
-131664	sta
+131664	act
 131670	sta
-131688	act
+131688	sta
 131690	act
-131722	act
+131693	sta
+131722	sta
 131747	act
 131757	act
 131771	act
 131776	act
-131778	act
-131784	act
+131778	sta
+131784	sta
 131791	act
 131802	sta
 131815	sta
-131817	act
+131817	sta
 131827	act
 131829	act
 131834	act
-sta
+act
 131837	sta
 131854	sta
 131869	act
@@ -14161,9 +14157,9 @@ sta
 131890	act
 131913	act
 131920	act
-131938	sta
+131938	act
 131963	sta
-131967	act
+131967	sta
 131983	act
 131991	sta
 132006	act
@@ -14217,12 +14213,12 @@ sta
 132534	act
 132545	sta
 132548	act
-132552	sta
+132552	act
 sta
 132562	sta
 132567	act
-132571	sta
-132582	sta
+132571	act
+132582	act
 132585	sta
 132592	sta
 132601	act
@@ -14272,8 +14268,8 @@ act
 133026	act
 133029	act
 133031	act
-133033	act
-133038	act
+133033	sta
+133038	sta
 133042	act
 133050	act
 133057	act
@@ -14295,7 +14291,7 @@ act
 133196	act
 133204	act
 133215	act
-133235	sta
+133235	act
 133242	sta
 133269	act
 133279	act
@@ -14329,18 +14325,18 @@ act
 133480	sta
 133493	act
 133499	act
-133501	act
+133501	sta
 133522	act
 133529	act
-133540	sta
+133540	act
 133554	sta
 133576	act
 133579	act
 133583	act
-133586	sta
+133586	act
 133602	act
 133607	sta
-133613	sta
+133613	act
 133624	sta
 133630	act
 133641	act
@@ -14357,7 +14353,7 @@ act
 133705	act
 133716	act
 133719	act
-133723	act
+133723	sta
 133731	sta
 133745	sta
 133749	sta
@@ -14365,13 +14361,13 @@ act
 133763	sta
 133778	sta
 133783	act
-133788	sta
+133788	act
 133791	act
 133801	sta
 133818	act
 133841	sta
 133848	act
-133851	act
+133851	sta
 133857	act
 133873	act
 133885	sta
@@ -14404,11 +14400,11 @@ act
 134076	sta
 134086	act
 134091	act
-134098	sta
+134098	act
 134114	sta
 134121	act
 134129	sta
-134135	sta
+134135	act
 134141	act
 134149	sta
 134162	act
@@ -14462,7 +14458,7 @@ act
 134657	sta
 134662	act
 134668	sta
-act
+sta
 134676	act
 134678	act
 134684	sta
@@ -14482,7 +14478,7 @@ act
 134803	act
 134813	act
 act
-134820	act
+134820	sta
 134831	sta
 134833	sta
 134838	act
@@ -14504,7 +14500,7 @@ act
 135063	sta
 135067	act
 135073	act
-135088	act
+135088	sta
 135099	sta
 135105	act
 135113	act
@@ -14569,7 +14565,7 @@ act
 135530	act
 135536	act
 135542	sta
-135548	act
+135548	sta
 135561	act
 135568	sta
 135578	act
@@ -14604,12 +14600,12 @@ act
 135872	act
 135880	act
 135887	act
-135894	act
+135894	sta
 135901	act
 135911	sta
 135931	act
 135939	act
-135945	sta
+135945	act
 135947	act
 135952	act
 135957	act
@@ -14642,7 +14638,7 @@ act
 136119	sta
 136121	act
 136131	act
-136144	act
+136144	sta
 136150	sta
 136162	sta
 136169	act
@@ -14686,7 +14682,7 @@ act
 136504	sta
 136520	sta
 136530	act
-136535	act
+136535	sta
 136537	act
 136542	act
 136547	act
@@ -14774,7 +14770,7 @@ act
 137130	act
 137132	sta
 137145	sta
-137150	act
+137150	sta
 137166	act
 137172	act
 137175	sta
@@ -14787,8 +14783,8 @@ act
 act
 137239	act
 137245	sta
-137247	act
-137254	sta
+137247	sta
+137254	act
 137277	sta
 137281	act
 137291	sta
@@ -14833,7 +14829,7 @@ act
 137651	act
 137656	act
 137666	act
-137671	sta
+137671	act
 137677	sta
 137679	sta
 137686	act
@@ -14855,7 +14851,7 @@ sta
 act
 137807	act
 137825	act
-137831	act
+137831	sta
 137834	sta
 137852	sta
 137874	sta
@@ -14864,7 +14860,7 @@ act
 137887	sta
 137932	act
 137934	sta
-137943	act
+137943	sta
 137957	sta
 137961	sta
 137967	sta
@@ -14918,7 +14914,7 @@ act
 138285	sta
 138309	act
 138313	sta
-138316	act
+138316	sta
 138356	act
 138358	act
 138364	act
@@ -14943,7 +14939,7 @@ act
 138499	act
 138506	act
 138512	act
-sta
+act
 138515	act
 138518	sta
 138532	act
@@ -15002,7 +14998,7 @@ sta
 138982	sta
 139014	sta
 139017	act
-139040	sta
+139040	act
 139056	sta
 139068	sta
 139074	act
@@ -15013,18 +15009,19 @@ sta
 139105	sta
 139117	act
 139127	sta
-139133	sta
+139133	act
 139136	act
 139139	act
 139143	act
 139151	act
 139155	sta
 139160	act
+139164	sta
 139171	sta
 139176	act
 139180	sta
 139183	sta
-139195	sta
+139195	act
 139197	act
 139199	act
 139211	act
@@ -15032,14 +15029,14 @@ sta
 139215	act
 139221	act
 139231	sta
-139236	sta
+139236	act
 139240	act
 139246	act
 139248	sta
 139261	act
 139263	act
 139277	act
-139280	sta
+139280	act
 139284	act
 139291	act
 139304	sta
@@ -15047,7 +15044,7 @@ sta
 139321	act
 139326	sta
 139330	sta
-139332	sta
+139332	act
 139334	act
 139336	act
 139359	act
@@ -15098,28 +15095,28 @@ act
 139697	act
 139710	act
 139718	sta
-139722	act
-139725	act
+139722	sta
+139725	sta
 139731	act
 139736	sta
 139748	act
 139750	act
 139754	act
 139758	act
-139762	act
-139774	sta
+139762	sta
+139774	act
 139785	act
 139787	act
-139795	act
+139795	sta
 139805	act
-139807	sta
+139807	act
 139809	act
 139814	sta
-139819	sta
+139819	act
 139823	act
 139827	act
 139831	sta
-139836	act
+139836	sta
 139848	act
 139854	sta
 139857	sta
@@ -15128,20 +15125,20 @@ act
 139881	sta
 139886	act
 139888	act
-139936	act
+139936	sta
 139940	act
 139946	act
 139949	act
 139968	act
 139974	act
 139979	sta
-139981	sta
+139981	act
 139996	sta
 140000	sta
 140002	sta
 140010	act
 140017	act
-140034	sta
+140034	act
 140042	act
 140044	act
 140060	act
@@ -15155,15 +15152,15 @@ act
 140142	sta
 140153	sta
 140161	sta
-140165	act
+140165	sta
 140172	sta
 140181	act
-140262	sta
+140262	act
 140264	act
 140271	act
 140275	act
 140287	act
-140294	sta
+140294	act
 140306	act
 140315	sta
 140324	act
@@ -15202,7 +15199,7 @@ act
 140610	act
 140621	act
 act
-140635	sta
+140635	act
 140639	sta
 140652	act
 140672	sta
@@ -15228,13 +15225,13 @@ act
 140838	act
 140843	act
 140861	sta
-140879	act
+140879	sta
 140892	act
 140894	act
 140902	sta
 140915	act
 140920	sta
-140923	act
+140923	sta
 140944	act
 140946	act
 140957	sta
@@ -15323,7 +15320,7 @@ act
 141679	act
 141681	act
 141691	act
-141705	sta
+141705	act
 141708	act
 141718	sta
 141741	act
@@ -15338,7 +15335,7 @@ act
 141793	act
 141809	act
 141824	act
-141838	act
+141838	sta
 141845	sta
 141858	act
 141865	act
@@ -15365,7 +15362,7 @@ act
 141992	act
 141996	act
 142001	sta
-142006	sta
+142006	act
 142011	sta
 142022	act
 142038	act
@@ -15381,7 +15378,7 @@ act
 act
 142151	act
 142193	act
-142201	sta
+142201	act
 142207	sta
 142210	sta
 142228	act
@@ -15417,17 +15414,17 @@ act
 sta
 142496	act
 142500	act
-142525	act
+142525	sta
 142529	act
-142537	act
+142537	sta
 142547	act
 142550	act
-142558	act
-142577	act
+142558	sta
+142577	sta
 act
 142582	sta
 142593	sta
-142600	act
+142600	sta
 142608	sta
 142613	act
 142626	act
@@ -15447,7 +15444,7 @@ act
 142791	sta
 142799	act
 142810	sta
-142813	sta
+142813	act
 142824	act
 142839	sta
 142842	sta
@@ -15457,10 +15454,10 @@ act
 142864	act
 142880	sta
 142891	sta
-142899	act
+142899	sta
 142904	sta
 142909	sta
-142917	act
+142917	sta
 142926	act
 142931	act
 142938	act
@@ -15468,46 +15465,46 @@ act
 142944	act
 142946	act
 act
-act
+sta
 142950	act
-142952	act
+142952	sta
 142954	sta
 142956	act
-142960	sta
+142960	act
 142963	act
 142967	act
 142970	act
 142973	act
 142975	act
 142977	act
-act
+sta
 142982	sta
 142992	sta
 142994	act
-143000	sta
+143000	act
 143002	act
 143006	act
 143009	act
 143016	act
 143021	act
 143025	act
-act
+sta
 143028	sta
 143030	act
 143033	act
 act
-143037	act
+143037	sta
 143040	act
-143043	act
+143043	sta
 143047	act
 143052	act
 143060	act
 143062	act
-143064	act
+143064	sta
 143067	act
 143073	act
-143079	act
-143088	sta
+143079	sta
+143088	act
 143094	act
 143097	sta
 143099	sta
@@ -15515,7 +15512,7 @@ act
 143113	sta
 143115	act
 143124	act
-143141	act
+143141	sta
 143154	sta
 143163	act
 143168	act
@@ -15543,7 +15540,7 @@ act
 143376	sta
 143393	sta
 143395	act
-143413	act
+143413	sta
 143420	act
 143434	sta
 143438	act
@@ -15560,17 +15557,17 @@ act
 143515	act
 143518	act
 143523	sta
-143529	act
+143529	sta
 143543	sta
 143555	act
 143570	act
 143574	sta
 143582	sta
 143592	act
-143604	act
+143604	sta
 143611	act
 143623	act
-143637	sta
+143637	act
 143642	sta
 143644	act
 143651	act
@@ -15582,10 +15579,10 @@ act
 143685	sta
 143693	sta
 143703	sta
-143711	act
+143711	sta
 143725	sta
 143734	act
-143747	act
+143747	sta
 143757	sta
 143772	sta
 143774	act
@@ -15597,10 +15594,10 @@ act
 143831	act
 143836	sta
 143843	act
-143860	act
+143860	sta
 143869	sta
 143873	act
-143887	act
+143887	sta
 143908	sta
 143919	act
 143940	sta
@@ -15705,13 +15702,13 @@ act
 144762	act
 144783	act
 144789	act
-144810	act
+144810	sta
 144822	act
 144824	sta
 144828	act
-144837	act
+144837	sta
 144846	act
-144852	act
+144852	sta
 144856	sta
 144861	act
 144880	sta
@@ -15751,7 +15748,7 @@ act
 sta
 145179	act
 145186	act
-145190	act
+145190	sta
 145198	act
 145203	sta
 145206	sta
@@ -15760,7 +15757,7 @@ sta
 145229	sta
 145231	act
 145236	act
-145241	act
+145241	sta
 145259	act
 145274	act
 145276	sta
@@ -15776,16 +15773,16 @@ sta
 145377	sta
 145379	act
 145386	sta
-145419	act
+145419	sta
 145424	act
 145429	sta
 145432	sta
 145440	act
 145443	act
-145451	act
+145451	sta
 145459	act
 145464	act
-145468	act
+145468	sta
 145476	act
 145481	act
 145486	sta
@@ -15793,7 +15790,7 @@ sta
 145534	sta
 145542	act
 145547	sta
-145556	sta
+145556	act
 act
 act
 145563	act
@@ -15884,9 +15881,9 @@ sta
 146153	act
 146157	act
 146164	act
-sta
+act
 146167	act
-146169	sta
+146169	act
 146172	act
 146187	act
 146190	act
@@ -15980,13 +15977,13 @@ sta
 146925	act
 146936	act
 146944	act
-146966	act
+146966	sta
 146977	sta
 146983	act
 146993	act
 146996	act
 147003	act
-147007	act
+147007	sta
 147014	act
 147019	act
 147023	sta
@@ -16020,7 +16017,7 @@ sta
 147195	sta
 147203	act
 147213	act
-147219	act
+147219	sta
 147225	act
 147271	sta
 147275	sta
@@ -16054,9 +16051,9 @@ sta
 147515	sta
 147520	sta
 147524	act
-147527	act
+147527	sta
 147537	sta
-147553	act
+147553	sta
 147563	sta
 147574	sta
 147584	act
@@ -16084,10 +16081,10 @@ sta
 147817	sta
 147827	act
 147832	act
-147841	act
+147841	sta
 147854	act
-act
-147861	act
+sta
+147861	sta
 147863	act
 act
 147886	sta
@@ -16113,12 +16110,12 @@ act
 148076	act
 148082	act
 148088	act
-148103	sta
+148103	act
 act
 148111	act
 148119	act
 148122	act
-148125	sta
+148125	act
 148128	act
 148135	act
 148158	sta
@@ -16164,7 +16161,7 @@ act
 148577	act
 148580	sta
 148586	act
-148598	act
+148598	sta
 148608	sta
 148614	act
 148629	sta
@@ -16188,7 +16185,7 @@ act
 148779	sta
 148787	act
 148797	sta
-148814	act
+148814	sta
 148816	act
 148839	act
 148858	act
@@ -16198,7 +16195,7 @@ act
 148895	act
 148907	sta
 148912	sta
-148921	act
+148921	sta
 148945	act
 148959	act
 148967	act
@@ -16254,7 +16251,7 @@ act
 149355	act
 149362	sta
 149364	act
-149377	act
+149377	sta
 149385	act
 149398	sta
 149400	act
@@ -16267,7 +16264,7 @@ act
 149519	sta
 149529	sta
 149532	act
-149549	act
+149549	sta
 149555	act
 149558	act
 149561	act
@@ -16289,15 +16286,15 @@ act
 149747	sta
 149753	act
 149762	act
-149769	sta
+149769	act
 149795	act
 act
 149808	act
 149814	act
 149819	act
-149826	sta
+149826	act
 149831	act
-149848	act
+149848	sta
 149850	act
 149854	act
 149867	sta
@@ -16309,24 +16306,24 @@ act
 149923	act
 act
 149936	sta
-149941	act
+149941	sta
 149951	act
 149958	act
-149963	act
+149963	sta
 149968	act
 149976	act
 149986	sta
 149999	sta
 150007	act
-150018	act
-150023	act
+150018	sta
+150023	sta
 150042	sta
 150047	sta
 150051	act
 150055	sta
 150057	act
 150065	sta
-150070	act
+150070	sta
 150075	act
 150080	act
 150083	act
@@ -16336,7 +16333,7 @@ act
 150100	sta
 150103	sta
 150111	act
-150113	act
+150113	sta
 150120	act
 150133	sta
 150144	act
@@ -16351,7 +16348,6 @@ sta
 150199	act
 150207	act
 150211	sta
-150215	sta
 150231	act
 150237	act
 150244	sta
@@ -16363,7 +16359,7 @@ sta
 150297	sta
 150303	act
 150306	act
-150308	act
+150308	sta
 150311	sta
 150313	act
 150317	sta
@@ -16408,9 +16404,9 @@ sta
 150525	act
 150530	act
 150541	act
-150543	sta
+150543	act
 150549	sta
-150575	sta
+150575	act
 150578	act
 150596	act
 150606	act
@@ -16457,7 +16453,7 @@ sta
 150967	act
 150970	act
 150982	sta
-150989	act
+150989	sta
 151003	sta
 151029	act
 151033	act
@@ -16482,7 +16478,7 @@ sta
 151239	act
 151246	act
 151257	act
-151264	act
+151264	sta
 151271	sta
 151276	act
 151280	sta
@@ -16502,7 +16498,7 @@ sta
 151377	act
 151379	act
 151384	act
-151386	act
+151386	sta
 151392	act
 151403	act
 151420	sta
@@ -16514,7 +16510,7 @@ sta
 151472	act
 151480	sta
 151482	act
-151487	act
+151487	sta
 151492	act
 151501	act
 151508	act
@@ -16524,8 +16520,8 @@ sta
 151548	act
 151554	act
 151557	act
-151563	sta
-151566	act
+151563	act
+151566	sta
 151570	act
 151572	sta
 151580	act
@@ -16561,12 +16557,13 @@ sta
 151873	sta
 151894	sta
 151899	sta
-151901	sta
+151901	act
 151905	act
 151907	act
 151931	sta
 151938	act
-151951	act
+151951	sta
+151956	sta
 151969	act
 151974	sta
 151985	sta
@@ -16574,10 +16571,10 @@ sta
 152005	sta
 152009	sta
 152012	act
-152014	sta
+152014	act
 152022	act
 152027	act
-152034	act
+152034	sta
 152047	act
 152059	sta
 152066	act
@@ -16656,7 +16653,7 @@ act
 152668	act
 152671	act
 152726	sta
-152730	sta
+152730	act
 152733	act
 152738	act
 152745	act
@@ -16692,7 +16689,7 @@ act
 152944	act
 152947	sta
 152952	sta
-152957	act
+152957	sta
 152963	act
 152968	sta
 152970	act
@@ -16750,7 +16747,7 @@ act
 153365	act
 act
 153370	act
-153389	act
+153389	sta
 153402	act
 153418	act
 153420	act
@@ -16819,7 +16816,7 @@ act
 153922	sta
 153929	act
 153931	sta
-153945	sta
+153945	act
 153948	sta
 153959	act
 153968	act
@@ -16842,7 +16839,7 @@ act
 154134	act
 154136	sta
 154145	sta
-154149	sta
+154149	act
 154160	act
 154176	sta
 154181	act
@@ -16863,15 +16860,15 @@ act
 154289	act
 act
 154295	act
-154298	sta
-154304	act
+154298	act
+154304	sta
 154309	act
 154326	act
 154330	act
 154334	act
 154341	act
 154343	sta
-154356	sta
+154356	act
 154358	act
 154361	act
 154365	act
@@ -16898,7 +16895,7 @@ act
 154615	sta
 154623	act
 154627	sta
-154630	sta
+154630	act
 154643	act
 154649	act
 154669	act
@@ -16911,7 +16908,7 @@ act
 154734	act
 154742	act
 154746	act
-154756	act
+154756	sta
 154784	sta
 154789	sta
 154796	act
@@ -16927,13 +16924,13 @@ act
 154850	act
 154855	act
 154858	act
-154862	act
+154862	sta
 154873	sta
 154893	act
-154900	act
+154900	sta
 154907	sta
 154915	sta
-154946	sta
+154946	act
 154970	act
 sta
 154975	act
@@ -16942,11 +16939,11 @@ sta
 155003	act
 155021	act
 155027	act
-155029	act
+155029	sta
 155034	act
 155038	act
 155049	sta
-155060	sta
+155060	act
 155076	act
 155099	sta
 155108	sta
@@ -16979,7 +16976,7 @@ sta
 155386	act
 155392	sta
 155403	act
-sta
+act
 155409	sta
 155415	act
 155430	act
@@ -16990,14 +16987,14 @@ sta
 155500	sta
 155509	act
 155518	act
-155524	act
+155524	sta
 155527	act
 155530	act
-155551	act
+155551	sta
 155561	act
 155565	act
 155579	act
-155583	sta
+155583	act
 155592	act
 155612	act
 155614	sta
@@ -17007,7 +17004,7 @@ sta
 155643	sta
 155646	act
 155649	act
-155661	sta
+155661	act
 155666	act
 155677	act
 155680	sta
@@ -17030,12 +17027,12 @@ sta
 155813	act
 155818	act
 155821	sta
-155835	sta
+155835	act
 155837	act
 155857	act
 155862	act
 155872	sta
-155877	act
+155877	sta
 155880	act
 155886	act
 155905	sta
@@ -17062,22 +17059,22 @@ sta
 156053	act
 156058	sta
 156064	act
-156072	sta
+156072	act
 156087	sta
 156091	act
 156104	act
 156112	act
 156141	sta
-156143	sta
-156148	sta
+156143	act
+156148	act
 156153	act
-156158	sta
+156158	act
 156163	act
 156168	act
 156172	act
 156186	act
 156188	act
-156193	act
+156193	sta
 156198	act
 156201	act
 156208	sta
@@ -17117,7 +17114,7 @@ act
 156420	sta
 156428	act
 156433	sta
-156438	sta
+156438	act
 156445	act
 156450	sta
 156456	sta
@@ -17125,14 +17122,14 @@ act
 156468	act
 156476	act
 156481	sta
-156498	sta
+156498	act
 156528	sta
-156564	act
+156564	sta
 156580	act
 156585	act
 156588	act
 156599	act
-156617	act
+156617	sta
 156626	sta
 156637	sta
 156648	act
@@ -17171,12 +17168,12 @@ sta
 156981	act
 156988	sta
 157002	sta
-157015	act
+157015	sta
 157022	act
-157025	act
+157025	sta
 157029	act
 157036	act
-157042	act
+157042	sta
 157048	sta
 157074	sta
 157092	act
@@ -17186,7 +17183,7 @@ sta
 157123	sta
 157132	act
 157139	act
-157158	sta
+157158	act
 157161	act
 157164	act
 157168	sta
@@ -17195,7 +17192,7 @@ sta
 157199	act
 157205	act
 157212	sta
-157225	act
+157225	sta
 157239	sta
 157243	act
 157272	act
@@ -17206,7 +17203,7 @@ sta
 157320	act
 act
 157326	sta
-act
+sta
 157331	act
 157334	act
 157371	sta
@@ -17215,7 +17212,7 @@ act
 157397	sta
 157401	sta
 157412	sta
-157414	act
+157414	sta
 157417	sta
 157420	act
 157441	act
@@ -17225,11 +17222,11 @@ act
 157466	act
 157469	act
 157474	sta
-157479	sta
+157479	act
 157481	act
 157485	act
 157491	sta
-157498	sta
+157498	act
 157509	act
 157513	act
 157518	sta
@@ -17238,24 +17235,24 @@ act
 157538	sta
 157552	act
 157560	act
-157574	sta
+157574	act
 157589	act
 157612	sta
 157617	sta
 157619	act
 157629	sta
 157631	act
-157636	sta
+157636	act
 157639	act
 157648	sta
-157654	act
-157665	act
+157654	sta
+157665	sta
 157678	act
 157691	act
 157701	act
 157707	act
-157718	act
-157735	act
+157718	sta
+157735	sta
 157738	act
 157752	act
 157768	act
@@ -17267,7 +17264,7 @@ act
 157829	act
 157832	sta
 157845	act
-157862	act
+157862	sta
 157865	act
 157870	sta
 157882	act
@@ -17286,12 +17283,12 @@ act
 157999	act
 158003	act
 158008	act
-158016	act
+158016	sta
 158028	act
 158050	act
 act
 act
-158058	act
+158058	sta
 158066	act
 158070	act
 158076	act
@@ -17310,7 +17307,7 @@ act
 158200	act
 158204	act
 158229	act
-158240	sta
+158240	act
 158243	act
 158258	sta
 158293	sta
@@ -17397,37 +17394,37 @@ act
 158895	act
 158900	act
 158912	sta
-158920	act
+158920	sta
 158926	act
 158937	act
 158945	sta
 158964	sta
-158973	act
+158973	sta
 158978	sta
 158986	sta
 158990	act
 159000	act
 159006	sta
 159011	act
-159014	act
+159014	sta
 159019	sta
-159024	act
+159024	sta
 159028	act
-159032	act
+159032	sta
 159040	sta
 159046	act
 159048	sta
 159052	act
 159059	act
 159061	act
-159071	act
-159075	sta
+159071	sta
+159075	act
 159080	sta
 159096	sta
 159098	sta
 159103	act
 159115	act
-159117	sta
+159117	act
 159119	act
 159144	act
 159154	act
@@ -17435,7 +17432,7 @@ act
 159170	act
 159184	sta
 159193	act
-159198	act
+159198	sta
 159210	act
 159214	act
 159219	act
@@ -17531,7 +17528,7 @@ act
 160012	act
 160015	sta
 160020	act
-160026	act
+160026	sta
 160045	sta
 160052	sta
 160061	sta
@@ -17539,7 +17536,7 @@ act
 160080	act
 160090	act
 160185	act
-160192	act
+160192	sta
 160207	act
 160226	act
 160240	act
@@ -17547,10 +17544,10 @@ act
 160263	sta
 160267	sta
 160270	sta
-160276	act
+160276	sta
 160279	sta
 160283	sta
-160286	act
+160286	sta
 160292	sta
 160295	sta
 160313	sta
@@ -17563,12 +17560,12 @@ act
 160351	sta
 160355	act
 160363	act
-160370	act
+160370	sta
 160384	act
 160398	sta
-160411	act
+160411	sta
 160418	act
-160423	sta
+160423	act
 160428	act
 160433	sta
 160445	act
@@ -17582,7 +17579,7 @@ act
 160496	act
 160511	sta
 160513	act
-160517	act
+160517	sta
 160520	act
 160522	act
 160528	act
@@ -17591,7 +17588,7 @@ act
 160541	sta
 160548	act
 160550	act
-160559	act
+160559	sta
 160564	sta
 160571	sta
 160573	act
@@ -17609,11 +17606,11 @@ act
 160656	sta
 160661	sta
 160664	sta
-160666	act
+160666	sta
 160668	sta
 160680	act
-160685	act
-160722	act
+160685	sta
+160722	sta
 160727	act
 160740	act
 160747	act
@@ -17626,12 +17623,12 @@ act
 160779	act
 160790	act
 160811	act
-160830	act
+160830	sta
 160842	act
 160890	act
 160924	act
-160930	act
-160955	act
+160930	sta
+160955	sta
 160958	sta
 160962	sta
 160971	act
@@ -17651,6 +17648,7 @@ act
 161079	act
 161088	act
 161095	act
+161102	sta
 161105	sta
 161110	sta
 161131	sta
@@ -17662,13 +17660,13 @@ act
 161220	act
 161228	sta
 161243	act
-161247	sta
+161247	act
 161256	act
-161258	sta
-161260	sta
+161258	act
+161260	act
 161262	act
-161281	act
-161292	act
+161281	sta
+161292	sta
 161295	act
 161306	sta
 161318	act
@@ -17687,11 +17685,11 @@ act
 161432	act
 161442	act
 161452	act
-161458	act
+161458	sta
 161461	sta
 161464	sta
 161467	act
-161472	act
+161472	sta
 161476	sta
 161478	sta
 161480	act
@@ -17708,7 +17706,6 @@ act
 161550	act
 161555	act
 161562	act
-161568	act
 161582	sta
 161588	act
 161594	sta
@@ -17724,7 +17721,6 @@ act
 161687	sta
 161700	act
 161706	act
-161710	act
 161717	sta
 161770	sta
 161772	sta
@@ -17739,7 +17735,7 @@ act
 161863	act
 161869	act
 161872	act
-161880	sta
+161880	act
 161900	act
 161905	sta
 161915	act
@@ -17771,7 +17767,7 @@ act
 162100	act
 162110	act
 162121	act
-162125	sta
+162125	act
 162127	act
 162149	act
 162154	act
@@ -17802,10 +17798,10 @@ act
 162292	act
 162298	act
 162303	sta
-162309	act
+162309	sta
 162315	act
-162349	act
-162354	act
+162349	sta
+162354	sta
 162366	sta
 162371	sta
 162381	act
@@ -17813,8 +17809,8 @@ act
 162417	act
 162439	act
 162444	sta
-162456	act
-162461	act
+162456	sta
+162461	sta
 162463	sta
 162471	act
 162485	act
@@ -17828,9 +17824,9 @@ act
 162549	sta
 162555	act
 162562	sta
-162567	act
+162567	sta
 162591	sta
-162600	act
+162600	sta
 162604	sta
 162620	sta
 162642	act
@@ -17842,14 +17838,14 @@ act
 162683	act
 162685	sta
 162689	act
-162691	act
+162691	sta
 162698	act
 162707	act
-162717	act
+162717	sta
 162724	act
 162732	act
 162743	act
-162748	act
+162748	sta
 162755	act
 162757	sta
 162763	sta
@@ -17896,11 +17892,10 @@ act
 163179	sta
 163197	sta
 163206	act
-163210	act
-163247	act
+163247	sta
 163258	act
 163262	act
-163266	act
+163266	sta
 163275	act
 163287	act
 163289	act
@@ -17920,7 +17915,7 @@ act
 163368	act
 163373	act
 163379	sta
-163381	act
+163381	sta
 163393	act
 163398	act
 163403	act
@@ -17928,7 +17923,7 @@ act
 163411	act
 163417	act
 163420	sta
-163431	sta
+163431	act
 163433	act
 163444	act
 163457	sta
@@ -18005,8 +18000,8 @@ act
 164195	sta
 164206	act
 164210	sta
-164213	act
-164217	sta
+164213	sta
+164217	act
 164222	act
 164242	sta
 164248	sta
@@ -18022,13 +18017,13 @@ act
 164366	act
 164370	sta
 164381	act
-164407	act
+164407	sta
 164422	act
 164431	sta
 164436	act
 164469	sta
 164480	act
-164486	sta
+164486	act
 164490	act
 164493	act
 164500	act
@@ -18058,7 +18053,7 @@ act
 164741	sta
 164746	act
 164756	sta
-164764	act
+164764	sta
 164769	act
 164799	act
 164804	sta
@@ -18088,7 +18083,7 @@ act
 165038	act
 165057	sta
 165066	act
-165075	act
+165075	sta
 165079	act
 165081	act
 165085	act
@@ -18122,14 +18117,14 @@ act
 165299	act
 165306	act
 165344	sta
-165350	sta
+165350	act
 165364	act
 165374	sta
 165380	act
 165383	sta
 165390	act
 165392	sta
-165429	act
+165429	sta
 165443	act
 165447	sta
 165468	sta
@@ -18138,8 +18133,11 @@ act
 165497	sta
 165503	sta
 165509	act
+165511	sta
 165515	sta
+165523	sta
 165526	act
+165530	sta
 165541	act
 165547	act
 165560	act
@@ -18171,12 +18169,12 @@ act
 165727	sta
 165737	sta
 165741	sta
-165747	sta
+165747	act
 165760	sta
 165782	act
 165798	sta
 165800	act
-165803	act
+165803	sta
 165811	act
 165825	act
 165847	act
@@ -18184,7 +18182,7 @@ act
 165875	sta
 165878	act
 165885	act
-165891	act
+165891	sta
 165911	act
 165918	act
 165927	act
@@ -18192,7 +18190,7 @@ act
 165944	sta
 165961	act
 165965	act
-165971	act
+165971	sta
 165979	act
 165986	act
 165990	sta
@@ -18201,7 +18199,7 @@ act
 166013	act
 166017	act
 166025	act
-166030	act
+166030	sta
 166042	sta
 166063	act
 166075	act
@@ -18211,7 +18209,7 @@ act
 166091	sta
 166098	sta
 166104	act
-166113	act
+166113	sta
 166121	sta
 166139	act
 166144	act
@@ -18235,8 +18233,8 @@ act
 166280	act
 166286	act
 166304	act
-166307	act
-166317	act
+166307	sta
+166317	sta
 166321	sta
 166329	act
 166336	sta
@@ -18248,7 +18246,7 @@ act
 166384	sta
 166402	sta
 166414	act
-166422	act
+166422	sta
 166424	sta
 166429	act
 166438	sta
@@ -18273,10 +18271,10 @@ act
 166611	sta
 166618	sta
 166623	act
-166626	sta
+166626	act
 166632	sta
 166638	sta
-166642	act
+166642	sta
 166653	act
 166659	act
 166673	act
@@ -18289,9 +18287,9 @@ act
 166731	act
 166744	act
 166746	sta
-166748	act
-166751	sta
-166756	sta
+166748	sta
+166751	act
+166756	act
 166762	sta
 166769	sta
 166776	sta
@@ -18300,7 +18298,7 @@ act
 166791	act
 166794	sta
 166798	act
-166802	act
+166802	sta
 166807	act
 166809	sta
 166813	act
@@ -18310,7 +18308,7 @@ act
 166834	sta
 166838	act
 sta
-166841	sta
+166841	act
 166847	sta
 166854	act
 166858	act
@@ -18320,7 +18318,7 @@ sta
 166872	act
 166881	act
 166893	sta
-166896	sta
+166896	act
 166898	act
 166901	act
 166911	act
@@ -18330,7 +18328,7 @@ sta
 166934	act
 166939	act
 166948	act
-166951	act
+166951	sta
 166957	act
 166963	sta
 166972	act
@@ -18353,7 +18351,7 @@ sta
 167197	act
 167206	sta
 167208	act
-167211	act
+167211	sta
 167217	act
 167220	sta
 167222	act
@@ -18361,7 +18359,7 @@ sta
 167232	act
 167240	sta
 167242	act
-167246	act
+167246	sta
 167251	act
 167255	sta
 167257	act
@@ -18382,10 +18380,10 @@ act
 167368	act
 167370	act
 167380	act
-167382	act
+167382	sta
 167385	act
 167387	act
-act
+sta
 167392	act
 167397	sta
 167400	act
@@ -18394,20 +18392,21 @@ act
 167419	sta
 167428	act
 167439	sta
-167441	act
+167441	sta
+167445	sta
 167448	sta
-167450	act
+167450	sta
 167453	sta
 167463	sta
 167467	sta
 167469	act
-167472	sta
+167472	act
 act
 167475	act
 167488	act
 167491	act
 167494	sta
-167496	act
+167496	sta
 167499	act
 167504	act
 167524	sta
@@ -18419,7 +18418,7 @@ act
 167573	sta
 167591	sta
 167594	sta
-167602	act
+167602	sta
 167615	act
 167626	sta
 167633	sta
@@ -18445,18 +18444,19 @@ sta
 167763	sta
 167766	sta
 167771	act
+167773	sta
 167775	sta
 167780	act
 167787	act
-167790	sta
+167790	act
 167801	act
 167803	sta
 167811	act
 167815	act
 act
 167825	sta
-167829	sta
-167837	act
+167829	act
+167837	sta
 167853	act
 167855	act
 167864	sta
@@ -18494,7 +18494,7 @@ sta
 168069	act
 168077	sta
 168085	act
-168094	act
+168094	sta
 168099	act
 168101	act
 168106	act
@@ -18503,7 +18503,7 @@ sta
 168127	act
 168137	act
 168144	sta
-168148	sta
+168148	act
 168155	act
 sta
 168161	sta
@@ -18524,7 +18524,7 @@ sta
 sta
 168265	sta
 168269	act
-168273	act
+168273	sta
 168279	act
 168282	act
 168291	act
@@ -18540,11 +18540,11 @@ act
 168369	act
 168371	act
 168377	act
-168384	act
+168384	sta
 168396	sta
 168406	act
 168408	sta
-168426	act
+168426	sta
 168435	sta
 168442	act
 168456	act
@@ -18560,13 +18560,13 @@ act
 168557	act
 168564	act
 act
-168572	act
+168572	sta
 168578	act
 168585	act
 168589	sta
 168592	act
 168600	act
-168607	sta
+168607	act
 168610	act
 168613	act
 168618	act
@@ -18574,11 +18574,10 @@ act
 168638	sta
 168643	sta
 168659	sta
-168664	sta
+168664	act
 168668	sta
-168676	sta
-168681	sta
-168694	act
+168676	act
+168681	act
 168706	sta
 168711	sta
 168722	sta
@@ -18589,7 +18588,7 @@ act
 168750	act
 168753	sta
 168762	act
-168779	sta
+168779	act
 168782	act
 168788	act
 168802	act
@@ -18621,7 +18620,7 @@ act
 168980	sta
 168982	act
 168985	act
-168992	act
+168992	sta
 168998	act
 169009	act
 169024	sta
@@ -18634,10 +18633,10 @@ act
 169065	act
 169069	act
 169073	act
-169077	sta
+169077	act
 169079	act
 169090	act
-169092	act
+169092	sta
 169098	act
 169106	act
 169111	act
@@ -18649,7 +18648,7 @@ act
 169159	act
 sta
 169167	act
-169176	sta
+169176	act
 169181	sta
 169189	act
 169193	sta
@@ -18714,8 +18713,8 @@ act
 169664	sta
 169677	sta
 169693	sta
-169698	act
-169731	act
+169698	sta
+169731	sta
 169733	act
 169741	act
 169745	act
@@ -18783,10 +18782,11 @@ act
 170219	act
 170224	sta
 170226	act
-170230	act
+170230	sta
+170238	sta
 170253	act
 170291	act
-170302	sta
+170302	act
 170304	act
 170310	act
 170322	act
@@ -18797,7 +18797,7 @@ act
 170353	sta
 170369	act
 170371	act
-170379	act
+170379	sta
 170386	act
 170391	act
 170395	act
@@ -18809,16 +18809,16 @@ act
 170432	sta
 170457	sta
 170475	sta
-170477	act
-170483	act
-170485	act
+170477	sta
+170483	sta
+170485	sta
 170487	act
 sta
 170510	sta
 170524	sta
 170545	act
 170550	act
-170564	act
+170564	sta
 170572	sta
 170587	sta
 170589	act
@@ -18850,14 +18850,14 @@ sta
 170829	act
 170834	act
 170842	act
-170845	sta
+170845	act
 170847	act
-170858	sta
+170858	act
 170867	act
 170881	act
 170887	sta
 170890	act
-170898	sta
+170898	act
 170900	act
 170906	act
 170912	sta
@@ -18887,7 +18887,7 @@ sta
 171165	act
 171172	act
 171184	act
-171197	act
+171197	sta
 171199	act
 171210	act
 171219	sta
@@ -18898,6 +18898,7 @@ sta
 171263	act
 171269	act
 171291	act
+171301	sta
 171320	act
 171322	sta
 171330	act
@@ -18966,18 +18967,18 @@ act
 171868	act
 171870	act
 171878	act
-171886	sta
+171886	act
 171889	act
 171903	act
 171906	sta
-171917	sta
+171917	act
 171926	act
 171935	act
 171937	act
 171944	sta
 sta
 171964	sta
-171979	act
+171979	sta
 171988	act
 172004	act
 172015	act
@@ -18987,14 +18988,14 @@ sta
 172077	sta
 172091	sta
 172102	sta
-172110	sta
+172110	act
 act
 172113	act
 172120	act
 172123	act
 172125	sta
 172139	act
-172146	sta
+172146	act
 172150	sta
 172161	act
 172165	sta
@@ -19025,7 +19026,7 @@ act
 172417	act
 172421	act
 172428	act
-172437	act
+172437	sta
 172443	act
 172448	act
 172459	sta
@@ -19072,7 +19073,7 @@ act
 172809	act
 172821	sta
 172831	act
-172837	act
+172837	sta
 172846	sta
 172857	act
 172874	act
@@ -19094,7 +19095,6 @@ act
 172988	sta
 172993	act
 173033	act
-173039	act
 173049	act
 173067	sta
 173072	act
@@ -19120,10 +19120,10 @@ act
 173261	act
 173277	act
 173296	act
-173298	act
+173298	sta
 173300	act
 173331	act
-173337	act
+173337	sta
 173345	sta
 173351	act
 173358	sta
@@ -19138,12 +19138,12 @@ act
 173436	act
 173452	act
 173456	act
-173466	act
+173466	sta
 173472	sta
 173483	sta
 173489	act
-173495	act
-act
+173495	sta
+sta
 act
 173501	act
 173505	act
@@ -19151,9 +19151,9 @@ act
 173511	act
 173518	act
 173521	act
-173523	act
+173523	sta
 173527	act
-act
+sta
 173531	act
 173533	act
 173535	act
@@ -19192,7 +19192,7 @@ act
 173871	sta
 173895	sta
 173929	sta
-173943	act
+173943	sta
 173948	sta
 173960	sta
 173985	sta
@@ -19221,13 +19221,13 @@ act
 174233	sta
 174239	sta
 174267	act
-174283	act
+174283	sta
 174292	act
 174316	act
 174340	act
 174363	act
 174368	act
-174370	act
+174370	sta
 174393	act
 174401	act
 174446	sta
@@ -19245,17 +19245,17 @@ act
 174667	act
 174669	sta
 174671	sta
-174676	sta
-174678	act
+174676	act
+174678	sta
 174692	sta
 174722	act
 174728	sta
 act
-174735	act
+174735	sta
 174759	sta
 174767	act
 174793	act
-174818	sta
+174818	act
 174829	act
 174835	act
 174839	act
@@ -19268,7 +19268,7 @@ act
 174928	sta
 174965	sta
 174971	act
-174975	sta
+174975	act
 174977	act
 174992	act
 175004	act
@@ -19307,6 +19307,7 @@ act
 175477	act
 175483	sta
 175499	sta
+175512	sta
 175524	act
 175535	act
 175542	act
@@ -19323,7 +19324,7 @@ act
 175658	sta
 175661	act
 175665	act
-175674	sta
+175674	act
 175682	sta
 175690	act
 act
@@ -19340,8 +19341,8 @@ act
 175750	sta
 175752	act
 175756	act
-175763	act
-175776	act
+175763	sta
+175776	sta
 175778	sta
 175791	sta
 175819	act
@@ -19357,7 +19358,7 @@ sta
 175880	act
 175890	act
 175892	act
-sta
+act
 175903	act
 175910	act
 175916	sta
@@ -19385,7 +19386,7 @@ sta
 176100	act
 176108	sta
 176114	sta
-176118	act
+176118	sta
 176128	act
 176136	act
 176142	act
@@ -19402,7 +19403,7 @@ sta
 176298	act
 176300	act
 176307	act
-176310	act
+176310	sta
 176320	sta
 176323	act
 176336	act
@@ -19426,7 +19427,7 @@ sta
 176486	act
 176500	sta
 176508	sta
-176510	act
+176510	sta
 176517	sta
 176526	act
 176534	act
@@ -19478,10 +19479,10 @@ sta
 176950	sta
 176955	act
 176967	act
-176977	act
+176977	sta
 176987	sta
 176989	act
-176991	act
+176991	sta
 176998	act
 177005	act
 177013	act
@@ -19489,7 +19490,7 @@ sta
 177017	act
 177029	act
 177086	act
-177098	act
+177098	sta
 177101	sta
 177109	act
 177121	act
@@ -19498,12 +19499,12 @@ sta
 177153	sta
 177156	sta
 177161	sta
-177165	sta
+177165	act
 177173	act
 177179	sta
-177184	sta
+177184	act
 177186	act
-177188	act
+177188	sta
 177198	act
 177201	sta
 177214	act
@@ -19511,7 +19512,7 @@ act
 177224	sta
 177231	act
 177234	sta
-177239	act
+177239	sta
 177249	sta
 177262	act
 177264	act
@@ -19522,13 +19523,14 @@ act
 177283	act
 177288	act
 177290	act
+177297	sta
 177299	sta
 177303	act
 177309	act
 177313	act
 177331	act
 177336	act
-177339	sta
+177339	act
 177344	act
 177347	act
 177349	act
@@ -19551,7 +19553,7 @@ act
 177495	sta
 177508	sta
 177511	act
-177521	act
+177521	sta
 177555	sta
 177565	act
 177574	act
@@ -19577,7 +19579,7 @@ act
 177662	act
 177668	act
 177675	act
-177680	sta
+177680	act
 177686	act
 177689	sta
 177693	sta
@@ -19607,7 +19609,7 @@ act
 177907	act
 177916	act
 177930	act
-177936	act
+177936	sta
 177948	act
 177966	act
 act
@@ -19623,7 +19625,7 @@ act
 178006	act
 178010	act
 178013	act
-178024	act
+178024	sta
 178034	act
 178050	sta
 178058	sta
@@ -19649,7 +19651,7 @@ act
 178209	sta
 178216	sta
 178238	act
-178244	sta
+178244	act
 178251	act
 178256	act
 178260	act
@@ -19664,7 +19666,7 @@ act
 178310	sta
 178313	sta
 178315	act
-178320	act
+178320	sta
 178324	act
 178333	act
 178336	act
@@ -19700,11 +19702,11 @@ act
 178601	act
 178614	act
 178637	act
-178669	act
+178669	sta
 178672	act
 178676	sta
 178685	sta
-178691	sta
+178691	act
 178698	sta
 178706	sta
 178716	act
@@ -19721,10 +19723,10 @@ act
 178787	sta
 178798	sta
 178829	sta
-178837	act
-178840	sta
+178837	sta
+178840	act
 178846	sta
-178867	sta
+178867	act
 178877	sta
 178887	sta
 178892	act
@@ -19747,7 +19749,7 @@ act
 179036	act
 sta
 179047	sta
-179051	act
+179051	sta
 179058	act
 179062	sta
 179068	sta
@@ -19774,9 +19776,9 @@ sta
 179607	act
 179612	act
 179629	act
-179635	act
-179646	act
-179659	act
+179635	sta
+179646	sta
+179659	sta
 179668	sta
 sta
 179682	act
@@ -19794,12 +19796,12 @@ sta
 179782	sta
 179787	sta
 179795	sta
-179797	act
+179797	sta
 179803	act
 179806	act
 179812	sta
 179830	act
-act
+sta
 179837	act
 179856	sta
 179872	act
@@ -19833,7 +19835,7 @@ act
 180326	act
 180328	act
 180333	act
-180336	sta
+180336	act
 180341	act
 180353	sta
 180364	sta
@@ -19864,13 +19866,14 @@ act
 181225	act
 181239	sta
 181250	act
-181301	sta
-181310	sta
+181301	act
+181310	act
 181317	act
-181322	sta
+181322	act
 181329	act
 181341	sta
 181346	act
+181350	sta
 181389	act
 181401	sta
 181407	act
@@ -19878,6 +19881,7 @@ act
 181415	act
 181419	act
 181447	act
+181624	sta
 181680	act
 181694	act
 181725	sta
@@ -19924,9 +19928,9 @@ act
 182431	sta
 182441	sta
 182454	act
-182464	sta
+182464	act
 182469	act
-182471	sta
+182471	act
 182476	sta
 182482	act
 182494	sta
@@ -19949,17 +19953,17 @@ act
 182637	act
 182645	sta
 182668	act
-182678	act
+182678	sta
 182694	sta
 182709	act
 sta
-182714	act
-182727	act
-182743	act
-182751	act
+182714	sta
+182727	sta
+182743	sta
+182751	sta
 182756	sta
 182767	act
-182779	act
+182779	sta
 182783	act
 182785	act
 182792	sta
@@ -19967,13 +19971,13 @@ sta
 182806	act
 182813	sta
 182816	act
-182834	act
+182834	sta
 182844	act
 182849	sta
 182857	sta
 182860	sta
 182876	act
-182881	act
+182881	sta
 182900	act
 182903	sta
 182908	sta
@@ -19982,7 +19986,7 @@ sta
 182927	sta
 182944	sta
 182954	sta
-182968	act
+182968	sta
 182976	act
 182978	sta
 182986	sta
@@ -19990,16 +19994,16 @@ sta
 183001	sta
 183013	sta
 183028	act
-183035	act
+183035	sta
 183050	act
-183059	act
+183059	sta
 183065	act
 183069	act
 183074	sta
 183082	sta
 183089	sta
 183101	act
-183131	act
+183131	sta
 183140	act
 183143	sta
 183150	sta
@@ -20010,25 +20014,25 @@ sta
 sta
 183194	act
 183215	sta
-183230	act
+183230	sta
 183241	act
 183248	sta
 183258	sta
 183272	act
 183281	sta
-183293	act
+183293	sta
 183297	act
 183301	sta
 183312	act
 183318	act
 183326	sta
 183328	sta
-183343	sta
+183343	act
 183359	sta
 183369	act
 183373	sta
 183381	act
-183383	act
+183383	sta
 183392	act
 183397	sta
 183403	sta
@@ -20056,7 +20060,7 @@ sta
 183668	sta
 183688	act
 183702	act
-183705	act
+183705	sta
 183715	sta
 183724	sta
 183730	sta
@@ -20065,7 +20069,7 @@ sta
 183756	act
 183760	act
 183764	act
-183766	sta
+183766	act
 183776	act
 183781	act
 183792	act
@@ -20087,7 +20091,7 @@ sta
 183884	act
 183887	sta
 183892	act
-183899	act
+183899	sta
 183904	act
 183907	act
 183910	act
@@ -20120,7 +20124,7 @@ sta
 184327	act
 184330	sta
 184340	act
-184348	act
+184348	sta
 184356	act
 184362	act
 184369	act
@@ -20133,13 +20137,13 @@ sta
 184443	sta
 184448	act
 184453	sta
-184457	act
+184457	sta
 184473	act
 184475	sta
 184484	sta
-184492	act
+184492	sta
 184499	sta
-184504	act
+184504	sta
 184507	sta
 184515	sta
 184520	sta
@@ -20170,7 +20174,7 @@ sta
 184843	act
 184846	act
 184874	act
-184879	act
+184879	sta
 184883	sta
 184889	act
 184911	sta
@@ -20204,7 +20208,7 @@ sta
 185229	sta
 185236	act
 185253	sta
-185265	sta
+185265	act
 185282	sta
 185284	sta
 185289	act
@@ -20212,7 +20216,7 @@ sta
 185308	sta
 185315	sta
 185332	act
-185339	sta
+185339	act
 185343	act
 185346	sta
 185352	act
@@ -20222,8 +20226,8 @@ sta
 185371	act
 185379	sta
 185405	sta
-185415	act
-185419	act
+185415	sta
+185419	sta
 185425	sta
 185431	act
 185435	act
@@ -20233,7 +20237,7 @@ sta
 185453	act
 185457	act
 185461	act
-185463	sta
+185463	act
 185484	sta
 185488	sta
 185492	act
@@ -20266,7 +20270,7 @@ sta
 185800	sta
 185809	sta
 185814	sta
-185816	act
+185816	sta
 185820	act
 185822	act
 185826	act
@@ -20277,14 +20281,14 @@ sta
 185860	sta
 185872	act
 185875	sta
-185879	sta
+185879	act
 185889	sta
 185902	act
-185927	act
+185927	sta
 185943	act
 185948	act
 185955	sta
-185957	act
+185957	sta
 185974	sta
 185981	act
 185984	act
@@ -20332,12 +20336,12 @@ act
 186266	sta
 186270	sta
 186277	sta
-186284	act
+186284	sta
 186291	sta
-186297	sta
+186297	act
 186301	act
 186313	sta
-186318	act
+186318	sta
 186323	act
 186331	act
 186347	sta
@@ -20348,7 +20352,7 @@ act
 186392	act
 186397	act
 186411	sta
-186413	act
+186413	sta
 186417	act
 186422	act
 186434	sta
@@ -20362,7 +20366,7 @@ act
 186511	act
 186514	act
 186522	act
-186535	act
+186535	sta
 186540	act
 186542	act
 186555	sta
@@ -20401,7 +20405,6 @@ act
 186794	act
 186802	act
 186806	act
-186810	act
 186817	sta
 186824	sta
 186829	sta
@@ -20409,7 +20412,7 @@ act
 186840	act
 186845	act
 186858	sta
-186860	act
+186860	sta
 186869	act
 186885	act
 186897	act
@@ -20498,7 +20501,7 @@ act
 187397	act
 187399	act
 187408	sta
-187411	act
+187411	sta
 187415	act
 187420	act
 187431	sta
@@ -20531,7 +20534,7 @@ act
 187619	sta
 187634	sta
 187650	act
-187654	sta
+187654	act
 187660	sta
 187666	act
 187674	act
@@ -20539,18 +20542,18 @@ act
 187695	act
 187701	sta
 187706	act
-187711	sta
+187711	act
 187713	act
 187716	act
 187724	sta
-187726	sta
+187726	act
 187732	act
 187738	act
 187754	act
 187757	sta
 187759	act
 187764	sta
-187766	act
+187766	sta
 187771	act
 187776	act
 act
@@ -20577,12 +20580,12 @@ act
 187914	sta
 187918	act
 187924	act
-187927	sta
+187927	act
 act
 187932	act
 187937	sta
 187952	act
-187970	sta
+187970	act
 187977	sta
 187989	act
 188014	sta
@@ -20590,13 +20593,13 @@ act
 188026	act
 188033	sta
 188041	sta
-188048	sta
+188048	act
 188052	act
 188054	act
 188057	act
 188065	sta
 188078	act
-188115	act
+188115	sta
 188151	sta
 188166	act
 188179	act
@@ -20618,18 +20621,18 @@ act
 188303	act
 188315	act
 188330	sta
-188340	act
+188340	sta
 188389	act
 188395	act
 188400	sta
 188413	sta
-188421	sta
+188421	act
 188431	act
 188445	act
 188457	sta
 188473	act
 188488	sta
-188495	act
+188495	sta
 188537	act
 188548	act
 188561	act
@@ -20648,14 +20651,14 @@ act
 188712	act
 sta
 188721	act
-188725	act
+188725	sta
 188743	act
 188761	sta
-188763	act
+188763	sta
 188773	sta
 188787	act
 188822	act
-188848	act
+188848	sta
 188885	act
 188892	act
 188913	act
@@ -20680,7 +20683,7 @@ sta
 189125	sta
 189130	act
 189140	act
-189156	act
+189156	sta
 189180	sta
 189192	act
 189202	sta
@@ -20695,7 +20698,7 @@ sta
 189306	act
 189323	sta
 189344	act
-189384	act
+189384	sta
 189390	act
 189395	act
 189418	act
@@ -20709,6 +20712,7 @@ sta
 189469	act
 189477	act
 189513	sta
+189526	sta
 189541	sta
 189569	sta
 189586	act
@@ -20716,7 +20720,7 @@ sta
 189616	act
 189643	act
 189647	act
-189661	act
+189661	sta
 189705	act
 189720	sta
 189723	act
@@ -20724,7 +20728,7 @@ sta
 189739	act
 189741	act
 189746	act
-189749	sta
+189749	act
 189762	act
 189768	sta
 189771	act
@@ -20748,11 +20752,11 @@ act
 189938	sta
 189944	sta
 189949	act
-sta
+act
 act
 189957	sta
 189960	act
-189967	sta
+189967	act
 189969	act
 189972	act
 189985	act
@@ -20798,7 +20802,7 @@ act
 190248	act
 190252	act
 190255	act
-190265	act
+190265	sta
 190271	act
 190278	sta
 190280	sta
@@ -20827,7 +20831,7 @@ sta
 190446	act
 190454	act
 190461	sta
-190474	act
+190474	sta
 190478	act
 190485	act
 190488	act
@@ -20897,7 +20901,7 @@ act
 190949	act
 act
 190973	act
-190989	act
+190989	sta
 190993	sta
 190995	act
 191002	act
@@ -20923,10 +20927,10 @@ sta
 191144	act
 191165	act
 191176	sta
-191193	act
+191193	sta
 191197	act
 191223	sta
-191228	act
+191228	sta
 191232	act
 191242	act
 191263	sta
@@ -20961,7 +20965,7 @@ act
 191430	sta
 191436	sta
 191444	sta
-191446	sta
+191446	act
 191448	act
 191452	act
 191459	sta
@@ -20971,20 +20975,20 @@ act
 191483	sta
 191485	act
 191489	sta
-191498	act
+191498	sta
 191508	act
 191511	act
-191513	sta
+191513	act
 act
 191526	act
 191530	act
-191532	act
+191532	sta
 191534	act
 191539	act
 191542	act
-sta
 act
-191551	sta
+act
+191551	act
 191553	act
 191557	act
 191575	act
@@ -21001,7 +21005,7 @@ act
 191633	sta
 191643	act
 191690	sta
-191692	act
+191692	sta
 191700	act
 191702	sta
 191711	act
@@ -21033,7 +21037,7 @@ act
 191904	sta
 191914	sta
 191919	act
-191921	sta
+191921	act
 191923	act
 191947	act
 191965	act
@@ -21054,7 +21058,7 @@ sta
 192067	sta
 192071	act
 192091	act
-192101	act
+192101	sta
 192104	sta
 192106	act
 192110	act
@@ -21068,7 +21072,7 @@ sta
 192171	act
 act
 192179	sta
-192181	act
+192181	sta
 192198	act
 192201	sta
 192203	sta
@@ -21107,10 +21111,13 @@ act
 192420	act
 192428	act
 192434	act
+192441	sta
+192452	sta
 192460	act
 192468	sta
-192480	act
-192504	act
+192480	sta
+192501	sta
+192504	sta
 192508	act
 192511	sta
 192517	act
@@ -21128,12 +21135,12 @@ act
 192613	act
 192617	act
 192629	act
-192637	act
+192637	sta
 192647	sta
 192650	act
 192652	act
 192660	act
-192665	act
+192665	sta
 192674	sta
 192684	act
 192702	act
@@ -21159,7 +21166,7 @@ sta
 192797	act
 192804	act
 192806	act
-192811	act
+192811	sta
 192816	act
 192820	act
 192824	act
@@ -21202,7 +21209,7 @@ sta
 193073	act
 193079	act
 193081	sta
-193087	act
+193087	sta
 193096	act
 193099	act
 193104	act
@@ -21216,7 +21223,7 @@ sta
 193143	sta
 193148	act
 193154	act
-193158	sta
+193158	act
 act
 193165	sta
 193196	sta
@@ -21238,21 +21245,21 @@ act
 193321	act
 193325	sta
 193327	sta
-193329	act
+193329	sta
 193335	sta
 193337	act
-193341	sta
+193341	act
 sta
 193351	sta
 193360	sta
 193362	sta
-193364	act
+193364	sta
 193367	sta
-193370	sta
+193370	act
 193380	sta
 193382	sta
 193390	act
-sta
+act
 193409	sta
 193411	act
 193414	act
@@ -21281,9 +21288,9 @@ act
 193570	act
 193577	act
 193588	sta
-193590	act
+193590	sta
 193601	sta
-193608	act
+193608	sta
 193616	sta
 193624	act
 193626	sta
@@ -21344,13 +21351,13 @@ sta
 194036	act
 194043	act
 194053	act
-194055	act
+194055	sta
 194058	sta
 194061	sta
 194069	sta
 194077	act
 194084	act
-194086	act
+194086	sta
 194091	act
 194097	act
 194101	act
@@ -21384,7 +21391,7 @@ act
 194246	act
 194250	act
 194254	act
-act
+sta
 194259	act
 194269	act
 194276	act
@@ -21412,7 +21419,7 @@ act
 194479	sta
 194484	act
 194492	act
-194518	act
+194518	sta
 194564	act
 194574	act
 194607	act
@@ -21423,18 +21430,18 @@ act
 194663	act
 194669	act
 194677	sta
-194680	act
+194680	sta
 194719	act
 194726	act
 194745	act
 194750	act
 194761	act
-194772	act
+194772	sta
 194788	act
 194790	act
 194798	sta
 194805	act
-194810	sta
+194810	act
 act
 194818	act
 194828	act
@@ -21479,7 +21486,7 @@ act
 195129	act
 195147	act
 195155	sta
-195159	sta
+195159	act
 195167	act
 195170	act
 195198	act
@@ -21538,13 +21545,13 @@ act
 195515	act
 195524	sta
 195536	sta
-195539	act
+195539	sta
 195548	sta
-195553	act
+195553	sta
 195557	act
 195559	sta
 195565	sta
-195570	act
+195570	sta
 195574	act
 195579	act
 195587	act
@@ -21636,14 +21643,14 @@ act
 196255	sta
 196260	act
 196266	act
-196280	act
+196280	sta
 196282	act
 196297	sta
 196314	sta
 196326	act
 196334	act
 196345	act
-196350	sta
+196350	act
 196353	act
 196357	act
 196361	act
@@ -21651,6 +21658,7 @@ act
 196379	sta
 196401	act
 196403	sta
+196407	sta
 196412	sta
 196428	sta
 196437	act
@@ -21684,7 +21692,7 @@ sta
 196626	sta
 196631	sta
 196635	act
-196644	act
+196644	sta
 196647	act
 196650	sta
 196653	act
@@ -21698,7 +21706,7 @@ sta
 196693	act
 196698	sta
 196702	act
-196710	act
+196710	sta
 196713	act
 196717	act
 196724	act
@@ -21747,7 +21755,7 @@ act
 197000	act
 197015	act
 197018	act
-197027	act
+197027	sta
 197031	act
 197036	act
 197048	sta
@@ -21760,7 +21768,7 @@ act
 197093	sta
 197100	act
 197110	sta
-197112	sta
+197112	act
 197114	act
 197118	act
 197122	sta
@@ -21770,7 +21778,7 @@ act
 197158	sta
 197163	act
 197175	act
-197177	act
+197177	sta
 197182	sta
 197203	act
 197205	act
@@ -21783,7 +21791,7 @@ act
 197250	act
 act
 197254	act
-197256	act
+197256	sta
 197260	act
 197263	act
 197267	act
@@ -21850,7 +21858,7 @@ act
 197627	sta
 197630	sta
 197636	sta
-197638	act
+197638	sta
 197655	act
 197659	act
 197663	sta
@@ -21908,7 +21916,7 @@ act
 197975	sta
 197980	act
 197985	sta
-197990	act
+197990	sta
 197998	act
 198002	act
 198007	act
@@ -21948,10 +21956,10 @@ act
 198217	act
 198220	act
 198228	sta
-198238	act
+198238	sta
 198245	act
 198252	act
-198257	act
+198257	sta
 198274	act
 sta
 198281	sta
@@ -21971,7 +21979,7 @@ act
 198415	act
 198429	act
 198432	act
-198443	sta
+198443	act
 198445	act
 198458	act
 198464	act
@@ -22028,7 +22036,7 @@ sta
 198775	sta
 198779	act
 198785	sta
-198787	act
+198787	sta
 198800	act
 198805	sta
 198817	act
@@ -22044,7 +22052,7 @@ sta
 198896	act
 198905	act
 198919	act
-198921	act
+198921	sta
 198925	act
 198959	act
 198962	act
@@ -22062,16 +22070,16 @@ act
 199019	sta
 199022	sta
 199025	act
-199027	act
+199027	sta
 199033	sta
 199036	sta
 199038	sta
-199040	sta
+199040	act
 199045	act
 199050	act
 199074	act
 199092	act
-199095	sta
+199095	act
 199097	act
 199102	sta
 199117	act
@@ -22094,7 +22102,7 @@ act
 199217	act
 act
 199245	act
-199255	sta
+199255	act
 199260	act
 199268	act
 199271	sta
@@ -22135,13 +22143,13 @@ act
 199521	sta
 199524	act
 199533	act
-sta
+act
 199536	act
 199541	sta
 199544	sta
 199546	act
 199553	act
-199560	sta
+199560	act
 199564	act
 199571	act
 199576	sta
@@ -22208,11 +22216,11 @@ act
 200008	sta
 200029	act
 200038	sta
-200040	sta
+200040	act
 200043	act
 200055	act
 200087	act
-200101	act
+200101	sta
 200157	act
 200163	act
 200178	act
@@ -22227,7 +22235,7 @@ act
 200270	act
 200273	sta
 200281	act
-200283	sta
+200283	act
 200288	act
 200294	sta
 200303	act
@@ -22239,7 +22247,7 @@ act
 200340	act
 200347	act
 200354	act
-200359	sta
+200359	act
 200361	act
 200371	act
 200374	act
@@ -22270,7 +22278,7 @@ act
 200587	act
 200593	act
 200602	act
-200606	act
+200606	sta
 200614	sta
 200620	sta
 200627	sta
@@ -22322,7 +22330,7 @@ act
 200925	act
 200928	sta
 200960	act
-200965	act
+200965	sta
 200983	act
 200988	act
 200995	act
@@ -22354,7 +22362,7 @@ act
 201234	act
 201242	act
 201249	act
-201257	act
+201257	sta
 sta
 201265	act
 201285	sta
@@ -22374,13 +22382,13 @@ sta
 201361	sta
 201364	act
 201368	sta
-201372	act
+201372	sta
 201378	act
 201385	act
 201388	act
 201394	act
 201399	sta
-201418	sta
+201418	act
 201420	act
 201422	act
 201431	act
@@ -22450,10 +22458,10 @@ act
 201905	sta
 201912	act
 201956	act
-201973	act
+201973	sta
 202005	sta
 202007	sta
-202010	sta
+202010	act
 202019	sta
 202032	sta
 202040	sta
@@ -22487,7 +22495,7 @@ act
 202313	act
 202316	act
 sta
-202321	act
+202321	sta
 202330	act
 202337	sta
 202342	sta
@@ -22554,14 +22562,14 @@ sta
 202982	sta
 203016	act
 203027	act
-203041	sta
+203041	act
 203047	act
 203064	act
 203066	sta
 203104	act
 203111	act
 203131	sta
-203153	act
+203153	sta
 203157	sta
 203167	sta
 203173	act
@@ -22570,11 +22578,11 @@ sta
 203204	sta
 203229	sta
 203242	act
-203258	act
+203258	sta
 203293	act
 203312	act
 203320	act
-203342	act
+203342	sta
 203348	sta
 203365	sta
 203378	act
@@ -22608,7 +22616,7 @@ sta
 203534	act
 203536	act
 203543	sta
-203545	sta
+203545	act
 203565	act
 203576	sta
 sta
@@ -22623,6 +22631,7 @@ sta
 203681	act
 203684	act
 203700	sta
+203703	sta
 203709	act
 203713	act
 203724	sta
@@ -22642,8 +22651,8 @@ sta
 203847	act
 203851	act
 203855	sta
-203864	act
-203871	act
+203864	sta
+203871	sta
 203874	act
 203892	act
 203898	act
@@ -22651,14 +22660,14 @@ sta
 203936	sta
 203965	act
 203972	act
-203995	act
+203995	sta
 204012	sta
 204051	act
 204058	sta
 204061	act
 204076	sta
 204099	act
-204103	act
+204103	sta
 204132	act
 204151	act
 204157	act
@@ -22667,7 +22676,7 @@ sta
 204202	act
 204227	act
 204234	act
-204257	act
+204257	sta
 204289	sta
 204307	act
 204316	act
@@ -22675,7 +22684,7 @@ sta
 204346	sta
 204359	act
 204371	act
-204385	act
+204385	sta
 204423	act
 204431	act
 204451	act
@@ -22694,13 +22703,13 @@ sta
 204619	act
 204627	sta
 204635	sta
-204639	act
+204639	sta
 204645	act
 204658	sta
 204669	act
 204674	sta
 204686	act
-204700	act
+204700	sta
 204727	act
 204752	act
 204774	sta
@@ -22717,8 +22726,7 @@ sta
 204964	act
 204992	act
 205010	sta
-205013	act
-205025	act
+205025	sta
 205072	act
 205083	act
 205092	act
@@ -22728,9 +22736,9 @@ sta
 205173	sta
 205189	act
 205194	act
-205207	sta
+205207	act
 205210	sta
-205236	act
+205236	sta
 205241	act
 205254	sta
 205256	act
@@ -22754,7 +22762,7 @@ sta
 205472	act
 205507	sta
 205541	act
-205555	act
+205555	sta
 205590	act
 205602	sta
 205606	act
@@ -22779,7 +22787,7 @@ sta
 act
 205838	act
 205846	act
-205860	act
+205860	sta
 205875	sta
 205892	act
 205905	act
@@ -22867,7 +22875,7 @@ act
 206451	sta
 206464	sta
 206472	sta
-206483	act
+206483	sta
 206491	act
 206493	sta
 206498	sta
@@ -22892,10 +22900,10 @@ act
 206665	act
 206680	sta
 206701	act
-206752	act
+206752	sta
 206758	act
 206764	act
-206770	act
+206770	sta
 206773	act
 206783	act
 206805	act
@@ -22932,7 +22940,7 @@ act
 207116	sta
 207118	act
 207128	act
-207134	act
+207134	sta
 207138	act
 207150	act
 207161	act
@@ -22942,11 +22950,11 @@ act
 207192	act
 207198	act
 207200	act
-act
+sta
 207210	act
 207233	act
 207239	sta
-207250	act
+207250	sta
 207255	act
 207258	act
 207262	act
@@ -22955,33 +22963,33 @@ act
 207279	sta
 207299	sta
 207302	sta
-207305	act
+207305	sta
 207312	act
 207379	act
 207383	act
 207411	sta
-207413	act
+207413	sta
 207427	act
 207458	act
 207461	act
 207474	act
-207484	act
+207484	sta
 207501	act
-207506	act
+207506	sta
 207510	act
 207518	act
 207526	act
 207530	act
 207534	act
 207537	sta
-207543	act
+207543	sta
 207551	sta
-207555	act
+207555	sta
 207558	act
 207569	act
 207572	act
-207580	act
-207586	act
+207580	sta
+207586	sta
 207592	act
 207594	act
 207599	act
@@ -22990,7 +22998,7 @@ act
 207614	act
 207623	act
 207625	sta
-207633	act
+207633	sta
 207636	act
 207686	sta
 207696	act
@@ -22998,21 +23006,21 @@ act
 207714	act
 207718	sta
 207733	act
-207745	act
+207745	sta
 207750	sta
-207752	act
+207752	sta
 207774	sta
 207803	sta
 207822	act
 207824	act
-207835	act
+207835	sta
 207840	act
 207863	sta
 207866	act
 207878	act
 207883	act
 207895	act
-207916	act
+207916	sta
 207921	act
 207929	act
 207931	sta
@@ -23036,7 +23044,7 @@ sta
 208053	act
 208057	act
 208063	act
-208080	act
+208080	sta
 208087	act
 208089	act
 208097	act
@@ -23065,7 +23073,7 @@ sta
 act
 208272	act
 208278	act
-208283	act
+208283	sta
 208286	sta
 208297	act
 208301	sta
@@ -23085,8 +23093,8 @@ act
 208406	act
 208413	act
 208420	act
-208452	act
-208457	act
+208452	sta
+208457	sta
 208494	sta
 208507	act
 208516	act
@@ -23100,9 +23108,8 @@ act
 208552	sta
 208554	sta
 208562	act
-208566	act
+208566	sta
 208571	act
-208573	act
 208589	sta
 208591	act
 208597	act
@@ -23115,10 +23122,10 @@ sta
 208627	sta
 208639	act
 208648	act
-208667	act
+208667	sta
 208696	act
 208714	act
-208725	sta
+208725	act
 208731	act
 208735	act
 208740	act
@@ -23141,7 +23148,7 @@ sta
 208859	act
 208863	act
 208870	act
-208876	act
+208876	sta
 208881	act
 208889	sta
 208896	act
@@ -23150,18 +23157,18 @@ sta
 208919	act
 208934	act
 208939	act
-208947	act
+208947	sta
 208984	sta
 208989	sta
 209000	act
 209007	sta
 209014	act
-209028	act
+209028	sta
 209034	sta
 209049	act
 209062	act
 209066	sta
-209080	act
+209080	sta
 209120	act
 209128	act
 209132	act
@@ -23199,11 +23206,11 @@ act
 209461	sta
 209467	act
 209474	sta
-209476	act
+209476	sta
 209489	act
 209518	act
 act
-209551	act
+209551	sta
 209560	act
 209567	act
 209589	act
@@ -23218,12 +23225,12 @@ act
 209644	sta
 209679	act
 209682	act
-209689	act
+209689	sta
 209694	sta
-209699	act
+209699	sta
 209701	act
 209711	sta
-209728	act
+209728	sta
 209733	sta
 209737	sta
 209744	sta
@@ -23235,7 +23242,7 @@ act
 209823	sta
 209838	act
 209843	act
-209859	sta
+209859	act
 209874	sta
 209882	act
 209902	act
@@ -23291,11 +23298,11 @@ act
 210473	act
 210484	act
 210505	act
-210547	sta
+210547	act
 210558	act
 210567	sta
 210572	act
-210593	sta
+210593	act
 210597	act
 210617	act
 210632	sta
@@ -23328,11 +23335,11 @@ sta
 210939	act
 210949	sta
 210963	act
-210970	act
+210970	sta
 210972	sta
 210979	sta
 210990	act
-211004	act
+211004	sta
 211015	sta
 211020	act
 211024	sta
@@ -23357,6 +23364,7 @@ sta
 211320	sta
 211338	act
 211357	act
+211377	sta
 211385	sta
 211419	act
 211424	act
@@ -23369,7 +23377,7 @@ sta
 211509	sta
 211528	sta
 211550	sta
-211559	act
+211559	sta
 211610	act
 211639	sta
 211655	sta
@@ -23383,7 +23391,7 @@ sta
 211815	sta
 211831	sta
 211841	act
-211850	act
+211850	sta
 211860	act
 211866	act
 211894	act
@@ -23396,7 +23404,7 @@ sta
 211943	act
 211947	sta
 211957	sta
-211963	sta
+211963	act
 211977	act
 211980	sta
 211985	sta
