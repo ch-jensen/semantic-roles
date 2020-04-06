@@ -4,7 +4,7 @@
 @description=Causation annotations for verbs
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-27T11:13:29Z
+@dateWritten=2020-04-06T18:03:37Z
 
 49	caus
 90	caus
@@ -265,7 +265,6 @@ caus
 9543	caus
 9547	caus
 9570	caus
-9624	caus
 9680	caus
 9821	caus
 9832	caus
@@ -388,6 +387,8 @@ caus
 13856	caus
 13868	caus
 13904	caus
+14034	caus
+14045	caus
 14050	caus
 14090	caus
 14132	caus
@@ -462,7 +463,6 @@ caus
 15962	caus
 15980	caus
 15988	caus
-16025	caus
 16029	caus
 16072	caus
 16078	caus
@@ -599,7 +599,6 @@ caus
 21167	caus
 21201	caus
 21257	caus
-21285	caus
 21297	caus
 21299	caus
 21301	caus
@@ -609,9 +608,7 @@ caus
 21371	caus
 21387	caus
 21421	caus
-21478	caus
 21485	caus
-21492	caus
 21529	caus
 21564	caus
 21596	caus
@@ -629,7 +626,6 @@ caus
 21858	caus
 21867	caus
 21949	caus
-21967	caus
 22102	caus
 22113	caus
 22136	caus
@@ -644,7 +640,6 @@ caus
 22532	caus
 22591	caus
 22897	caus
-22961	caus
 23092	caus
 23107	caus
 23118	caus
@@ -790,8 +785,10 @@ caus
 27410	caus
 27468	caus
 27475	caus
+27491	caus
 27518	caus
 27530	caus
+27550	caus
 27610	caus
 27678	caus
 27726	caus
@@ -823,8 +820,6 @@ caus
 28567	caus
 28578	caus
 28589	caus
-28706	caus
-28737	caus
 28885	caus
 28890	caus
 28907	caus
@@ -851,7 +846,6 @@ caus
 29874	caus
 29894	caus
 29989	caus
-30009	caus
 30083	caus
 30092	caus
 30121	caus
@@ -882,7 +876,6 @@ caus
 30685	caus
 30753	caus
 30760	caus
-30793	caus
 30822	caus
 30841	caus
 30853	caus
@@ -1044,7 +1037,6 @@ caus
 36098	caus
 36105	caus
 36153	caus
-36168	caus
 36284	caus
 36327	caus
 36339	caus
@@ -1134,7 +1126,6 @@ caus
 39416	caus
 39558	caus
 39610	caus
-39666	caus
 39690	caus
 39704	caus
 39716	caus
@@ -1147,6 +1138,8 @@ caus
 40020	caus
 40024	caus
 40056	caus
+40095	caus
+40101	caus
 40123	caus
 40151	caus
 40168	caus
@@ -1354,8 +1347,6 @@ caus
 45650	caus
 45707	caus
 45715	caus
-45722	caus
-45730	caus
 45733	caus
 45769	caus
 45775	caus
@@ -1391,6 +1382,7 @@ caus
 46564	caus
 46579	caus
 46583	caus
+46631	caus
 46666	caus
 46675	caus
 46706	caus
@@ -1411,7 +1403,6 @@ caus
 47104	caus
 47155	caus
 47206	caus
-47250	caus
 47302	caus
 47343	caus
 47385	caus
@@ -1422,13 +1413,10 @@ caus
 47865	caus
 47869	caus
 47915	caus
-47925	caus
 48022	caus
 48026	caus
-48099	caus
 48103	caus
 48114	caus
-48120	caus
 48125	caus
 48145	caus
 48269	caus
@@ -1594,6 +1582,7 @@ caus
 52947	caus
 53000	caus
 53011	caus
+53016	caus
 53021	caus
 53030	caus
 53058	caus
@@ -1777,6 +1766,7 @@ caus
 56270	caus
 56272	caus
 56290	caus
+56295	caus
 56301	caus
 56313	caus
 56315	caus
@@ -2047,7 +2037,6 @@ caus
 63127	caus
 63140	caus
 63150	caus
-63159	caus
 63195	caus
 63202	caus
 63228	caus
@@ -2086,10 +2075,8 @@ caus
 63647	caus
 63653	caus
 63673	caus
-63686	caus
 63690	caus
 63703	caus
-63711	caus
 63715	caus
 63766	caus
 63771	caus
@@ -2128,7 +2115,6 @@ caus
 64252	caus
 64257	caus
 64261	caus
-64264	caus
 64302	caus
 64319	caus
 64375	caus
@@ -2145,9 +2131,6 @@ caus
 64491	caus
 64494	caus
 64507	caus
-64513	caus
-64516	caus
-64536	caus
 64539	caus
 64548	caus
 64554	caus
@@ -2163,7 +2146,6 @@ caus
 64679	caus
 64684	caus
 64689	caus
-64698	caus
 64701	caus
 64710	caus
 64716	caus
@@ -2202,9 +2184,9 @@ caus
 65091	caus
 65099	caus
 65105	caus
-65107	caus
 65111	caus
 65115	caus
+65124	caus
 65131	caus
 65142	caus
 65146	caus
@@ -2290,16 +2272,13 @@ caus
 66854	caus
 66870	caus
 66894	caus
-66954	caus
 66966	caus
 66980	caus
 66997	caus
 67008	caus
 67017	caus
-67038	caus
 67042	caus
 67044	caus
-67056	caus
 67058	caus
 67062	caus
 67067	caus
@@ -2393,7 +2372,6 @@ caus
 68345	caus
 68349	caus
 68384	caus
-68393	caus
 68403	caus
 68406	caus
 68418	caus
@@ -2471,14 +2449,9 @@ caus
 69596	caus
 69601	caus
 69641	caus
-69671	caus
 69775	caus
 69821	caus
-69826	caus
-70231	caus
-70305	caus
 70310	caus
-70317	caus
 70335	caus
 70366	caus
 70375	caus
@@ -2491,19 +2464,12 @@ caus
 71046	caus
 71055	caus
 caus
-71069	caus
 71079	caus
 71090	caus
 71123	caus
-71147	caus
-71163	caus
-71165	caus
 71522	caus
-71528	caus
-71553	caus
 71566	caus
 71571	caus
-71597	caus
 71601	caus
 71641	caus
 71686	caus
@@ -2538,18 +2504,7 @@ caus
 72146	caus
 72176	caus
 72204	caus
-72226	caus
 72251	caus
-72332	caus
-72364	caus
-72377	caus
-72430	caus
-72454	caus
-72516	caus
-72584	caus
-72638	caus
-72652	caus
-72705	caus
 72720	caus
 72731	caus
 72736	caus
@@ -2696,7 +2651,6 @@ caus
 78747	caus
 78760	caus
 78781	caus
-78789	caus
 78813	caus
 78895	caus
 78898	caus
@@ -2733,7 +2687,6 @@ caus
 79960	caus
 79969	caus
 79997	caus
-80031	caus
 80049	caus
 80063	caus
 80159	caus
@@ -2926,7 +2879,6 @@ caus
 85595	caus
 85598	caus
 85627	caus
-85631	caus
 85667	caus
 85694	caus
 85709	caus
@@ -2942,8 +2894,6 @@ caus
 86754	caus
 86804	caus
 86833	caus
-86848	caus
-86872	caus
 86996	caus
 87004	caus
 87023	caus
@@ -2957,7 +2907,6 @@ caus
 87140	caus
 87147	caus
 87162	caus
-87181	caus
 87204	caus
 87207	caus
 87225	caus
@@ -3198,7 +3147,6 @@ caus
 96131	caus
 96206	caus
 96418	caus
-96473	caus
 96498	caus
 96512	caus
 96524	caus
@@ -3472,7 +3420,6 @@ caus
 104500	caus
 104502	caus
 104537	caus
-104546	caus
 104600	caus
 104639	caus
 104672	caus
@@ -3520,7 +3467,6 @@ caus
 105629	caus
 105643	caus
 105661	caus
-105684	caus
 105738	caus
 105773	caus
 105797	caus
@@ -3702,7 +3648,6 @@ caus
 110863	caus
 110874	caus
 111006	caus
-111051	caus
 111064	caus
 111066	caus
 111082	caus
@@ -3808,13 +3753,11 @@ caus
 115131	caus
 115273	caus
 115372	caus
-115392	caus
 115405	caus
 115476	caus
 115484	caus
 115523	caus
 115571	caus
-115602	caus
 115621	caus
 115631	caus
 115744	caus
@@ -3859,7 +3802,6 @@ caus
 116885	caus
 116971	caus
 116995	caus
-117037	caus
 117085	caus
 117091	caus
 117106	caus
@@ -3897,7 +3839,6 @@ caus
 118582	caus
 118626	caus
 118639	caus
-118773	caus
 118782	caus
 118789	caus
 118795	caus
@@ -4078,7 +4019,6 @@ caus
 128487	caus
 128495	caus
 128535	caus
-128550	caus
 128574	caus
 128611	caus
 128652	caus
@@ -4134,6 +4074,7 @@ caus
 130819	caus
 130826	caus
 130831	caus
+130838	caus
 130845	caus
 130854	caus
 130864	caus
@@ -4177,11 +4118,9 @@ caus
 132592	caus
 132644	caus
 132659	caus
-132724	caus
 132747	caus
 132749	caus
 132793	caus
-132827	caus
 132832	caus
 132947	caus
 132971	caus
@@ -4255,7 +4194,6 @@ caus
 136580	caus
 136711	caus
 136715	caus
-136747	caus
 136763	caus
 136776	caus
 136813	caus
@@ -4408,7 +4346,6 @@ caus
 142417	caus
 142464	caus
 142479	caus
-142500	caus
 142578	caus
 142608	caus
 142665	caus
@@ -4525,7 +4462,6 @@ caus
 146925	caus
 146977	caus
 146983	caus
-147019	caus
 147087	caus
 147136	caus
 147140	caus
@@ -4549,31 +4485,30 @@ caus
 147661	caus
 147827	caus
 147886	caus
+147998	caus
 148012	caus
 148054	caus
 148088	caus
 148111	caus
 148122	caus
-148135	caus
 148375	caus
 148525	caus
 148580	caus
-148685	caus
-148694	caus
+148707	caus
 148750	caus
 148945	caus
 149047	caus
 149055	caus
+149100	caus
 149108	caus
+149124	caus
 149135	caus
 149144	caus
 149196	caus
 149349	caus
 149529	caus
-149558	caus
 149566	caus
 149592	caus
-149619	caus
 149656	caus
 149769	caus
 149826	caus
@@ -4586,6 +4521,7 @@ caus
 150075	caus
 150113	caus
 150133	caus
+150187	caus
 150211	caus
 150244	caus
 150285	caus
@@ -4611,7 +4547,6 @@ caus
 150982	caus
 151107	caus
 151135	caus
-151143	caus
 151149	caus
 151179	caus
 151184	caus
@@ -4676,7 +4611,6 @@ caus
 153268	caus
 153307	caus
 153536	caus
-153549	caus
 153598	caus
 153607	caus
 153614	caus
@@ -4723,6 +4657,7 @@ caus
 155275	caus
 155392	caus
 155409	caus
+155514	caus
 155638	caus
 155880	caus
 155945	caus
@@ -4744,7 +4679,6 @@ caus
 156659	caus
 156716	caus
 156730	caus
-156831	caus
 156884	caus
 156906	caus
 156975	caus
@@ -4789,12 +4723,14 @@ caus
 159040	caus
 159096	caus
 159098	caus
+159106	caus
 159214	caus
-159223	caus
 159465	caus
 159483	caus
 159501	caus
 159513	caus
+159583	caus
+159589	caus
 159603	caus
 159614	caus
 159642	caus
@@ -4836,7 +4772,6 @@ caus
 161588	caus
 161594	caus
 161663	caus
-161844	caus
 161858	caus
 161872	caus
 161880	caus
@@ -4967,6 +4902,7 @@ caus
 167352	caus
 167362	caus
 167370	caus
+167377	caus
 167382	caus
 167397	caus
 167414	caus
@@ -5039,7 +4975,7 @@ caus
 170771	caus
 170906	caus
 170937	caus
-171050	caus
+171026	caus
 171058	caus
 171066	caus
 171117	caus
@@ -5130,9 +5066,7 @@ caus
 175267	caus
 175293	caus
 175421	caus
-175466	caus
 175483	caus
-175535	caus
 175615	caus
 175665	caus
 175738	caus
@@ -5210,6 +5144,7 @@ caus
 179037	caus
 179047	caus
 179279	caus
+179361	caus
 179407	caus
 179508	caus
 179519	caus
@@ -5244,7 +5179,8 @@ caus
 181301	caus
 181310	caus
 181322	caus
-181389	caus
+181350	caus
+181624	caus
 181725	caus
 181748	caus
 181774	caus
@@ -5351,7 +5287,6 @@ caus
 185488	caus
 185541	caus
 185551	caus
-185584	caus
 185646	caus
 185665	caus
 185695	caus
@@ -5428,7 +5363,6 @@ caus
 188243	caus
 188258	caus
 188260	caus
-188278	caus
 188299	caus
 188303	caus
 188413	caus
@@ -5519,11 +5453,8 @@ caus
 192201	caus
 192203	caus
 192232	caus
-192267	caus
-192281	caus
 192372	caus
 192468	caus
-192517	caus
 192550	caus
 192582	caus
 192674	caus
@@ -5584,7 +5515,6 @@ caus
 195729	caus
 195733	caus
 195909	caus
-195946	caus
 196041	caus
 196131	caus
 196153	caus
@@ -5595,6 +5525,8 @@ caus
 196428	caus
 196487	caus
 196538	caus
+196574	caus
+196589	caus
 196614	caus
 196619	caus
 196644	caus
@@ -5644,7 +5576,6 @@ caus
 198052	caus
 198057	caus
 198066	caus
-198070	caus
 198075	caus
 198121	caus
 198127	caus
@@ -5652,7 +5583,6 @@ caus
 198275	caus
 198281	caus
 198410	caus
-198432	caus
 198552	caus
 198560	caus
 198617	caus
@@ -5667,7 +5597,6 @@ caus
 199160	caus
 199308	caus
 199339	caus
-199410	caus
 199685	caus
 199693	caus
 199706	caus
@@ -5695,7 +5624,6 @@ caus
 200890	caus
 200908	caus
 200995	caus
-201037	caus
 201179	caus
 201258	caus
 201292	caus
@@ -5727,7 +5655,6 @@ caus
 202081	caus
 202094	caus
 202117	caus
-202178	caus
 202194	caus
 202213	caus
 202218	caus
@@ -5735,7 +5662,6 @@ caus
 202292	caus
 202298	caus
 202378	caus
-202386	caus
 202392	caus
 202404	caus
 202413	caus
@@ -5752,7 +5678,6 @@ caus
 202725	caus
 202732	caus
 202747	caus
-202754	caus
 202759	caus
 202772	caus
 202784	caus
@@ -5849,7 +5774,6 @@ caus
 206816	caus
 206832	caus
 206869	caus
-207006	caus
 207061	caus
 207068	caus
 207074	caus
@@ -5975,8 +5899,6 @@ caus
 211797	caus
 211803	caus
 211815	caus
-211841	caus
-211860	caus
 212007	caus
 212027	caus
 212057	caus

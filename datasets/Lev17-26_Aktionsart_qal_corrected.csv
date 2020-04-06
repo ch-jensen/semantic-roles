@@ -32,7 +32,7 @@ PRC[,act,COMMUNICATION,
 PRM[,sta,EXTINCTION,causative
 QNH[,sta,TRANSFER,Cause someone not to have
 >PH[,act,CREATION,
-YWD[,sta,TRANSFER,Could be causative of possession
+YWD[,act,TRANSFER,Could be causative of possession
 SMK[,sta,MOTION,Causation of location
 NQM[,act,SOCIAL INTERACTION,
 GNB[,sta,TRANSFER,Cause someone not to have

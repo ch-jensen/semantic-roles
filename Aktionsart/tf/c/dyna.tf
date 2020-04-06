@@ -4,7 +4,7 @@
 @description=Dynamicity annotations for verbs
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-03-27T11:13:31Z
+@dateWritten=2020-04-06T18:03:39Z
 
 15	sta
 33	act
@@ -1560,7 +1560,7 @@ sta
 13666	sta
 13671	act
 13678	act
-13682	sta
+13682	act
 13686	act
 13691	sta
 13693	act
@@ -1569,7 +1569,7 @@ sta
 13706	sta
 13708	act
 13714	act
-13719	sta
+13719	act
 13722	act
 13725	act
 13730	act
@@ -1622,7 +1622,9 @@ sta
 14024	act
 14030	act
 14033	act
+act
 14037	act
+14045	act
 14048	act
 14050	act
 14056	act
@@ -1648,7 +1650,7 @@ sta
 14180	act
 14187	act
 14200	act
-14205	sta
+14205	act
 14208	act
 14211	act
 14216	act
@@ -3264,11 +3266,13 @@ act
 27474	act
 sta
 27489	sta
+27491	act
 27501	act
 27505	sta
 27518	act
 27525	act
 27530	sta
+27550	act
 27584	act
 27610	sta
 27638	sta
@@ -4752,6 +4756,8 @@ sta
 40080	act
 40083	sta
 40092	act
+40095	act
+40101	act
 40118	act
 40123	sta
 40130	act
@@ -5382,6 +5388,7 @@ act
 46615	act
 46618	act
 46628	act
+46631	act
 46634	sta
 46638	act
 46642	act
@@ -5954,6 +5961,7 @@ act
 53000	act
 53005	act
 53011	act
+53016	act
 53021	sta
 53030	sta
 53058	act
@@ -6312,6 +6320,7 @@ sta
 56270	sta
 56272	act
 56290	act
+56295	act
 56301	sta
 56313	sta
 56315	sta
@@ -7026,7 +7035,7 @@ act
 63287	sta
 63291	act
 63304	sta
-63308	sta
+63308	act
 63314	act
 63316	sta
 63320	sta
@@ -14040,6 +14049,7 @@ act
 130819	sta
 130826	sta
 130831	act
+130838	act
 130840	act
 130845	sta
 130854	sta
@@ -16093,6 +16103,7 @@ act
 147954	act
 147985	act
 147996	act
+147998	act
 148006	act
 148010	sta
 148012	sta
@@ -16174,6 +16185,7 @@ act
 148690	act
 148694	act
 148703	act
+148707	act
 148712	sta
 148725	sta
 148727	act
@@ -16214,10 +16226,12 @@ act
 149082	act
 149091	act
 149098	act
+149100	act
 149108	sta
 149112	act
 149115	sta
 149119	act
+149124	act
 149135	sta
 149144	sta
 149151	act
@@ -16344,6 +16358,7 @@ sta
 150175	act
 150180	act
 150185	act
+150187	act
 150194	act
 150199	act
 150207	act
@@ -16986,6 +17001,7 @@ act
 155473	act
 155500	sta
 155509	act
+155514	act
 155518	act
 155524	sta
 155527	act
@@ -17423,6 +17439,7 @@ act
 159096	sta
 159098	sta
 159103	act
+159106	act
 159115	act
 159117	act
 159119	act
@@ -17474,6 +17491,8 @@ act
 159513	act
 159551	act
 159575	act
+159583	act
+159589	act
 159602	act
 act
 159610	sta
@@ -18379,6 +18398,7 @@ act
 167362	sta
 167368	act
 167370	act
+167377	act
 167380	act
 167382	sta
 167385	act
@@ -18867,6 +18887,7 @@ sta
 170954	act
 170972	sta
 170974	act
+171026	act
 171036	act
 171038	act
 171050	act
@@ -19760,6 +19781,7 @@ sta
 179279	sta
 179339	act
 179346	sta
+179361	act
 179364	act
 179371	sta
 179407	sta
@@ -21679,9 +21701,11 @@ act
 196538	sta
 196540	act
 196562	act
+196574	act
 196580	sta
 196582	sta
 196586	act
+196589	act
 196594	act
 196600	sta
 196604	act

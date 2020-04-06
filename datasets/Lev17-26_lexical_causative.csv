@@ -76,7 +76,7 @@ JSR[_nif,caus
 JSR[_piel,caus
 JTR[_hif,
 JTR[_nif,
-JYQ[_hof,
+JYQ[_hof,caus
 KBS[_piel,caus
 KCL[_qal,
 KN<[_nif,
@@ -100,13 +100,14 @@ NF>[_hif,caus
 NF>[_qal,caus
 NFG[_hif,
 NG<[_qal,
+NGC[_hif,caus
 NGC[_qal,
 NGP[_nif,
 NKH[_hif,
 NPL[_qal,
-NQB[_qal,caus
+NQB[_qal,
 NQM[_qal,
-NQP[_hif,caus
+NQP[_hif,
 NTN[_nif,caus
 NTN[_qal,caus
 NV<[_qal,caus
@@ -120,8 +121,8 @@ NZR[_nif,
 PDH[_nif,caus
 PL>[_piel,caus
 PNH[_qal,
-PQD[_hif,caus
-PQD[_qal,caus
+PQD[_hif,
+PQD[_qal,
 PR<[_qal,caus
 PRC[_qal,
 PRH[_hif,caus
@@ -137,7 +138,7 @@ QWY[_qal,
 QYR=[_qal,caus
 R>H[_qal,
 RB<=[_hif,caus
-RB<=[_qal,caus
+RB<=[_qal,
 RDH[_qal,caus
 RDP[_qal,caus
 RGM[_qal,caus
@@ -172,7 +173,7 @@ ZBX[_qal,caus
 ZKR[_qal,
 ZMR=[_qal,caus
 ZNH[_hif,caus
-ZNH[_qal,caus
+ZNH[_qal,
 ZR<[_qal,
 ZRH[_piel,caus
 ZRQ[_qal,caus
