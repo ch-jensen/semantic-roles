@@ -4,7 +4,7 @@
 @description=Causation annotations for verbs
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-04-06T18:03:37Z
+@dateWritten=2020-04-14T13:19:39Z
 
 49	caus
 90	caus
@@ -373,9 +373,7 @@ caus
 13555	caus
 13611	caus
 13671	caus
-13682	caus
 13693	caus
-13719	caus
 13722	caus
 13741	caus
 13767	caus
@@ -393,7 +391,6 @@ caus
 14090	caus
 14132	caus
 14161	caus
-14205	caus
 14208	caus
 14251	caus
 14266	caus
@@ -2042,7 +2039,6 @@ caus
 63228	caus
 63239	caus
 63254	caus
-63308	caus
 63316	caus
 63320	caus
 63350	caus
@@ -2050,6 +2046,7 @@ caus
 63370	caus
 63384	caus
 63388	caus
+63390	caus
 63425	caus
 63474	caus
 63484	caus
@@ -2086,6 +2083,7 @@ caus
 63874	caus
 63881	caus
 63899	caus
+63916	caus
 63921	caus
 63923	caus
 63932	caus
@@ -2102,6 +2100,7 @@ caus
 64016	caus
 64031	caus
 64036	caus
+64067	caus
 64090	caus
 64120	caus
 64124	caus
@@ -2151,13 +2150,16 @@ caus
 64716	caus
 64736	caus
 64743	caus
+64745	caus
 64754	caus
 64759	caus
 64762	caus
 64767	caus
 64780	caus
 64784	caus
+64786	caus
 64795	caus
+64797	caus
 64803	caus
 64811	caus
 64828	caus
@@ -2207,6 +2209,7 @@ caus
 65402	caus
 65411	caus
 65489	caus
+65525	caus
 65532	caus
 65535	caus
 65552	caus
@@ -2277,6 +2280,7 @@ caus
 66997	caus
 67008	caus
 67017	caus
+67035	caus
 67042	caus
 67044	caus
 67058	caus
@@ -2387,7 +2391,6 @@ caus
 68514	caus
 68517	caus
 68521	caus
-68524	caus
 68531	caus
 68553	caus
 68560	caus
@@ -2402,7 +2405,6 @@ caus
 68651	caus
 68656	caus
 68666	caus
-68672	caus
 68680	caus
 68685	caus
 68704	caus
@@ -4911,7 +4913,6 @@ caus
 167532	caus
 167543	caus
 167556	caus
-167594	caus
 167633	caus
 167741	caus
 167763	caus
@@ -5232,7 +5233,6 @@ caus
 183826	caus
 183833	caus
 183836	caus
-183862	caus
 183887	caus
 183892	caus
 183899	caus

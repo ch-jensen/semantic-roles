@@ -33,7 +33,7 @@
 31,31,439685,>KL[,688462,y,y,688463,n,y,,,,
 32,32,439686,KRT[,688465,y,n,688466,n,y,688467,n,n,
 33,33,439689,NTN[,688473,y,n,688474,n,y,688475,y,y,
-34,34,439690,KPR[,688477,n,y,688478,y,y,,,,If souls represent human beings then the Undergoer is volitional. The Actor (the blood) is probably affected because it has to be manipulated.
+34,34,439690,KPR[,688477,y,y,688478,y,y,,,,If souls represent human beings then the Undergoer is volitional.
 35,35,439692,KPR[,688481,n,y,688482,y,y,,,,
 36,36,439693,>MR[,688485,y,n,688486,y,y,,,,
 37,37,439694,>KL[,688487,y,y,688490,n,y,,,,Undergoer not specific enough to be affected
@@ -55,7 +55,7 @@
 53,53,439717,VHR[,688548,y,y,,,,,,,
 54,54,439718,KBS[,688552,y,n,,,,,,,
 55,55,439719,RXY[,688556,y,n,688554,n,y,,,,
-56,56,439720,NF>[,688558,n,y,688559,n,n,,,,Undergoer1 is abstract so therefore not affected. The Actor is affected because he is in effect accountable for sin.
+56,56,439720,NF>[,688558,y,n,688559,n,n,,,,Undergoer1 is abstract so therefore not affected.
 57,0,439721,DBR[,688562,y,n,688563,y,y,,,,
 58,1,439722,>MR[,688564,y,n,,,,,,,
 59,2,439723,DBR[,688565,y,n,688566,y,y,,,,
@@ -129,7 +129,7 @@
 127,70,439817,>MR[,688835,y,n,,,,,,,
 128,71,439818,DBR[,688836,y,n,688837,y,y,,,,
 129,72,439819,>MR[,688839,y,n,688840,y,y,,,,
-130,73,439820,HJH[,688842,n,y,,,,,,,
+130,73,439820,HJH[,688842,y,y,,,,,,,
 131,74,439823,JR>[,688848,y,y,,,,688847,n,n,Undergoer should be moved to Undergoer1.
 132,75,439824,CMR[,688851,y,n,688850,n,n,,,,
 133,76,439826,PNH[,688855,y,y,688856,n,n,,,,
@@ -141,7 +141,7 @@
 139,82,439834,JTR[,,,,688877,n,y,,,,
 140,83,439835,>KL[,,,,688884,n,y,,,,
 141,84,439837,RYH[,,,,688889,n,y,,,,
-142,85,439838,NF>[,688893,n,y,688892,n,n,,,,The Undergoer is probably not affected but the Actor is.
+142,85,439838,NF>[,688893,y,n,688892,n,n,,,,The Undergoer is probably not affected.
 143,86,439839,>KL[,688891,y,y,688891,n,y,,,,
 144,87,439840,XLL[,688896,y,n,688895,n,y,,,,
 145,88,439841,KRT[,,,,688899,n,y,,,,
@@ -171,7 +171,7 @@
 169,112,439869,<MD[,688988,y,y,688989,n,y,,,,
 170,113,439871,FN>[,688993,y,y,688994,n,n,,,,
 171,114,439872,JKX[,688997,y,n,688998,n,y,,,,Is Actor affected or is he merely doing something towards his fellow? The Undergoer is probably not volitional because the event seems confrontational and therefore not positive.
-172,115,439873,NF>[,689001,n,y,689003,n,n,689002,n,n,
+172,115,439873,NF>[,689001,y,n,689003,n,n,689002,n,n,
 173,116,439874,NQM[,689005,y,n,,,,,,,Probably unaffected if it is an activity toward an unspecified object.
 174,117,439875,NVR=[,689008,y,y,689009,n,n,,,,
 175,118,439876,>HB[,689011,y,y,689012,n,n,,,,
@@ -253,7 +253,7 @@
 251,194,439965,NTN[,689297,y,n,689298,n,y,689299,n,y,
 252,195,439966,KRT[,689301,y,n,689302,n,y,689303,n,n,
 253,196,439967,QDC[,689305,y,y,,,,,,,
-254,197,439968,HJH[,689307,n,y,,,,,,,
+254,197,439968,HJH[,689307,y,y,,,,,,,
 255,198,439970,CMR[,689313,y,n,689314,n,n,,,,
 256,199,439971,<FH[,689316,y,n,689317,n,n,,,,
 257,200,439973,QDC[,689320,y,n,689320,y,y,,,,
@@ -287,7 +287,7 @@
 285,228,440013,R>H[,689429,y,y,689431,n,n,,,,
 286,229,440015,KRT[,,,,689435,n,y,,,,
 287,230,440016,GLH[,689438,y,n,689437,n,y,,,,
-288,231,440017,NF>[,689440,n,y,689439,n,n,,,,
+288,231,440017,NF>[,689440,y,n,689439,n,n,,,,
 289,232,440019,CKB[,689444,y,y,689445,?,y,,,,
 290,233,440020,GLH[,689447,y,n,689448,n,y,,,,
 291,234,440021,<RH[,689450,y,n,689449,n,y,,,,
@@ -295,10 +295,10 @@
 293,236,440023,KRT[,,,,689457,n,y,,,,
 294,237,440024,GLH[,689462,y,n,689460,n,y,,,,
 295,238,440025,<RH[,689465,y,n,689464,n,y,,,,
-296,239,440026,NF>[,689467,n,y,689466,n,n,,,,
+296,239,440026,NF>[,689467,y,n,689466,n,n,,,,
 297,240,440028,CKB[,689471,y,y,689472,?,y,,,,
 298,241,440029,GLH[,689474,y,n,689473,n,y,,,,
-299,242,440030,NF>[,689476,n,y,689475,n,n,,,,
+299,242,440030,NF>[,689476,y,n,689475,n,n,,,,
 300,243,440031,MWT[,689478,n,y,,,,,,,
 301,244,440033,LQX[,689482,y,y,689483,n,y,,,,
 302,245,440035,GLH[,689487,y,n,689486,n,y,,,,
@@ -322,7 +322,7 @@
 320,263,440055,RMF[,689553,n,n,689554,n,n,,,,Actor is probably not changing state - so not affected.
 321,264,440056,BDL[,689556,y,n,689555,n,y,689557,y,y,Undergoer2 is probably positively affected by the separation of clean and unclean animals
 322,265,440057,VM>[,689558,y,y,,,,,,,
-323,266,440058,HJH[,689560,n,y,689561,y,y,,,,
+323,266,440058,HJH[,689560,y,y,689561,y,y,,,,
 324,267,440060,BDL[,689567,y,n,689568,y,y,689569,n,n,
 325,268,440061,HJH[,689570,n,y,,,,,,,
 326,269,440063,HJH[,689577,n,y,,,,,,,
@@ -339,10 +339,10 @@
 337,8,440079,QRX[,689620,y,n,689621,n,n,689622,n,y,Undergoer1 is abstract and not affected
 338,9,440080,GLX[,689626,y,n,689624,n,y,,,,
 339,10,440081,FRV[,689630,y,n,689631,n,n,689628,n,y,The body is probably affected. But the tattoo is not. If anything it is effected.
-340,11,440082,HJH[,689633,n,y,689634,y,y,,,,
+340,11,440082,HJH[,689633,y,y,689634,y,y,,,,
 341,12,440083,XLL[,689637,y,n,689638,n,y,,,,
 342,13,440084,QRB[,689641,y,n,689640,n,y,,,,
-343,14,440085,HJH[,689644,n,y,,,,,,,
+343,14,440085,HJH[,689644,y,y,,,,,,,
 344,15,440086,LQX[,689648,y,y,689646,n,y,,,,
 345,16,440087,LQX[,689654,y,y,689650,n,y,,,,
 346,17,440088,GRC[,689651,n,y,689652,y,n,,,,Undergoer is also instigating.
@@ -416,7 +416,7 @@
 414,85,440182,>KL[,689917,y,y,689915,n,y,,,,Undergoer not specific
 415,86,440183,VM>[,689918,n,y,689919,n,n,,,,
 416,87,440185,CMR[,689923,y,n,689924,n,n,,,,
-417,88,440186,NF>[,689927,n,y,689928,n,n,689929,n,n,Undergoer2 is probably not affected because it is abstract
+417,88,440186,NF>[,689927,y,n,689928,n,n,689929,n,n,Undergoer2 is probably not affected because it is abstract
 418,89,440187,MWT[,689931,n,y,689932,n,n,,,,Undergoer is abstract so not affected
 419,90,440188,XLL[,689934,y,n,689934,n,y,,,,
 420,91,440190,QDC[,689937,y,n,689937,y,y,,,,
@@ -601,7 +601,7 @@
 599,28,440431,DBR[,690684,y,n,690683,y,y,,,,
 600,29,440432,>MR[,690685,y,n,,,,,,,
 601,30,440434,QLL[,690688,y,n,690689,n,y,,,,The reputation or status of the Undergoer is perhaps affected?
-602,31,440435,NF>[,690691,n,y,690692,n,n,,,,The Actor is probably not volitional because he is not benefitting from the event and it is hardly intentional.
+602,31,440435,NF>[,690691,y,n,690692,n,n,,,,
 603,32,440436,MWT[,,,,690697,n,y,,,,
 604,33,440437,NQB[,690694,y,n,690695,n,y,,,,
 605,34,440438,RGM[,690701,y,n,690700,n,y,,,,
@@ -837,7 +837,7 @@
 835,52,440714,NTN[,691598,y,n,691599,n,y,691600,n,y,
 836,53,440715,NGP[,,,,691602,n,y,691603,y,y,Undergoer2 is perhaps agentive
 837,54,440716,RDH[,691607,y,n,691606,n,y,,,,
-838,55,440717,NWS[,691609,n,y,,,,,,,Probably not volitional because it is negative.
+838,55,440717,NWS[,691609,y,y,,,,,,,Probably not volitional because it is negative.
 839,56,440719,RDP[,691612,n,n,691613,n,y,,,,
 840,57,440720,CM<[,691618,y,y,691619,n,n,,,,
 841,58,440721,JSP[,691621,y,n,,,,,,,
@@ -901,9 +901,9 @@
 899,36,440781,C>R[,691840,n,y,,,,,,,
 900,37,440782,BW>[,691843,y,n,691844,n,n,691845,n,y,Can also be rendered cause them to be afraid. Therefore Undergoer2 is affected
 901,38,440783,RDP[,691850,n,n,691849,n,y,,,,
-902,39,440784,NWS[,691852,n,y,,,,,,,
+902,39,440784,NWS[,691852,y,y,,,,,,,
 903,40,440785,NPL[,691855,n,y,,,,,,,
-904,41,440787,KCL[,691860,n,y,,,,,,,n
+904,41,440787,KCL[,691860,y,y,,,,,,,n
 905,42,440790,HJH[,691871,n,n,,,,,,,
 906,43,440791,>BD[,691874,n,y,691875,n,n,,,,
 907,44,440792,>KL[,691879,?,n,691878,n,y,,,,
@@ -920,9 +920,9 @@
 918,55,440803,ZKR[,691920,y,y,691921,n,n,,,,
 919,56,440805,ZKR[,691926,y,y,691925,n,n,,,,
 920,57,440806,ZKR[,691929,y,y,691928,n,n,,,,
-921,58,440807,<ZB[,691933,n,y,691931,n,y,,,,In the larger context the Actor is not Volitional.
+921,58,440807,<ZB[,691933,n,n,691931,n,y,,,,In the larger context the Actor is not Volitional.
 922,59,440808,RYH=[,691935,?,y,691936,n,n,,,,
-923,60,440809,CMM[,691938,n,y,691937,n,y,,,,
+923,60,440809,CMM[,691938,n,n,691937,n,y,,,,
 924,61,440810,RYH=[,691940,y,y,691942,n,n,,,,
 925,62,440812,M>S[,691947,y,y,691946,n,n,,,,
 926,63,440813,G<L[,691951,y,y,691949,n,n,,,,

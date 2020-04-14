@@ -4,7 +4,7 @@
 @description=Dynamicity annotations for verbs
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-04-06T18:03:39Z
+@dateWritten=2020-04-14T13:19:40Z
 
 15	sta
 33	act
@@ -7050,7 +7050,7 @@ sta
 63380	sta
 63384	sta
 63388	sta
-63390	sta
+63390	act
 63393	act
 63398	act
 act
@@ -7137,7 +7137,7 @@ act
 63903	act
 63912	sta
 63914	act
-63916	sta
+63916	act
 63921	sta
 63923	sta
 63932	sta
@@ -7159,14 +7159,14 @@ act
 64016	sta
 64019	sta
 64025	act
-64031	sta
+64031	act
 64036	sta
 64041	act
 64044	act
 64049	sta
 64056	sta
 64062	act
-64067	sta
+64067	act
 64071	act
 64074	sta
 64079	sta
@@ -7282,7 +7282,7 @@ act
 64730	sta
 64736	sta
 64743	sta
-64745	sta
+64745	act
 64749	sta
 64754	sta
 64759	sta
@@ -7290,10 +7290,10 @@ act
 64767	sta
 64780	sta
 64784	sta
-64786	sta
+64786	act
 64790	sta
 64795	sta
-64797	sta
+64797	act
 64799	sta
 64803	sta
 64811	sta
@@ -7411,7 +7411,7 @@ act
 65513	act
 65515	sta
 65520	act
-65525	sta
+65525	act
 65529	sta
 65532	sta
 65535	sta
@@ -7431,7 +7431,7 @@ act
 65622	sta
 65631	sta
 65638	sta
-65642	sta
+65642	act
 65647	act
 65653	sta
 65655	act
@@ -7596,7 +7596,7 @@ act
 67026	act
 67028	act
 67032	act
-67035	sta
+67035	act
 67038	act
 67042	sta
 67044	sta
