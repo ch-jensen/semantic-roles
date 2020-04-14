@@ -4,7 +4,7 @@
 @description=Dynamicity annotations for verbs
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-04-14T13:19:40Z
+@dateWritten=2020-04-14T14:50:54Z
 
 15	sta
 33	act

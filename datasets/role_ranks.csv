@@ -687,7 +687,7 @@
 689650,n,n,y,neg,Patient,Neutral,0,-2
 689651,n,n,y,,Patient,Patient,-2,-2
 689652,y,y,n,,Agent,Agent,5,5
-689660,y,y,y,,Affected Agent,Affected Agent,3,3
+689660,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
 65085,n,n,n,,Neutral,Neutral,0,0
 689663,y,y,n,,Agent,Agent,5,5
 689662,n,n,y,,Patient,Patient,-2,-2
@@ -1609,7 +1609,7 @@
 691559,n,n,n,neg,Neutral,Neutral,0,0
 691562,y,y,n,neg,Agent,Frustrative,1,5
 691563,n,n,n,neg,Neutral,Neutral,0,0
-691567,y,y,y,,Affected Agent,Affected Agent,3,3
+691567,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
 691566,n,n,n,,Neutral,Neutral,0,0
 691572,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
 691570,n,n,n,,Neutral,Neutral,0,0
@@ -1731,7 +1731,7 @@
 691786,n,n,n,neg,Neutral,Neutral,0,0
 691789,y,y,n,,Agent,Agent,5,5
 691790,n,n,y,,Patient,Patient,-2,-2
-691794,y,y,y,,Affected Agent,Affected Agent,3,3
+691794,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
 691793,n,n,n,,Neutral,Neutral,0,0
 691796,n,n,y,,Patient,Patient,-2,-2
 691797,n,n,n,,Neutral,Neutral,0,0
@@ -1792,11 +1792,11 @@
 691925,n,n,n,,Neutral,Neutral,0,0
 691929,y,n,y,,Volitional Undergoer,Volitional Undergoer,-1,-1
 691928,n,n,n,,Neutral,Neutral,0,0
-691933,y,y,y,,Affected Agent,Affected Agent,3,3
+691933,n,y,n,,Force,Force,4,4
 691931,n,n,y,,Patient,Patient,-2,-2
 691935,n,n,y,,Patient,Patient,-2,-2
 691936,n,n,n,,Neutral,Neutral,0,0
-691938,y,y,y,,Affected Agent,Affected Agent,3,3
+691938,n,y,n,,Force,Force,4,4
 691937,n,n,y,,Patient,Patient,-2,-2
 691940,y,y,y,,Affected Agent,Affected Agent,3,3
 691942,n,n,n,,Neutral,Neutral,0,0
