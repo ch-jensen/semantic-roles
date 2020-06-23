@@ -4,7 +4,7 @@
 @description=Causation annotations for verbs
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2020-04-14T14:50:52Z
+@dateWritten=2020-06-23T16:00:04Z
 
 49	caus
 90	caus
@@ -2078,14 +2078,12 @@ caus
 63647	caus
 63653	caus
 63673	caus
-63690	caus
 63703	caus
 63715	caus
 63766	caus
 63771	caus
 63775	caus
 63793	caus
-63818	caus
 63874	caus
 63881	caus
 63899	caus
@@ -2180,15 +2178,13 @@ caus
 64940	caus
 64959	caus
 64963	caus
-64984	caus
-65022	caus
-65024	caus
 65029	caus
 65052	caus
 65062	caus
 65071	caus
 65074	caus
 65078	caus
+65085	caus
 65091	caus
 65099	caus
 65105	caus
@@ -2198,7 +2194,6 @@ caus
 65131	caus
 65142	caus
 65146	caus
-65160	caus
 65169	caus
 65186	caus
 65196	caus
